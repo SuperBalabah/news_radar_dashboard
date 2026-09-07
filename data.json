@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-09-06T20:09:18.353399",
+  "last_updated": "2026-09-07T11:28:34.128232",
   "daily": [
+    {
+      "date": "2026-09-07",
+      "title": "新聞雷達 (2026-09-07)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-07-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普對伊開戰滿半年！BBC 深度盤點其地緣政績與全球通膨新隱憂",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzeTFiUktuaDBnUUdPRmU1bmN4WlZjbm9MZU9qRUtRU09nUnpObG9LeVQ1aVdPNmhOZkxFUl9ybW5QNzBzY2dlYW1qTmlxVmZrWWljWjVtOA?oc=5"
+        },
+        {
+          "title": "「我們早就預料到兒子會被殺死！」約旦河西岸局勢持續惡化，悲痛父親控訴以色列軍方致命推進",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zd3VDSWQzR2ppV0lwLTVIczlOSEsxb0VZRGJrZFF1SDZiOExXT2tta2Q3ck02ek5SN09VSGNhaFF2cXdwTmVWVGxrdC0tY1dvN1FXY1RlRQ?oc=5"
+        },
+        {
+          "title": "高金素梅助理涉貪「破壞電子手箍」逃匿！檢方火速發布緊急通緝，科技監控防逃網爆嚴重漏洞",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBISUoyVjdnZFJwNjZ6VlRCbjV3T2VEdDc2cnF0ekdLOHhuaUdGRnlqaG1IeWZSY240TWNIeGFMXzNPUTVsejJiQ2xGWl9Cbl9oV1g2ZW94ZXctMUgyamVR?oc=5"
+        },
+        {
+          "title": "經典台劇《一剪梅》與《飛龍在天》資深藝人龐祥麟離世享壽 80 歲！兒子悲痛證實遺願",
+          "source": "噓！星聞",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MZmVsX1l2TjBzVFB2YnNRTlRIbllaX0ROM20wc2xDYmRpczdaTDZvYzUyXzBzQ2FibXpEMVduVFRjU1h5YWRpenNORDZNc01XMmpISzF2QVJPUQ?oc=5"
+        },
+        {
+          "title": "瘋狂更新噱頭透支市場耐心！「模型審美疲勞」席捲矽谷，企業開始放慢 AI 導入腳步",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBkXh0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5"
+        },
+        {
+          "title": "獨立音樂人的 AI 生成神器！Google 於 Gemini 中全新上線 Lyria 3.5 音樂大模型",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0tDakQ1cS1zU2RZTnJTQXpCdkVMR0lPbUVPR0FDclVINm82SXNLVU1rbDJTb2VURmo3TGk3MVNCUXI0aXd1Qm11WGJzemJ1NGVJS3V4STVXQWR0ZGRtclNrM25fMi0wazRxMTNxY2V6NUg2LUttYkR1SmJyTl9QX0lyaHhJZEJaSlU1M2dn?oc=5"
+        },
+        {
+          "title": "超級電腦退位！Google 震撼發表 WeatherNext 3 全球氣候大模型，實現秒級高精預警",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1VQ0hUakJ5T0M1UUk4RlBPcUtBUWtsSC0wX2xIS3B6bDNyOEJqNWxfaHVETTZTNEFCeWpOMWl0VDM1V1JWT2U5RE5qY3NrUDBjSlNGcF9IUEZCWEI0MXk0QzRseU9pYlFEUUF4MGZNOXN2VWFlMmdCV3R4WGRhTXZKNHZvRFJUdDk3aFJNdHJXRm90eEhJaHNnaWNzOW9VWEE?oc=5"
+        },
+        {
+          "title": "媒體起訴大軍再加兩員！《西雅圖時報》與《Newsday》聯手起訴 OpenAI 與微軟版權剽竊",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+        },
+        {
+          "title": "漏洞誤報者的救星！Google 正式開源 AI 安全 Agent 框架 Mantis，實現全自動漏洞重現與修補",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/google-mantis-vulnerability-scan/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "設計巨頭的「AI 保全」上崗！Figma 官方揭秘其如何成功部署自主 AI 安全代理人保護核心系統",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/figma-security-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "mattpocock / skills (★255501)",
+          "source": "GitHub",
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "title": "cathrynlavery / diagram-design (★32951)",
+          "source": "GitHub",
+          "url": "https://github.com/cathrynlavery/diagram-design"
+        },
+        {
+          "title": "anomalyco / opencode (★205505)",
+          "source": "GitHub",
+          "url": "https://github.com/anomalyco/opencode"
+        },
+        {
+          "title": "急性骨髓性白血病（AML）一線去化療新曙光！NEJM 證實阿扎胞苷聯合維奈克拉療效顯著超越傳統強烈化療",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602804?af=R&rss=currentIssue"
+        },
+        {
+          "title": "攻克中青年尿毒症關鍵元兇！NEJM 證實雙靶點融合蛋白泰它西普（Telitacicept）顯著降低 49% 蛋白尿",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2608517?af=R&rss=currentIssue"
+        },
+        {
+          "title": "精神醫學突破！《自然醫學》深度解析人類大腦海馬迴分子特徵與重度憂鬱症的表觀遺傳根源",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04682-2"
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "title": "新聞雷達 (2026-09-06)",
