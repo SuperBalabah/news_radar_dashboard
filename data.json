@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-07T11:50:53.972430",
+  "last_updated": "2026-09-08T10:00:15.064764",
   "daily": [
+    {
+      "date": "2026-09-08",
+      "title": "新聞雷達 (2026-09-08)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-08-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "索馬利亞海盜乘地緣政治混亂重返非洲之角，全球航道安全面臨十年來最大威脅",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos"
+        },
+        {
+          "title": "校舍遭洪流沖毀前驚險大撤離！暴雨突襲東非各國，數百名學童死裡逃生",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qMUprWkpHbWxtQjE3OGVzMjV5Z1VBWlB6cnN0RGhUX2J0dEdGZEtiQ3FBYVctOHhRcWdhejRNQVJ6UUdtLVBwN2FKVm5haGhodm1RY1Fzcw?oc=5"
+        },
+        {
+          "title": "柯文哲獻金與背信案二審首度開庭，一審重判 17 年重刑成焦點，手牽陳佩琪微笑不語",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56ejVteEFLbGtldU04Z2R1cmNZbVVpTTdfTy13RGFPWG4zQW1zNXNHQ2JhTGJQNGVpaUtuT0VrcUdhc05oUmZlcm9SaGlmVW9y?oc=5"
+        },
+        {
+          "title": "食安與法庭攻防大戰！油品致癌物苯駢芘超標疑雲，泰山正式向中聯、南僑等四巨頭起訴追討 10 億元賠償",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81NGFwdHZvaEpEMVY2OFRZQ0FJRVZfa2s4Skh5RldEVkRwU0lxVFplWDI3Yi1kOF92Ykk5SGgwSV84Y2tDVkRmREQyLVllMzhTWDQtWFM3ZUhJOFg3Z0Z3?oc=5"
+        },
+        {
+          "title": "OpenAI 首席科學家發出「極度警示」：全球實驗室發展過快，人類尚未對 AI 的失控後果做好任何準備",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlHRm9SRG1hZ1FkV09zVl96OHU3UnRkZzlwbnc5T0M0UVpOZjMwcjFVVGJjNlBpQTYzakVCcFpfeVIwblAwUzZXUnoycnpRX3g1R20xRG1ILUFycjlfRi05NEhjTmpZeW11UERDbDM4TjhIODQyaEMwYnZ6X3FGeUdnNm1LdnhmRFRJakRHUHBUTmRnOXFyajV5LS0tcTBpWUNSLTlQR1ZnSS1ncFozeQ?oc=5"
+        },
+        {
+          "title": "60億美元併購交易驚傳泡湯！Anthropic 決定撤回對 AI 圖像與對話新創 Decart 的巨額收購提案",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5"
+        },
+        {
+          "title": "環保與航空科技史詩級斬獲！Google 旗下 AI 實測大成功，成功減少飛機所造成的 40% 氣候暖化暖流",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXdIaU1sN2NxYVQ0VV9KSzVwZFpZOU1FbGwtcXdjWUJrSXZSenBEQ2J1QTNBRXhnc205YjZzUjNQOGljQ0t5YnVNeDZNdVV0UkxxZ0ZnYndzT2xPTEhRa1VwdzFRZUpxUTdzNjkzOXQ0ZEh1MWFnc2hMeXc1ZW9XWXNQamhyS3JEMXJfYXNVNTFqSW02c2xiTENla0ZqbTI1?oc=5"
+        },
+        {
+          "title": "擺脫昂貴的雲端帳單！微軟發表 Project Zenith：首度實現將超大型 AI 模型直接在本機電腦流暢運行",
+          "source": "Help Net Security",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLW52X3gzdHJETElKVXRqSmhYV2dJUXRFdE1uQXQ5V19adlh0NTQ3Z2c3YS1YcjlOc2I2LXBkOW14ZEZudXlNUXE0ZUpHTlR6U1NOaE91eml6Y0EzMU83Z0lWWDFyUTVCOEZ0S3NyRzYzZDhJcnFkcElJVUh6VWlIWWZ3MXpqd3pkTjZBZUdPMkx5TS1G?oc=5"
+        },
+        {
+          "title": "前 Opendoor 創辦人神祕 AI 新創 NavigateAI 曝光，攜手 Meta 智慧眼鏡強力拯救營建業勞力荒",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/"
+        },
+        {
+          "title": "攻破30年前歷史防禦！安全研究員成功因式分解出 1990 年代頂級 CA 根憑證的 RSA 金鑰",
+          "source": "Hacker News",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html"
+        },
+        {
+          "title": "開源影像生成劃時代突破！LLaDA-Image 宣布釋出全套 100% 完全開源、無黑箱的影像生成模型訓練秘方",
+          "source": "arXiv.org",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UaWo5OE9pY21vQTdpUjBuZXh5dXZOUUhTWUhLLTlRdkJRX2FVZ0pEWFVKV3ZIVzY0bjJiRDctaVNLdjZSQUJ3?oc=5"
+        },
+        {
+          "title": "microsoft / markitdown",
+          "source": "GitHub",
+          "url": "https://github.com/microsoft/markitdown"
+        },
+        {
+          "title": "mksglu / context-mode",
+          "source": "GitHub",
+          "url": "https://github.com/mksglu/context-mode"
+        },
+        {
+          "title": "bytedance / deer-flow",
+          "source": "GitHub",
+          "url": "https://github.com/bytedance/deer-flow"
+        },
+        {
+          "title": "醫學 AI 的期中大考！《自然醫學》重磅揭示全球首批醫療 AI 臨床隨機對照試驗之核心經驗與啟示",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04633-x"
+        },
+        {
+          "title": "長期慢性腎臟病的隱形刺客！醫學專家警告：吃起來不鹹也可能鈉含量爆表，教你如何精準減鈉護腎",
+          "source": "JAMA (epochtimes.com)",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15SFp6Z3NNQXJYYWpkbXJ0U0NPTDJCVHdtaFhLZVg0eXR2cndMZGVTSzYyajRLRDl3d2NlNEdpSklXMm9GRF9EQmFqQWFVRWM2OEp0N0JnbVlvUEVFaUxLZU1vbjd5Z9IBZkFVX3lxTE15SFp6Z3NNQXJYYWpkbXJ0U0NPTDJCVHdtaFhLZVg0eXR2cndMZGVTSzYyajRLRDl3d2NlNEdpSklXMm9GRF9EQmFqQWFVRWM2OEp0N0JnbVlvUEVFaUxLZU1vbjd5Zw?oc=5"
+        },
+        {
+          "title": "重塑非洲臨床試驗監管藍圖！《自然醫學》分享 TRACE 倡議如何強力提升非洲醫學試驗之倫理與官方合規監督",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04645-7"
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "title": "新聞雷達 (2026-09-07)",
