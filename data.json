@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-08T10:00:15.064764",
+  "last_updated": "2026-09-09T10:28:50.150314",
   "daily": [
+    {
+      "date": "2026-09-09",
+      "title": "新聞雷達 (2026-09-09)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-09-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "颱風沙德爾狂炸中國東南沿海！數萬民眾緊急撤離，極端暴雨釀成嚴重淹水災情",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker"
+        },
+        {
+          "title": "伊朗飛彈大舉反擊逼近美艦！美軍愛國者飛彈狂射近百枚實施緊急攔截",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWWhEMEpTQ2pzOHZ6RUV5RE1JNVEtM2MtaG5KczRuRUxPaXd6SWpFSzlGQlJYc2hMdC1BV3R5NXdxWWtRdWhkZFJRV25Ld3NVaUt30gFYQVVfeXFMT0g23O..."
+        },
+        {
+          "title": "駭人聽聞人蛇集團！誘騙台灣人赴陸「活摘器官」暴賺泰達幣，檢方偵結起訴求處重刑",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQN0RuajFVZWpaMTEwS1FuaE8wRG8yczEyVzVsd1_EcGJlc3dKeUJ5dmhnUVBnZlZqSzBUMVBJWWprblRWTDdGa3JjZFpZb2tp0gFWQVVfeXFMUFJubXNEaFY2WUV6TE9OVEdVX2R6M2h5RHZZOEpnMGo0Y2FZRXlkSFRoYW9wcmVYmnlZTzZTN2FndGxQZmRmNzJMUVN6aEw4aVo1TjI4Umc?oc=5"
+        },
+        {
+          "title": "殘忍冷血！賓士男撞倒女護理師竟折返二度輾斃，律師痛批「撞死賠較少」都市傳說害慘人",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQcjJsX2FxY21melpXejZIaFE4cW5RUlZob0pwVnZMd21kcnVsYmZuQkFhTDhBak5Pa01QVGxuaWJ6Q0VhYUtCVlJXelV0X2JxOWY5MGJOakkzc0JSaE5nVjB4SVJBc2s5SUpIZHRZLU9XLXc8cTZiZW81QndVbzNkMDFHc0U5QzZoRUNIU0dheEw3dV9nOE9TblYxM3ZySThsWWRyZUhkLWpLVzBvaFZsVll0Zm9vQ1RYcXBmVFNqeGpqQzRQMllIY1hYZGpPbGVJTnpRbUFBdzdrcENYMm5pMDd0S3hnbFpLVVgxcUpMcHJMMWtGUlkyaVFxV2Y3Q0tqNVRKZnQ4OVVaRG54aktCZ2RpalBBcnp0ZWZwZ1RvSGNIa3luTWpqcV9JU2FhZlZvcTc3akg1Y2YwT0IxeFkxYmRmZHBLNXRmLUkxSW95TWxjbFZ5M04wblFtdmlnUjFJdlJQZld0OE9aaHJuekRkM0wtUl_JZ3pSVVpsZTdmbzNNVUhqcDZJSUVHWGp3N05lbjg4MlNXcFRiNW1DSUtfVVItLWJ2cEJO?oc=5"
+        },
+        {
+          "title": "OpenAI 宣稱在 88 小時內破解沉寂 90 年的千禧年數學難題，數學界震撼反彈",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXJPeE95TFB0a2xKSklPb0R2Yng2VG1LQkNPQl_rejZRZjJnVWV6YTY3NTI5dUlVQzNIckJtMDJ2WjZRRWd3UkxtMTViUUpCSXJLTFVRZklzZ2kzVTdrSWxlZ0dGZk5NZVNnandodkp5UG1JeG8teUxNMEdZR1FPbXVidjR6dw?oc=5"
+        },
+        {
+          "title": "賭上人類命運？Anthropic 頂尖安全研究員重磅離職，發出超智慧 AI 恐毀滅人類的終極警告",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFXBvNTN3NI5NEdRcUZPYWQ2OVBmQzFIU2dBbTdLcW0?oc=5"
+        },
+        {
+          "title": "用 AI 看穿全套基因密碼！Google DeepMind 發表 AlphaGenome Atlas，精準預測人類 90 億個 DNA 突變影響",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRzFBUHBlRE9uZF..."
+        },
+        {
+          "title": "財報劃分大重組！微軟宣布更改營收報告結構，全力展現 AI 對雲端與軟體的實質貢獻",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3hZTS1LdVBJWUFVdjZ2ZUpUQ1hSMkJJYkRzVmJ5aWZ1UHdscUtrLW1WNzR3eEZBYW9DZFhYWERCaEtYVTZ5VDExelNWZTRzTHRjaTRqX3B3VTNMWjRIRlNVSjdDSEFPU21lRzZmZWh3cXhlVUlmNXZmTnpZc3p0ajZPUjFoNlRNVlAtVmkwdkJiQUgtczJ2MkpSR3FuLXdQZ29v?oc=5"
+        },
+        {
+          "title": "AI 寫碼代理市場瘋狂吸金！Devin 母公司 Cognition 估值飆至 480 億美元，資本下注多強並立",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+        },
+        {
+          "title": "沙盒不等於安全！GitLab 發布重磅警示：AI 寫碼代理人可透過漏洞代理網路強行「逃脫沙盒」",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/gitlab-ai-sandbox-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "攻克 Whisper 語音幻覺！最新論文提出「幻覺空間投影」技術，大幅調降語音轉錄憑空捏造症狀",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrb2lnWTZxeUR6WWNFM25UYTF5ekU2MVdWaFFBQXI5N1VSb3RFMktrNUVETllHcndoSHVGUjJFS3pYR1g1MVBJ?oc=5"
+        },
+        {
+          "title": "ayghri / i-have-adhd (★31969)",
+          "source": "GitHub",
+          "url": "https://github.com/ayghri/i-have-adhd"
+        },
+        {
+          "title": "heygen-com / hyperframes (★48097)",
+          "source": "GitHub",
+          "url": "https://github.com/heygen-com/hyperframes"
+        },
+        {
+          "title": "jo-inc / camofox-browser (★10730)",
+          "source": "GitHub",
+          "url": "https://github.com/jo-inc/camofox-browser"
+        },
+        {
+          "title": "全面嚴管基因編輯！日本立法建立具約束力之「可遺傳基因編輯禁止令」，謹慎劃定人體胚胎界線",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04641-x"
+        },
+        {
+          "title": "孕婦貧血危害胎兒腦部發育！大型臨床研究證實母體貧血導致新生兒腦容量偏小並損害認知功能",
+          "source": "The Guardian World",
+          "url": "https://www.guardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds"
+        },
+        {
+          "title": "重新定義脂腫瘤治療標的！《柳葉刀》發表專題評論：呼籲將抽脂手術列為治癒性臨床方案",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01328-0/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-09-08",
       "title": "新聞雷達 (2026-09-08)",
