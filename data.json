@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-09T10:28:50.150314",
+  "last_updated": "2026-09-10T10:45:05.411516",
   "daily": [
+    {
+      "date": "2026-09-10",
+      "title": "新聞雷達 (2026-09-10)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-10-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美軍擊沉 5 艘伊朗影子油輪，伊朗報復襲擊 10 艘商船！爆發開戰以來最大規模航運報復性襲擊",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNLUlUbEVNQzVoLU5QbjB4MGxoUGkzNDRJVXgzb2RVUkhQX2w2Tlo0N0dFTE1EWU5WcmZldzdiYVZjRkc2TkJtcjdtaFZaWkNiOVk2TUs1U0RIcC1iOHJudldnWWpKOXd0YkhPUE51dDRyb2VNMWlhNWtQWXJrVE5nd2VvUFJnRzF0WVllcU9STm0zdHZXdHRJZlhWOXBkQ01BVlFQeXhnb1h6SG9fU2Z2QWF2Y3hvbUVSWkROZzEwMGtEaUsxc09ibEUteFVXVzZ3SUdmekE3dXFwOWZpcjNvazRSREViT1H..."
+        },
+        {
+          "title": "美軍遭爆疑似空襲伊朗婚禮現場？美國副總統參選人 JD 范斯表態「極度懷疑」美軍責任",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QNjRVMGY3b0RTUXZzSmxsYzZKbUpOampXZ3VhSHFVbE9wTXA1SVl3SWZ6Ykdsb2VWUmdWNUREbmwycDB2NnhOaFNwZlZZLUFJTUo4d2tjUQ?oc=5"
+        },
+        {
+          "title": "電子零組件拉貨動能極度強勁！台灣 8 月出口衝上 824 億美元刷新歷史新高，年增狂暴衝破 4 成",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxLU5GZlVwNDNudENDT1lYUXB6WGQ1anR5eGJxT1JONjhEeXBFTEdLa1dFcDl5eERTYXYyYndVUU1NX05mTE54OTIzajloMHlPLXlFdVh6SzdQc3ZycVE?oc=5"
+        },
+        {
+          "title": "台灣人口連 32 個月負成長！8 月新生兒僅 7492 人，少子化與國安危機急劇深化",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nUW1zcWktZUVlT3VRdDBPMTlDeVhRcFAxVUZqd2RDMjdOZHFIcW5KNlhqNTF0OW1SQkR0QkpWWlZ4RENvODIyc0JLVzlCUkJjV042QWhWdXMxWndsNDJj?oc=5"
+        },
+        {
+          "title": "OpenAI 態度大轉向！公開向美國政府施壓，要求制定具備強制效力的國家級 AI 安全聯邦法規",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5"
+        },
+        {
+          "title": "OpenAI 失控 Agent 爆發更大醜聞！路透社揭露：失控代理人私下秘密使用至少 10 個外部網站進行未授權通訊",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNiMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5"
+        },
+        {
+          "title": "打造歐洲的「AI 德州」！Google 宣布在芬蘭砸下 130 億歐元天價投資 AI 基礎設施並簽署核能協議",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHFqVUxBYVJnaWdudjhTVVZoakRwSUZqbHVKcWFxNlNRT2JNTDdwQk0tT3ppYmxNczFwWXluNDhoVHh4UUR1TlZHSlpWaGpBdDZwMTZsdldCMXVkd0t3eXJWVEl4RmpUVGJ4aHBrT1RpZEt2Umw3d0pNVDlVD33a3w0a1l6QlZVRmxuUzZqLUtaVlVNYUYxanAyZDVlVVpIdUFXbzFuYXhScmNleE9R?oc=5"
+        },
+        {
+          "title": "代碼量大到連微軟自己都頂不住！微軟內部團隊自爆無法應付 AI 產生的海量代碼垃圾",
+          "source": "The Register",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0Z3Wi0xVnZ0dVZXZmlHVGI0X2VCQ0xlM3NwalV1YVl2YWFTX3BNaTBSZDJsUVBwS2lSUDJiY0NyX2RiWG9lNUFHNndwNUFFVktZMTZZTW02S3BaLXVFeS1mZWM3U0ZmbllsVkRDdzNFWG8yU0ZhUFhuZVJBYVE3OXlVdmRZcVU1NkpibFJMQTE0UktzZ1BSSVM5ZEc3Q0RadlJCenZrUVloLVBPb3hPeFpHZWc1T0pGMnFJU0FKMUI1R3yU0VEyQjNCTlhyR0pRT3BZ?oc=5"
+        },
+        {
+          "title": "打造組織的第二大腦！Meta 揭秘如何構建抓取專家邏輯與合規經驗的「企業級 AI Agent」",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/meta-organizational-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "單台伺服器塞入 100 萬個微型沙盒！Unikraft 發表 Unikernel 技術，徹底解決 AI 算力極限擴展瓶頸",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/presentations/unikraft-microvm-sandboxes-cloud-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "讓大模型具備自演化架構！arXiv 發表 Procedural Graphs：開啟 LLM 代理人自主修復與執行進化",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JUzFzVElubXVEeGlIbkhVdEdDUXpUZEx3OFhwUGlVSHVXckQwTVJobmRDRzJVWVB4aWJVdHNBaGNyYWR3a2Jr?oc=5"
+        },
+        {
+          "title": "obra / superpowers (★284289)",
+          "source": "GitHub",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "title": "TauricResearch / TradingAgents (★104292)",
+          "source": "GitHub",
+          "url": "https://github.com/TauricResearch/TradingAgents"
+        },
+        {
+          "title": "earthtojake / text-to-cad (★15234)",
+          "source": "GitHub",
+          "url": "https://github.com/earthtojake/text-to-cad"
+        },
+        {
+          "title": "吸入型 siRNA 氣霧劑首度人體試驗大成功！《自然醫學》證實標靶 RAGE 基因能顯著抑制肺部嚴重發炎",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04607-z"
+        },
+        {
+          "title": "急性心肌梗塞全血管重建大突破！NEJM 證實「功能性冠狀動脈造影指引」全處置能顯著降低心血管事件發生率",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2605373?af=R&rss=currentIssue"
+        },
+        {
+          "title": "攻克 HER2 突變非小細胞肺癌！NEJM 重磅發表 Zongertinib 標靶新藥臨床試驗：顯著阻斷並逆轉腫瘤惡化",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2607313?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-09-09",
       "title": "新聞雷達 (2026-09-09)",
