@@ -1,11 +1,97 @@
 {
-  "last_updated": "2026-09-12T22:40:02.466986",
+  "last_updated": "2026-09-12T22:45:19.809797",
   "daily": [
     {
       "date": "2026-09-12",
       "title": "新聞雷達 (2026-09-12)",
       "file_path": "News_Report/新聞雷達/2026/09/2026-09-12-新聞雷達.md",
-      "headlines": []
+      "headlines": [
+        {
+          "title": "胡塞組織進攻升溫破壞紅海航道！恐重創全球貿易與國際油價",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xTlVXNmlId1ZCa2ZWVW9OSVFCd2ZaYkt5YXQwRXpHN09hX19SU0lhQzNxLUhCNnVtR2NUei1TSlN3aE5ScUVwTjJuUnpFbVFyeHk0S3liZw?oc=5"
+        },
+        {
+          "title": "六名尼日利亞籍主嫌遭押解至美國！涉嫌以網絡戀愛詐騙騙取美籍女性逾 600 萬美元",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams"
+        },
+        {
+          "title": "李四川新北首場造勢爆棚！高呼打造新北「雙巨蛋」，侯友宜站台力挺接棒",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNT2puZTVRdXBmcVMzS25JYjFoZmpEMk5ObkJsUmYtNGZPNW93R3pBT3NqS0xqQTFDVm85b2RBSUluSE5wcTJHQ2o2d1VEcVJvdmNZ0gFYQVVfeXFMT0xRMHdpa0h6MHhlZ2JTel94NHFFUENEQ0phRmRpazRINHUtUHg0dV91UHdnSzUxaUl4dXppakdiUFNNSHVHQzZ4SVpYOXBZb1NUbEZWbFJXaA?oc=5"
+        },
+        {
+          "title": "美方高度期待「無人載具條例」，行政院與立法院加速副署審查程序",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VbGluQUREXzM1Y21zNk5YQWVzTUp1cDdtZEhDTi1vX1J2RE9Ra3FGVUNCRGJweHp4a1VaNjJpdTB0MFIwMTAtaFd0allUVC140gFWQVVfeXFMTkJTQTdvUFVhSTZpYTNKdGVlSFM2cTBfTDVlZVBzcldQYjlQUkZEWHRSOTduQWxyWFhDSF82MnI1RjJLZW1mMExTdjVubENFM0tfYlp0aXc?oc=5"
+        },
+        {
+          "title": "Sam Altman 宣佈 OpenAI 今年不上市！直言在當前時機公開 IPO 屬「不智之舉」",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMm5STnhuRG5MT1ZWUjlzeWNqVEFGTjVxaVdkX2hzdjF5VElRajFKd3B2NlkwcWxNSFgwOVczb1l1N284MVlhNTRtMFN4T1dyY1NNVmdFeDBRQVdGWmZmRjdYM0NuTTN5SXhvbi1UaE55TDhCUmdINEZ6c2VobFZQX3ptWm9sTkE3UjB0bDZzNkxlLUxzZHE3N25R?oc=5"
+        },
+        {
+          "title": "Anthropic 執行長 Dario Amodei 撰文呼籲「放慢 AI 前沿研發腳步」，強調必須給安全防禦留下時間",
+          "source": "darioamodei.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5"
+        },
+        {
+          "title": "Gemini App 正式登陸 Windows 平台！Google 打開桌面端 AI 生態新入口",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDIzNzRDTUpFM3hvblJLcHFBX3B6YUV4OVR1Qmc5TnMwd1dfU1RleU9tdlNpb1R6NDBkRVdNX2lzX0lZd0ZER2l6UENTQkw1NEQ3N2xOOFBuLW5SWTFWMmFKdlJnc1RWdWhoaVpNWUFBU1l3Z3JQMjlYYUNOZXRHNFhOckYwR1ZUbXRpWA?oc=5"
+        },
+        {
+          "title": "微軟宣布擴建數據中心戰略，計畫在短期內將全球 AI 算力提升 3 倍",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXJMZWdoQWFkTHJITkVsNjYwWkFGZWk4OVlpdS1tTDNyMnNQd0Zicmx0UktIZDFxS0xwOFBlSkxOakxPZ2RjRy13UzduVWdhcUN3WVNXWWpjVEJXRFNpOFlVLUFHMEtxV0I3cWMwZWY1REVYTkhFNGZJZDJmTzRDSU9hQ3hmbGtNNzc3dFlPSzRwVjFlYnh3RDFLbW9UNUxMYWMwb2RTbldvZ3dWZHladi1TYkpnY0hZN1lN?oc=5"
+        },
+        {
+          "title": "OpenAI 震撼發布 GPT-6 Astra！主打極致代碼編寫、電腦自主操作與超長任務代理",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/openai-gpt6-astra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "NVIDIA 推出 Personal AI Router (PAIR)：支援在區域網路中動態分發多 Agent AI 任務",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "特斯拉宣布將於 10 月 1 日正式發表第二代神車 Roadster 跑車",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+        },
+        {
+          "title": "asgeirtj / system_prompts_leaks (★65330)",
+          "source": "GitHub",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks"
+        },
+        {
+          "title": "jihe520 / MathModelAgent (★5104)",
+          "source": "GitHub",
+          "url": "https://github.com/jihe520/MathModelAgent"
+        },
+        {
+          "title": "alsk1992 / CloddsBot (★2450)",
+          "source": "GitHub",
+          "url": "https://github.com/alsk1992/CloddsBot"
+        },
+        {
+          "title": "多發性骨髓瘤治療重大進展！《自然醫學》發表 Teclistamab 雙特異性抗體隨機二期臨床：高危癌前病變完全緩解率顯著提升",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04642-w"
+        },
+        {
+          "title": "海上移民潮暴發罕見嚴重變性血紅素血症！NEJM 詳細揭示化學物質污染引發之急救與臨床處置",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606487?af=R&rss=currentIssue"
+        },
+        {
+          "title": "術中冰凍切片診斷神級模型！《自然醫學》發表 CRISP 視覺病理大模型：全流程精準輔助外科手術決策",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04703-0"
+        }
+      ]
     },
     {
       "date": "2026-09-10",
