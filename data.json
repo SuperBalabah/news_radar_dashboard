@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-12T22:45:19.809797",
+  "last_updated": "2026-09-13T13:39:07.683164",
   "daily": [
+    {
+      "date": "2026-09-13",
+      "title": "新聞雷達 (2026-09-13)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-13-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "CNN 曝曼德海峽失守內幕！美與中東盟友撕破臉互嗆「豬隊友」，紅海護航聯盟爆裂痕",
+          "source": "udn.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53WjJDQ2h6SzZkMXpRV01RbzdMUDg4MHh2YUVRNWRvQ3pzMmtlTHpYai1DMjlDV0lnaHJWRXJTV0w4QUH..."
+        },
+        {
+          "title": "莫迪警告中國不要將設備與原料「武器化」！金磚峰會莫習會破冰背後各有盤算",
+          "source": "世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMM2xyLWJmOTA5LWp6endueWNoWGkxR2p6NXZTODE1N1A0X2tBaEhqRzIxX2NKQV94Skt6VGlael9WUEx5NE5ua1BaYlptbHgycDU1M1dGbE5xcF9fWi1yRVJn0gFnQVVfeXFMTnRaVzhPT3RTa3diVEJQY0dMek1vdEpvY0tIb3c5MDlCLXVhdjNPOWpaajlkNGpuMzVIa1lMNnpoaXU0elZnRDhFWnBiXzZZNWVUVjB0TmxpdUREcVgxM01NdXg3b0ttOA?oc=5"
+        },
+        {
+          "title": "桃機驚傳持刀挾持暴行！飛航系實習生抓準空檔「英勇奪刀」制伏歹徒解圍",
+          "source": "udn.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KX19SSXVfUF_rc3FBVVZyTnMxVXBKQnppR3VadENhU2RDXzFveTM0anY0UnRISFZjTXRkRlppV2pyVnZRczJMWjZxY2NKdkVp0gFWQVVfeXFMTmp0a05jenZfMlpmM1ROa29EQ1YtTDU3SFlGUDVNLVFzS29hRkdyT0toMFpvVEpxVnEwYVFEWWJ0aDF1bEhqXzJaTUtIem1VSkpiS0H..."
+        },
+        {
+          "title": "東北季風強勢殺到！北台灣狂灌豪雨變天，颱風「杜鵑」最快週三生成",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOUnZHSWRuOGVaU1kxQTY4cmpFUHViSHpzanpMUVNFWkRadmlnd2VNaUZKZGItSVhhNVR2ZHR3R3JlaUVlUkhZbzR1ckZpWngtVFNxQk1HTkNQRzdDS2hVOURDckNJNmdwbndPNXJkaGVRMEdIZTVyTVJCcmRzaktxTVl0d2JBNS1pQUlpX2d6MkdiS1UrTmNfV2RVZXYzcE44cnNKUDNvbVBueTJseXhqSVVEYVBrNDhmRUNraUNfT1F4dE92WmpSbC0xY1BDU0JVOWdaeUFkSzRyMzZ5YlFJd2tNQXRSZldNR183R0w1ZUtQc0I3Y296ZDktRGFPdzAyamcwOHZMQ2FVSXVxZFZZMDViamFDN1VNYmhOdUZ5bnpPdWtaX1VxR2UzbGJpOHdMRENrUGdLWTF1QW54UHJSY0dYcWEyTzg?oc=5"
+        },
+        {
+          "title": "Anthropic 首次發布 AI 濫用調查報告！揭露 Claude 被用於網路戰、國家級間諜與生物武器研發",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5"
+        },
+        {
+          "title": "Google 重組 AI 安全團隊！將「AI 責任與倫理部門」移出 DeepMind 劃歸中央合規體系",
+          "source": "timesofindia.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNNThwc2diWlpST1FabXhaLUJubi13YnJOZVNDbkowZ05CcGM1Sk83V2dBNU5Ubl8zdXpoV1dlQXkxdWpLU2g4cjZOOU5LZ185SWdmNXU4bHFfc29MUjdmb0VweEg2OTluT3cyblJYczllOG9UMHFiWmljUExYNmFMb2NNVHdfdDNJT0hnYW9LX3p6eW9HQW1pazNVTWRNLUE2UThDSDlSaE00ZlNHNzYwRndCZFBSdUY3SmhGcVBxYXVyd3FjZ2d1U3pnLWVrOHMteE9IZnA1JnJJUGJwY1p3M2lfa3dpZEI2S1l2Z3djc1JLSXBqVTdEMFc2ZHRUam1PWjlIVFg2dDhncmZ0b3R3NlJxdkFycmwzVi1mVXRHNFFiZXFSMFlMd3VQbGs2eFZVQ2czZ2NtR2tINGlj0gHCAkFVX3lxTE1lZWNZZkNmczNKVEt2N1p1QnhxWGV0U29DcWVWYnE3dFdlM2xDZ3BpcENQNlVRY0Itd2JwTk1kU3NiVnlIQXBZaXlLVktvRE83cm9scm1pT3JZdFhwMTdUYXQyQ0ppYURxUnBpS29sb0diMjItNnFRczJ6SWFLOHRtVnJXS0ZnUVlDcUw3SU81QVlSWTdmdXpXT0JwQk0tV05OQXBLRWROUWxUT1VFbFIzM1BiRURfZFBfWWwzcDVmNlllWU5qdEF2eHdUT1dTSFB4bmtaVkZieUVYMDBMNHVWN0ZOR3pfUm5sT0RjM2JpV3l1T3gyYXN0RC1SUnZIczZuS2QxWERIRzFUWFh5QmlUcEM3YjBBeEVPX2hoUGhjOHc5Q3JTLWhoS2dQbUczYTMxVVhaamJNbXo2OWpnQnNsWEE?oc=5"
+        },
+        {
+          "title": "微軟 Copilot 迎來震撼升級！納德拉宣佈將 xAI 的 Grok 模型全面整合至 Copilot 陣容",
+          "source": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWRybU5TQ0ZqYnVGWFFGMk5wbS1kQlRpVHJ6d3pqQnE3MmRMZmFUT3kxbmhhTnVQdy1YQVVXSFJOQWdUVGFoSVc4cC1qWmp1cElETGZaYWxyanp0ZzdSUzBUUDNNRzB2cXZLZWJSVG9qZGhTcnFnbW1JNWc1Ulo1czdVU2dzN01pQ19oTGtPU21SbDVVWF9ZM3h5WU5sQlgtS0VJZnlSMVBnODlKV0k3NmhEX29BRXBtejJuc20xbW15LTjSAcgBQVVfeXFMTWEwX0VUbmdJdEM5YjNzSGpWc0NpTkYweGdEOVk0b2s2RHBwbkJyQzI0a25VSE9mLWhTVWtsLXN3NUExVXdkd0lMdGhYOWdYRHprN2tYUzBIZU9aTUFZV1RnN0ZEbEJRMW5QZDU2NTUtaUNzWmZSZFNJRDlJeDc0ZjZuQVVsT2ZnaDZLUjdlOGVzdDQzd3hyX1FSVlhhMlVVMEE3dzRuZVhnRzFuc2UwNFU0TGlabGlFOFlJMVFBSTRITTdISFpZZEM?oc=5"
+        },
+        {
+          "title": "WordPress 母公司 Automattic 董事會宮鬥劇反轉！創辦人 Mullenweg 逼退董事會力壓政變復職 CEO",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+        },
+        {
+          "title": "AI 代理人成了「吃電怪物」！矽谷全面轉向 Agent 應用，引爆資料中心電力擠兑危機",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/"
+        },
+        {
+          "title": "GitHub Copilot 發表 Project HydraFusion！動態跨模型智能路由，打造頂級寫碼代理人",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "人類建造的最後一代 AI？arXiv 最新論文發表「真·遞迴式自我改進（RSI）」演算法藍圖",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TNXY4VlpYSDU3SU9hd2FFUWlfOGlaamJHb1ZWbUFJRE5NL2I0R1h0b3dUYi1TY3NYcnV3YXloMkVvay0xTQ?oc=5"
+        },
+        {
+          "title": "JustVugg / colibri (★28864)",
+          "source": "GitHub",
+          "url": "https://github.com/JustVugg/colibri"
+        },
+        {
+          "title": "vxcontrol / pentagi (★23666)",
+          "source": "GitHub",
+          "url": "https://github.com/vxcontrol/pentagi"
+        },
+        {
+          "title": "tech-leads-club / agent-skills (★5388)",
+          "source": "GitHub",
+          "url": "https://github.com/tech-leads-club/agent-skills"
+        },
+        {
+          "title": "非小細胞肺癌免疫治療的 AI 臨床導航！《自然醫學》發表可解釋多模態 AI 決策系統",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04488-2"
+        },
+        {
+          "title": "攻克輸血依賴型重度地中海貧血！《柳葉刀》發表 Mitapivat 小分子丙酮酸激酶活化劑臨床試驗",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01609-0/fulltext?rss=yes"
+        },
+        {
+          "title": "孕婦補維他命 D 竟能讓孩子更聰明！丹麥長達 10 年追蹤：高劑量補充顯著提升兒童記憶與認知表現",
+          "source": "JAMA (香港01)",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPUTc3SUFsc09WNEN0UEdsQjFUUEQwY0FjcjcxV0VHbmFDMHU1dlFRaDFxMmczX0ZhTS16eEhoekJFdFZxRGlMS3VrQUdxbDlpVURiVHRGMWlHZkxURk53eFJ4c0ZwdUYxNTRtTEdFVzlCQV_GUE44SXNsTGVSTmFUdEFMNVJaVjB6c1Y2X1dkQ0R4dFVDUUVzbUdPVHlkU1EwdmR3ckNHSHpmQy1DWWdna3M4OW90Nk5QbVNINXV4SUR3QmFJa1lwWlotNGd3Y1VJdTNhMVNZQ0lsVHlGWjFTa2xQOC0wbmF5eHpUbUpYczZpd1VYNlFXRGlNb0l4LVdmUXNDUU11U05mS3JBUzM0ZnJnVHdneWN2NGpfTzA4Ym9PQmxPdWRiTXpkb2FwTG9fYUdYNVdWSlVNbk5veGdSNkVVLUpZMGJzeFhGUjZvZEZ3R1hnMkYyNTFzNlpkZGNOeFJBcEJHZUVzWGJfRHFyUW04MXNwUnhQUUlsOV9kQWU0c3dpQ2ZRZWRuaUYwNFNHVjVVbkC5RE92T29V?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-09-12",
       "title": "新聞雷達 (2026-09-12)",
