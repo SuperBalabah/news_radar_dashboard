@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-09-14T09:41:02.111427",
+  "last_updated": "2026-09-14T09:45:03.687251",
   "daily": [
+    {
+      "date": "2026-09-14",
+      "title": "新聞雷達 (2026-09-14)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-14-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "北約秘書長發出重磅警告：中國若發動攻台，恐要求俄羅斯在歐洲全面牽制西方勢力",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcm9PemxTU1k4bTNFMmNhMHEyYlFiV2JpX2x4VDFZNW5IbWp1bXczT3JGU1lvREhXdXlUdldLOFFaazUtTFlmUGZ4eUlrc015alZuSU51YVZidTREbkZJ?oc=5"
+        },
+        {
+          "title": "全球打擊 FGM 迎來歷史里程碑！啟動 1550 萬美元專項基金發動終結女性割禮狂潮",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable momentum-to-end-fgm-worldwide"
+        },
+        {
+          "title": "中國出入境法規新規 9/15 強硬上路！陸委會示警「持台胞證視同中國公民」，五類國人恐有去無回",
+          "source": "風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rMkl6cG1UU0Q0bTlQRlprai1iTlBxcmRMNUw1c3FMaUc0MlNNQTBHaENzRVFUZzg2cGV2YUZuVm5UdGV6N2xCYXZOWDRHNlha?oc=5"
+        },
+        {
+          "title": "蔣家身世百年謎團翻篇？黃清龍揭郭禮伯臨終告白，蔣萬安回應：四年前已說明",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFPeVGhsSnNQR2hMcWNNbGdJQXlKQncwN1ZpcDVvSzRhWXFtVnZHaTlqVEM0UXVKVE9VUEYzNlZlaE55NHdyVDNDYUZSRkhXM3hMSkRkU1RnMnVnRXVWZXM4aFc2TERjcUlvdUHSAW9BVV95cUxPY2tFbGl0aVZJSGFrYmF4cExiMmJOazJoTkZQNE5zMzNFUUhtbHhjWDlobW5KMk9mb2JZY1ZWM3B5ZmkzSVNsQKHw..."
+        },
+        {
+          "title": "軟體巨頭與金融資本狂賭！軟銀緊急籌集 119 億美元天價貸款，全力注資 OpenAI 融資案",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEMxeXVSa29wMkM4aVJMNWFSd3NTMUtXU1czYjVreEx0eGJyOXc3VGE0X1hlWVpPS2FzZ3huZWY1eHprdzI0Ykw4Y210WEk0SUNxdGRzZ043N1X2X3..."
+        },
+        {
+          "title": "走向上市走鋼絲！Anthropic 敲定赴納斯達克 IPO，連續兩季實現盈利打臉「AI 燒錢論」",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWFqQXlMTHZpSkhROE1iQTNDUEtibHVrRFNpRmdjNF9GMU91WFpWZWo0YU9fNEU0c3pvUnFsNnYxQWVvX285dFVEa2x4RUtySFNsR2dHaDJoTkJja2hWMW5kLUlxYl9sWWpBbUxTbzltTllJY1ZvSzBxOWEyRkp3czZpRGFjWVpKSjVtbFdHdk83ekpHN1drMzJFU1E3UXFwNjhlc05abWtzZw?oc=5"
+        },
+        {
+          "title": "2000 億美元豪賭開始大回收！Alphabet 宣布 AI 資本支出迎來轉折，營收回報大爆發",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZm1sdThOb3EwekRKVHhHYU9ULUxEVDJ3cU5iVThEeFJsdVpWcXF1QzhZam5kVGZOeGtpWXhtellLWVZWZjl5YUlPZDZ6WWZsOVNsTGFSZ2lzTF9ueERDMWR0RkZpeXRVUmhHZG1SYnBVaHViejBiRjIyN1lpWFy9..."
+        },
+        {
+          "title": "巨頭秘密閉門會議！OpenAI、Anthropic 與 Google 私下密商建立全球統一 AI 安全標準機構",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUtGTGdnVXR2Z0d1QTJ0X0xET2tmTllHRmVYVVZ6Z01WcklGWU9YUWRIRU12QXZFMlJtQkg2ZTNEOUdaQ20wNXE2dE1rbE1mMzdkN0NMS05uUmk2Y3RtdS1ERUlsWVBwTUF5YXdKcWh2QXptbG85ZWE3Z1UteAFex..."
+        },
+        {
+          "title": "甲骨文創辦人 Larry Ellison 突然取消 75 億美元股票拋售計畫，市場信心暴增",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/"
+        },
+        {
+          "title": "沉寂 370 年的歷史懸案終結！Fable 5.1 AI 成功破譯經典古老密碼 Cyphral Distich",
+          "source": "Hacker News",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich"
+        },
+        {
+          "title": "告別手機號碼綁定！Signal 宣布引進「零知識證明」技術，實現完全匿名加密註冊",
+          "source": "Hacker News",
+          "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10"
+        },
+        {
+          "title": "告別傳統 RAG！知識圖譜（Knowledge Graphs）成為 AI Agent 從檢索跨入推理的核心底座",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "ever-co / ever-gauzy (★5458)",
+          "source": "GitHub",
+          "url": "https://github.com/ever-co/ever-gauzy"
+        },
+        {
+          "title": "melgarafael / DeskcommCRM (★2357)",
+          "source": "GitHub",
+          "url": "https://github.com/melgarafael/DeskcommCRM"
+        },
+        {
+          "title": "multimodal-art-projection / YuE (★7960)",
+          "source": "GitHub",
+          "url": "https://github.com/multimodal-art-projection/YuE"
+        },
+        {
+          "title": "yuliskov / SmartTube (★33543)",
+          "source": "GitHub",
+          "url": "https://github.com/yuliskov/SmartTube"
+        },
+        {
+          "title": "異種器官移植邁向終極治療！《柳葉刀》發表專題評論：基因編輯豬腎有望直接作為終末期腎病之「替代方案」",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01479-0/fulltext?rss=yes"
+        },
+        {
+          "title": "食用大麻軟糖後果堪憂！大型研究證實：攝入數小時後仍會嚴重損害反應力與安全駕駛能力",
+          "source": "JAMA (大紀元)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PY3pZUENaLWlCTV85WEZYc2tQMTFMVHVVUEEyRhc..."
+        },
+        {
+          "title": "內視鏡 ESD 術後防漏神兵！《Den Open》發表 AI 輔助檢測系統：顯著降低早期胃癌遺漏率",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42609944/"
+        },
+        {
+          "title": "國際醫療數位雙生聯盟成立！《自然醫學》重磅發表：打造個體化精準健康終極數位基礎設施",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04621-1"
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "title": "新聞雷達 (2026-09-13)",
