@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-09-14T09:45:03.687251",
+  "last_updated": "2026-09-15T10:15:19.387124",
   "daily": [
+    {
+      "date": "2026-09-15",
+      "title": "新聞雷達 (2026-09-15)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-15-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "非洲首富的 230 億美元豪賭！尼日利亞石油煉製廠擬推非洲史上最大 IPO",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo"
+        },
+        {
+          "title": "剛果民主共和國伊波拉疫情已達峰值！感染率顯著放緩，死亡人數逼近 3500 人",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow"
+        },
+        {
+          "title": "中企違法在台地下運作遭鐵腕掃蕩！檢方重拳起訴「台灣雲保科技」及總經理孫維宗等 4 人",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMWJJWDQ2YVZ1amZtb3ZOZEk4QUJaUFNMTVVqQW0wOHpvXzdyMnJDZHNaTHJxOEFVNE9QZ0HNRlJsOGFmR0ktN3VPSlloeUNjdXVvaFc2NnpLRjdWdFhj?oc=5"
+        },
+        {
+          "title": "全球民主現況報告重磅出爐！台灣公民參與度表現亮眼，高居全球第 7 名",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFPAazlwS0s2U2p6N0RRT2ktcjZEUi1TblI4OWxXaUZnSTViRkdqZEJLMW9zTjQ1SWZVYWt6RUJIY3FFS3RHdlN1Mm9mbnF6Z0Q5N3l3cUdRWFVBMWJuNHlV?oc=5"
+        },
+        {
+          "title": "黃仁勳與川普直播通話！強硬宣示「絕不容許 AI 發展減速」，與 OpenAI/Anthropic 喊卡派直接正面交鋒",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+        },
+        {
+          "title": "微軟首度為次世代大模型劃定安全紅線！發表《AI 行為準則》力保 AI 控制權掌握在人類手中",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlJYLXlYazNYam85R0djdHlHOENQdGhCZkdQY1l0LTdmYnNMS1ZocFBpUl_pS2ZqamZyWXQzcXYwaW9vdkRMbEJ0ZFFFb3dydHNIdFBfbXNBVjJrdlB2NlNVcVBKMEdTWjVzd1VUeGtXcnJqUS1vMTI1WVRlWnZFREsyMnhiZ9IBiwFBVV95cUxNVNwbzBjUWFaOXRVblJ1ejIyRVlObEdPNW16aEVPaG9VRWxydExnZ2dvSzROWGprTTdYaG0wbEJ3aDJUb1RuVENIVTdySDVvTTBCR1_YakpPTG5JeHRiYmRPY1pub0lBTFBvV01vS3lUeFpSUUp6U3QxdW9uZjRQdTY0b2ZYNUszbGtZ?oc=5"
+        },
+        {
+          "title": "Google 推出媒體新獲利模式！啟動「AI 價值付費計畫」，新聞出版商按數據貢獻度抽成",
+          "source": "Digiday",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3d4S0tWd3c4bEtDZnRrQllJLWtFT1_jZXdaanhJbUVXbXhhVGxvWGxHM1I3aExNcS0taWlibFd2T1g1M1FYVWNUZG5aR0JiTG9OMEd1ekFHZHpHb2FrQ05kQy05OXRObDZ5RWM2U1ZWdkE5all6aTk0ZXJGOXY4SnVEM3VoT0ZfeVNxSXFieXY1UQ?oc=5"
+        },
+        {
+          "title": "OpenAI 秘密買下 Apple 前工程師新創！砸 3 億美元收購 Glass Imaging，搶進 AI 相機與硬體裝置",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTZxRTlsbk9LSDQ5WG1KdmRfc2ZtbGdUVFNnR0FtdW9zUlc5SmRsWi1RZ09ubldJQjBuOGRkaVBEckloOUFvQVhTZEJyRFBDcnFweXNmOEJ4alRyenB1ZkI4c21leU5wUzYtZGcxa282VldpR21sNzh5R1pnaWdLSXVRS20waDkyZVE?oc=5"
+        },
+        {
+          "title": "蘋果正式釋出 iOS 27、iPadOS 27 與 macOS 27！Siri 智商大進化，智慧體驗全面改版",
+          "source": "Hacker News",
+          "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+        },
+        {
+          "title": "紐約檢方重拳打擊深度偽造！強制封鎖並檢扣 12 個知名 Celebrity Deepfake 違法網站",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/"
+        },
+        {
+          "title": "挑戰輝達獨霸地位！AI 網聯新創 Cornelis 融資 2.05 億美元，推 Active Compute Fabric 解決 GPU 算力浪費",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+        },
+        {
+          "title": "Amazon Prime Video 搶攻短影音市場！推出新聞短片服務，強勢對標 TikTok 吸引年輕世代",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+        },
+        {
+          "title": "alibaba / open-code-review (★26637)",
+          "source": "GitHub",
+          "url": "https://github.com/alibaba/open-code-review"
+        },
+        {
+          "title": "666ghj / MiroFish (★73462)",
+          "source": "GitHub",
+          "url": "https://github.com/666ghj/MiroFish"
+        },
+        {
+          "title": "Panniantong / Agent-Reach (★81682)",
+          "source": "GitHub",
+          "url": "https://github.com/Panniantong/Agent-Reach"
+        },
+        {
+          "title": "rlaope / oh-my-hermes (★2270)",
+          "source": "GitHub",
+          "url": "https://github.com/rlaope/oh-my-hermes"
+        },
+        {
+          "title": "基因編輯療法邁向安全傳遞新紀元！《柳葉刀》發表專題社論：呼籲建立全球統一的人體遞送安全防禦鏈",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01858-1/fulltext?rss=yes"
+        },
+        {
+          "title": "降 62% 糖尿病風險不用靠苦哈哈節食！三立新聞報導最新醫學研究：揭示 3 招生活習慣驚人預防實效",
+          "source": "JAMA (三立新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaWXJiTUZta3dSZG9RcGhXTlB3MXdmdjRBa3NvOVliS2pDQkFFZ1N2WGhkZ2VyY082TUZkWUloTTFfNzRPTXpTWNIBTEFVX3lxTE1ES1JwMnJranhMRVFJRkFhSkdYS0luTUtzRGRuelNsdTlNeEpqRGRhcXNYd2dQRW5YeUNsdUFxcHZVbVZkTm1DblRjUTg?oc=5"
+        },
+        {
+          "title": "救援數據採集也需要倫理 AI！《Lancet Digital Health》重磅呼籲：建立人道救援 AI 使用規範填補援助缺口",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42624704/"
+        },
+        {
+          "title": "從源頭揭開親代與子代健康密碼！《自然醫學》發表 7851 個家庭全基因組定序：精準鎖定親本 De Novo 突變機制",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04676-0"
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "title": "新聞雷達 (2026-09-14)",
