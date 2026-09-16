@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-15T10:15:19.387124",
+  "last_updated": "2026-09-16T09:54:45.877029",
   "daily": [
+    {
+      "date": "2026-09-16",
+      "title": "新聞雷達 (2026-09-16)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-16-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普受訪放話：伊朗戰爭將在美國期中選舉後「立即結束」",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dHFTZUp2ajRGcGFzRzdJV3M1SmJaODBodGN1OXE5cFFkMGZNMlJvSXF4ajlJbGhKa29RUVRYdTdtNDgtTDZfNWlDWW0zTmxJSWF0UjRERQ?oc=5"
+        },
+        {
+          "title": "基地組織與 ISIS 薩赫爾地區暴力活動急劇升溫，恐刷新歷史最高紀錄",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year"
+        },
+        {
+          "title": "美日國會議員於華府高調會晤！再次重申防衛台灣與第一島鏈安全之極致重要性",
+          "source": "cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12V1lhVnZWWGJOdFgyZG1HUnJtVW9oLUI3UDlNVmw0S0ZGdGFaV0pYXzZxeHVGSDNwd0s4dHAtNHJQallwc1E3enhVOWlYRmF5WEpBT3UwR3pBbmY4R1NV?oc=5"
+        },
+        {
+          "title": "49歲陳建州驚傳突發心肌梗塞送加護病房！醫師急示警心血管疾病三大隱形殺手",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQUQ..."
+        },
+        {
+          "title": "OpenAI 正在進行新一輪融資談判！公司估值有望衝上 1.5 兆美元天價新紀錄",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV_H_y..."
+        },
+        {
+          "title": "Google 內部政策大鬆綁！正式允許全體工程師開展使用 Anthropic 的 Claude 模型寫碼與開發",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHU4alVHZ2FzblRRM2QyNVdONXh0OEtnb050LW9ySGFZNkl6NGQ5N1dZUUZ4TGI4cUsydEtxVUh4MEpBYThCZnI0UjJfVHlOUll3algza2w5RzhfM0JyanFxMjhkeVlOb2FXNXh4RHMyc0NVbGhhYnZmQUtKd0x1UGtlNi1kN2pBeWd2eUtucjYxT1lyVndUbW13?oc=5"
+        },
+        {
+          "title": "Google 震撼推出 Gemini 3.8 Live 與 Extended Thinking！即時語音對話與深度思考全面進階",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ6LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbkOTMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5"
+        },
+        {
+          "title": "美國國會推出跨黨派 AI 安全法案！OpenAI 表態全力支持強制性第三方安全評估",
+          "source": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRg0wYkVaVjJNSzhkTU1VZFk5V09qZjJfN3RyS0tOUlBDXzU2OFVoWlYyMWQ1QV8zcFBZeWg5OWkxWm01WVNxcVVUZVdlTGNPTTBnMDR2WFlFelAyMngzcTU0MHl0UnF3cE5jRm1OakFJWnU2eFdibmJiS29YZ0tlT3Y4RzRyclMyeUJVVmxZaDZBYjRTNGc2dUphMDRvaEFYNVg2UlNXRnpYVlNaSmRYVUZhZFhhQ1BPSGRv?oc=5"
+        },
+        {
+          "title": "蘋果重磅發表 Apple Reference Image！提出防篡改驗證攝影技術的新一代安全架構",
+          "source": "Hacker News",
+          "url": "https://security.apple.com/blog/apple-reference-image/"
+        },
+        {
+          "title": "告別無限建廠算力黑洞！Dropbox 揭秘如何透過既有基礎設施效率極大化為 AI 騰出運算空間",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/dropbox-datacenter/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "部署時間從兩週縮短至一小時！Grab 發表 LLM-Kit 框架實現 500 多個企業級 AI Agent 生產上線",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/grab-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Homebrew / BrewUI (★1615)",
+          "source": "GitHub",
+          "url": "https://github.com/Homebrew/BrewUI"
+        },
+        {
+          "title": "alphaXiv / OpenResearch (★3689)",
+          "source": "GitHub",
+          "url": "https://github.com/alphaXiv/OpenResearch"
+        },
+        {
+          "title": "pacifio / atlas (★4748)",
+          "source": "GitHub",
+          "url": "https://github.com/pacifio/atlas"
+        },
+        {
+          "title": "《自然醫學》發表 On-premise 本地化醫療 AI 代理人！實現可靠臨床決策支援與高精準診斷",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04609-x"
+        },
+        {
+          "title": "攻克 KRAS G12D 實體腫瘤！《自然醫學》重磅發表口服標靶新藥 GFH375 一期臨床試驗成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04559-4"
+        },
+        {
+          "title": "廣效中和抗體治療 HIV 臨床試驗突破！《自然醫學》發表 RIO 試驗二期結果：顯著延緩病毒反彈",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04644-8"
+        }
+      ]
+    },
     {
       "date": "2026-09-15",
       "title": "新聞雷達 (2026-09-15)",
