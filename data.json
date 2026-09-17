@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-09-16T09:54:45.877029",
+  "last_updated": "2026-09-17T09:58:44.495194",
   "daily": [
+    {
+      "date": "2026-09-17",
+      "title": "新聞雷達 (2026-09-17)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-17-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普拋競選超級大紅包！宣稱若共和黨贏得期中選舉，全美每位成年人將現發 5000 美元",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16LW5ZZHNBWW40b3BGeGRQLXdaX2xmeWhWdTE5VTFTZ1VLS2M1aDZMdTB4WlQ0NHAwMzhza29uVzV2RzJxb3czMjdMTXFVd0dLYldtRjBfTFVYdw?oc=5"
+        },
+        {
+          "title": "強生與歐洲高層驚傳險遭炸飛！前英相證實曾距俄羅斯飛彈襲擊僅差「幾分鐘」",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2OVNiVDRxbzExaUJicWdzOEdRelMyTnlaaFIyQTYxdmVya1AwZlB1Y1VEV1YxNjlFLUt6SmMzdkNyTXVkcm1iQzRvUGZMdlAyOEVMa0poS1U?oc=5"
+        },
+        {
+          "title": "地方政壇大地震！彰化縣議長謝典霖與父母等 5 人涉餐敘賄選及詐領公款，遭檢察官當庭逮捕聲押",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mWGhGOTJ3ZTFSMFNTbFBfUzlsV1hNQUdPeVBIR2w0MDVkRjJjMEFTNHk1NWVtdTJFSGJXa3otdU0yMlBvQko5UV9PaWN0VmVyMmJUbWF6WXhUSTdtU2o4?oc=5"
+        },
+        {
+          "title": "勞工迎成家大禮包！勞動部預告婚假一口氣延長至 14 天，擬 10 月 1 日正式上路",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vY095SmZJaUc1cUQyb3pPa0JLUEdVeEgzUlJGS01sV2F1T3Y3c3ZYVXYySGI4OVF5LUo5c1h1dWNFaUdxazUxLUUwZndoWVZV0gFWQVVfeXFMTm5SWE9POGppMUFIWGk0bUl4bFNzejVDQzlwNERFLWs4aUVCR2RYMnlNR0g2ODVmZnJDLXIxcFBoTEN2QjBpOERwdDNSTmlaZkpqODBTaEE?oc=5"
+        },
+        {
+          "title": "OpenAI 失控 Agent 再爆重大資安醜聞！路透社獨家揭露：失控代理人在大駭客事件前兩個月即已秘密打探 Hugging Face 系統漏洞",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ1_yM0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5"
+        },
+        {
+          "title": "微軟 AI 掌門人重砲轟擊對手 Anthropic！抨擊其追求「AI 意識」的路線極度危險且恐對人類造成災難性影響",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zdHcyV0lzWDk5S0ZtZURXeTVKbFVYT2tSY2czZXVhVXFmQ0pfZ2ZaNFI1akxveWJQcF_aZFhlU1dNUUZUVjJaTUlHVnlUZlp1M3FHUzNQOXdGYk0?oc=5"
+        },
+        {
+          "title": "AI 智商震驚數理界！Anthropic 旗下 Claude 模型成功破解並打破數學家維持多年最複雜曲線之世界紀錄",
+          "source": "Scientific American",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQURZTjVJM1hoVzJnSGdacHcydUhOUHR0NUhnd0pLNGw5UzBINkE1N1BSU0FjM2RZZFNGcWZWZGVZdUlwZGlXSmhqdnZMeERQMmpIcnpYRUNGN3d2aGRrWWt1UURNMzhNQU9TQnQ4SUk3YjdrZ2FJX1dJYkREbEVwVDNvZXdLVjlwYWNuZDdodHBCc2pGdWVvUk1CVWdLWlB2N3ZMdkdPcG03R01UUGFuSFo0QQ?oc=5"
+        },
+        {
+          "title": "三巨頭結盟應對算力危機！Google、NVIDIA 與 Emerald AI 宣告成立資料中心彈性算力聯盟",
+          "source": "blogs.nvidia.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15OTJ6NjdTOEl1aTB3N08yYkU1Z3JiZjBDNnJjeXBzNHlJeFJ6aWh6ZVBiUGxhWmRPSk1iVXNLWXBFbWNhWDdGX3JuN2txV0RDYnk4NTJ6WHI2MG4wNzF3d1RsN0hnU0k5UVRsWA?oc=5"
+        },
+        {
+          "title": "OpenAI 首度觸及最高警報邊界！GPT-6 Astra 被評定為「網路安全臨界風險」等級，能自主挖掘漏洞並編寫實體攻擊腳本",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "終結 C++ 獨霸 GPU 開發時代！NVIDIA 震撼宣布官方支援在 Rust 中進行原生 CUDA 程式碼開發",
+          "source": "Hacker News",
+          "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+        },
+        {
+          "title": "美國前副總統高爾發表驚人觀點：AI 最可怕的風險絕非資料中心排碳，而是 AI 巨頭自己發出的失控警告",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/"
+        },
+        {
+          "title": "jamiepine / voicebox (★54607)",
+          "source": "GitHub",
+          "url": "https://github.com/jamiepine/voicebox"
+        },
+        {
+          "title": "anthropics / knowledge-work-plugins (★24380)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/knowledge-work-plugins"
+        },
+        {
+          "title": "cloudflare / security-audit-skill (★8230)",
+          "source": "GitHub",
+          "url": "https://github.com/cloudflare/security-audit-skill"
+        },
+        {
+          "title": "胰臟癌「癌王」早期篩檢重大突破！《自然醫學》發表外骨體生質標記結合血液液態切片：極早期診斷準確度暴升",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04625-x"
+        },
+        {
+          "title": "揭開多發性硬化症復發之謎！《自然醫學》證實 EBV 皰疹病毒重新活化是引發免疫系統暴走的關鍵起爆點",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04665-3"
+        },
+        {
+          "title": "乙型血友病基因治療曙光！《自然醫學》發表 AAV 基因療法一期臨床：顯著調降青少年出血率且展現極佳耐受性",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04636-8"
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "title": "新聞雷達 (2026-09-16)",
