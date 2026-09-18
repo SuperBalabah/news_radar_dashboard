@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-09-17T09:58:44.495194",
+  "last_updated": "2026-09-18T09:41:40.695589",
   "daily": [
+    {
+      "date": "2026-09-18",
+      "title": "新聞雷達 (2026-09-18)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-18-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "奈及利亞爆發假酒中毒慘案！飲用假冒私酒致近 50 人死亡、百人急送醫",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink"
+        },
+        {
+          "title": "南非慘爆連續性騷與謀殺慘案！國際機場周邊驚見 8 具女屍引爆全民公憤",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa"
+        },
+        {
+          "title": "國軍精準彈藥演練達最高峰！天弓三型雙彈齊發、雄三飛彈精準命中靶艦",
+          "source": "自由軍武頻道",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90eUNwWUdxa1NrSGF6dF9pZ0VZT2FBZzZPd0x1WF_xb2tuMG1xRUhNRF9Jc21Idy1xVzhkZUg3WmFxQWQ3RnYxRkpxbi1QQXJzdUx2bG9lTDFMOUFrN0gtWdIBZkFVX3lxTE1HeHA2OFJWU1laSnN0c0hpZWRwSmVsQTdRQ0hrR01kcU42N0k0Qmd0ZnZFSG0taXpQUjNGTHRDcmRtSXF1NU82WF_iR3lqZlN3QWQ0MG9JZGVuc0xOcUVPQUExLVUxZw?oc=5"
+        },
+        {
+          "title": "央行打房與通膨決策出爐！理監事會議決議不升息，楊金龍坦言需考量「K型經濟」分裂現況",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1USERCWTZBcktqOVlrX2o2eWx0RnVkcGxrQlRRZ3l3bTFTZ1cyZmljYlFqaHpNWVZtcHlrcGtzZDBKSUIwdVNKSzd6b2Rsb05xalJ4SHEyNjQyYVpLYUE?oc=5"
+        },
+        {
+          "title": "駭客利用 Anthropic 的 Claude 模型攻破 OpenAI！WSJ 爆料對手模型成入侵神兵",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5"
+        },
+        {
+          "title": "Claude 正在接管自己的進化！Anthropic 證實旗下模型已承擔 26% 的次世代 AI 研發工作",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5"
+        },
+        {
+          "title": "微軟高層法庭文件解密！怒轟 AI 數據抓取是「人類歷史上最大規模的勞動偷竊」",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTNFrTzV4aWZWOXlXamdLXzZUWTZ3MndJeHFGbnZYSHp5X29LTUdPTy0wVmdpYTdhTXBRYXY4TTZsa2JseFNzXzdFelBIcXFWdXBsdmpIdXVzeHExbW50N01SM3p3Mk80dzlfNzNlX3AxVldIWlp3RDdmLWhyTDV3WUFUQmk2cDQ5Q3JYdDlyLVBRUmpvZTVnTnRIbFZxUGtiaVVLZUhKeGdSNFR3M0dBYjlLTDNwdjlENlJDaWl6RmJxU3hzcEQ4QUVNaU9VejFhZHlLa2xGVk1VQQ?oc=5"
+        },
+        {
+          "title": "Google 重磅發布全新家庭 AI 代理人「CC」！專為多家庭成員協同管理打造",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1Yyb2o3UElpUVd5dGExbzlPaDdpakhNZl9zamk4VHl6eV94bVRleTBWaWdlcXVadDJvUkJnSGxhSDkxSzJ0SWdUQ3VJWVF0MHRxWE9IQjdQYXBSeEIzY09FZU1RNEx2a1FEVncyNzJ4NHhKXy1IYVYzQmY5SjV1N3JDZldCcFlKZjZYWkh2QU5vSFBEYkJzYQ?oc=5"
+        },
+        {
+          "title": "多代理人協同論文發表！arXiv 推出 Stellar Colosseum 數學與理論電腦科學開源測試平台",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KR2lEWUxBbzVlZ0hlRUwyVkg3eWttTEotSlZ5U1Y1REZJM2p2Tm12ZnZiTWRpaWREanZpQXJqUUVFWGNrOXpZ?oc=5"
+        },
+        {
+          "title": "你的下一個 DSL 語言設計師是大模型！InfoQ 發表 Typed Domain Grounding 減少 AI 幻覺",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/articles/next-dsl-author-language-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "多模態 VLM 代理人直接玩轉機器人！arXiv 發表 Show-Harness 具身智能新架構",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jSUpNMUhDM1dWRmc0bEtPRGY5NVZkYlBuY3VfczlIOUtORGhHek40REJmaVpmRFdGTEVBc0JCdGo4UmlvWUxJ?oc=5"
+        },
+        {
+          "title": "替代小兒急性淋巴細胞白血病化療！《NEJM》發表 Blinatumomab 雙特異性抗體隨機對照試驗成效",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604166?af=R&rss=currentIssue"
+        },
+        {
+          "title": "舊藥新用突破致命腦瘤「癌王」！《自然醫學》證實抗癲癇藥 Levetiracetam 顯著延長彌漫性中線膠質瘤生存期",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04646-6"
+        },
+        {
+          "title": "解開男女衰老軌跡差異之謎！《自然醫學》發表器官專一性與多組學性別生物學衰老時鐘",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04662-6"
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "title": "新聞雷達 (2026-09-17)",
