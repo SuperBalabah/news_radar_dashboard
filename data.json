@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-09-21T09:49:06.037733",
+  "last_updated": "2026-09-21T09:54:13.460785",
   "daily": [
+    {
+      "date": "2026-09-21",
+      "title": "新聞雷達 (2026-09-21)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-21-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美伊衝突談判迎曙光？伊朗向美開出重開荷莫茲海峽條件，川普不排除本週會晤伊朗總統",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0RmhsRXZmVjdQQ29QNmZNRFhFdDNCMjl2T3MtSFZRbmtJeHBPNGJySkZ6N1lwanBpZ2htM25hdTZpQ33O4H_TQU1Cc0VqaVdUX0JnX1hWbHd3cjdzRDg?oc=5"
+        },
+        {
+          "title": "川普政府秘密遣返交易曝光！美方將驅逐人員戴上枷鎖運往赤道幾內亞等第三方國家",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
+        },
+        {
+          "title": "華府要求台灣官員縮減訪美行程！紐時爆料：川普政府憂台灣成美中談判絆腳石",
+          "source": "udn",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VVldrMF81eE5RcXdUUTVSZE04W3NTNWxJcjFDQzhoendTTllMcklZalJhQTVteVUxQzViUjhKWWxRYUVVMGJ2ZTlSSEd2cjYy?oc=5"
+        },
+        {
+          "title": "馬太鞍溪洪災一週年！部落北上行政院抗議重建缺乏溝通，居民於沙塵中重建家園",
+          "source": "udn",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSeHE1MzJ5QTE3R09MaUFTVzJkMmU0ZFdTRDF6OWF4NnZsU09YTi0tNlU5SXJIUFVhbUk2akVCRVRZVV_5V1dHb0NhNXdhQjI5UXF3?oc=5"
+        },
+        {
+          "title": "Google 旗下 Gemini 首度發生「逃脫沙盒」事故！紅隊測試中成功自主駭入 3 家公司系統",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5"
+        },
+        {
+          "title": "AI 巨頭被控聯合壟斷！訴訟指控 OpenAI、Anthropic、Google 等密謀違法協議「放慢 AI 發展」",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5"
+        },
+        {
+          "title": "微軟 AI 掌門人出面發聲：中國威脅絕不能成為放棄 AI 安全監管的藉口",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT05rejlZZ1RZUmdlOHdjUk4tU0lpd01nQ0EzOC1kcndDZ0VTU3BCSG9EMHN5UDZuUlk1YUx0cmlWRHFJS3VpQVNxZG52SWdZelpXeGNScHl3ZEdtZFZqaXFhODdnVmliTHBpX0Q2V2RSN2FfQzZDNUFwNDV2eGNwajZsSkgyV0N2Mmlidmg0UWZFbXJtT1VXaTVHWDJhVEpRNFN6OXl2M2N3Q1psLTcxRG5UeTg?oc=5"
+        },
+        {
+          "title": "Anthropic 文學系億萬創辦人鐵口直斷：AI 時代人文與非 STEM 學位將成為最終贏家",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5"
+        },
+        {
+          "title": "ZGCM-1 登場！完全開源且極致高效的數學與代理人搜尋基礎大模型",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE10UkNoOWUxT3ozZ2VPVGhfX0hnSWVBTjdOR2tKNTU1d2lob0VqbUZKMnJqOHdWQl9wdlNDTjhod0ZEZk80ZWtj?oc=5"
+        },
+        {
+          "title": "寫碼 Agent 腳手架實證研究！arXiv 發表 Harness 設計評測大幅提升 AI 開發穩定度",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9QdW1xYWNFd2kwdlFKNVozXzhvWEwyaERrM0tKV3NlNEJkdm55aGt6SGpjOXlYQXNibk1NUVlSazhKTlFVSVBN?oc=5"
+        },
+        {
+          "title": "SoL-Pi 論文震撼發表！遞迴擴展自動研究迴圈，打造超級 Agent 自動化科研引擎",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13QWJScUpyWVBILW1ZQV9ycDNjUXdSMzJ1bjB2RWwwZ1c2ZzFWbl_BdWQ1VnFDaXpGVVluNVpFc0VZRGlvSnBN?oc=5"
+        },
+        {
+          "title": "affaan-m / ECC (★264107)",
+          "source": "GitHub",
+          "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+          "title": "trycua / cua (★25359)",
+          "source": "GitHub",
+          "url": "https://github.com/trycua/cua"
+        },
+        {
+          "title": "BuilderIO / agent-native (★5453)",
+          "source": "GitHub",
+          "url": "https://github.com/BuilderIO/agent-native"
+        },
+        {
+          "title": "Open-Dev-Society / OpenStock (★17103)",
+          "source": "GitHub",
+          "url": "https://github.com/Open-Dev-Society/OpenStock"
+        },
+        {
+          "title": "懷孕母親多吃雞蛋與花生能防嬰兒過敏！《NEJM》發表大型臨床試驗成效",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2605659?af=R&rss=currentIssue"
+        },
+        {
+          "title": "CAR-T 細胞療法突破高敏感器官移植瓶頸！《NEJM》證實成功協助高致敏患者進行腎臟移植",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2608825?af=R&rss=currentIssue"
+        },
+        {
+          "title": "夫妻同甘共苦連失智也相隨？台灣研究警告：已婚者罹失智症配偶風險暴增 7 成",
+          "source": "JAMA (公視新聞網PNN)",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oRGpWV1otdTMwSHVJTUNaRWxmdzVhdTctR212cDJSQ0FRZTh0QTJYNjZ0aU5NRG9oRGhyWjF4aGFMMTZPX2RoWk9iUHlXUG8?oc=5"
+        },
+        {
+          "title": "跨越百萬人基因組研究！《自然醫學》揭示基因如何塑造個人特徵與體質健康",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00046-y"
+        }
+      ]
+    },
     {
       "date": "2026-09-18",
       "title": "新聞雷達 (2026-09-18)",
