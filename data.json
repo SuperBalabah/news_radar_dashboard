@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-09-21T09:54:13.460785",
+  "last_updated": "2026-09-22T10:03:15.202983",
   "daily": [
+    {
+      "date": "2026-09-22",
+      "title": "新聞雷達 (2026-09-22)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-22-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川習會前夕美日韓高層緊急會晤！發表聯合聲明誓言對抗經濟脅迫並重申堅定挺台",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3aHJKQ2k4dlU2dHZXaUdXY1pQeXg4bldRcXhNTUVRT3RaY1EtbjE0bmpXVml5YW1wRS1ZMlppZXFhOEhBNFhxME9RV0x6YnE5cnM2blh2bHl1VHVpOGg0?oc=5"
+        },
+        {
+          "title": "美軍官方首度證實防禦性裝備進入地球軌道！各界警告太空武器競賽急劇升溫",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBic0tWMlBNbnJvTW1qYVlWRkJLczBnbHlYeWNWVnE0OVEzaWVfR051T2ZGUHNJN2tQSkhoTlhvYlA0bjh3UWNVVzZsNXNvdHRGb1dzZnhhbVY?oc=5"
+        },
+        {
+          "title": "台北市長選戰最新民調出爐！蔣萬安支持度 41.7% 微幅領先沈伯洋 40.5%，民調呈現極度拉鋸",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNeElqTHl4dU12dXk4U2U0cG40YkVsVFptM3hpNlM0MFVydGtHOEdNU0ZSUUdIZUoza3dhTXVKVW5FbHh1dGFWYnZaVEstU3Jla1dRd2hyZERwVmFSU0xseWRPSTlJMWcxb0Z0TjJHUlZBamlXZ2NTWTBweE1KT0JSRVdqTk5aQ29va1pPSDRfUEd3eTRtdUpVOHQwbFJTbmRhdkM4Zy1XSld0d3pZUVNXNm4ydkkxQy02YkdUT0RtOGRFWnZxZk1saWZEZVk1UGU3RTdfQUN0NlN2OEJZTTdCTC0yQmUyTFNwZF9zTjU0c3FmamJVd013TmlSNkJkNXFzdkZldEE1cXpPeDFEb1N5NUZad2xhN1ByM3RzY29IZ09BMUVvWkRBN0JGZ0RydzFDTXh3RU5sbVNYcUdfYV8teGhmQkFSS1ZKdmdUNVFZcm1MR1pPZ2U4ZlNZYnIxWG1adHo2Z081ZkFsM1NJY1dmbTdtdjlncE5iLW9scERFcFBKblBaX05NU3JOaTJWZTA1TWFiaFJnRnJyNUZsVjk0aW9EWkIwR0NydmVSb1I5eWc4SDg5TU9Sbw?oc=5"
+        },
+        {
+          "title": "國內流感疫情雙創新高！單週重症狂飆 165 例釀 30 死，疾管署預估 10 月中迎高峰",
+          "source": "udn",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EZDZmUFNUX3Z3bTZpTUlZTDE3WEttbkRrZTl0THBvNVNSeUV0OGxmZEJaM01sejRUYmJ2dTl0VF9lSjdMQjFLMzVWNHRMMG5Q0gFWQVVfeXFMTTBPQlpITDFhMWNiX05weDYwaFlkbDJGZUZsWVJFRGMzRVl0UGJtOTZQU1BPYXJUZE9fUUtELXZLNlpWY3dhRzNsTkNPTTk3TUlkMWtTZkE?oc=5"
+        },
+        {
+          "title": "Google 重磅發表 899 美元 AI 筆電 Googlebook！專為深度整合 Gemini AI 重新定義個人電腦",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFVXakRXTHBpbWJqM3I0dmRVYkJKeWUzYVN4WVF4blZIT1FCaUZWZ2xvYUVGVDZkdGVRbFl0b2l2Q0pnYjVLUDF2ZUJjbURuYkVJUGY3QVZYQkE2dGpKbmpvTWVQYWtDczB6ZGwtUXF4VGJxcjA2cmtwY0EzYzZEQ0FaS3J1dTRVVzQw?oc=5"
+        },
+        {
+          "title": "Anthropic 與埃森哲豪砸 20 億美元！共同成立全球最大 AI 模型安全與評測基金",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1ltbFppd1NjUUhaSTZ4TUs2bzFNY0lfaTd5bG5mVmw1X3NiV2lsWTNJQ0pyUWJ0SHhOZjBmd0x4b0pMOWlpSDd2VGEweDFTTnU4YW1QTFJhNG00ZXFUSHN1OENaeVFaWXZwbTlsTEI4RGphekZtRTIzclZ1ak5wcXhDU05TX1VHVFBJUnBUQVZmZjhjTHFqNXNqREhGajRFZ3lsaW5tWmxrSWNzNWNhR1ZVbkZ2S2ppRkFlWXlKOA?oc=5"
+        },
+        {
+          "title": "OpenAI 與 Anthropic 險些達成密約！擬互換模型進行物理級安全交叉壓力測試",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM3dOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZKeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5"
+        },
+        {
+          "title": "前 Google AI 掌門人驚人預測：晶片設計自動化將讓工程團隊從 150 人暴砍至僅剩 10 人",
+          "source": "Wccftech",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT1MxRjJTWUlUOVk5MnBmTENzY1F0M3BNZ3hxb3VnQUFMempuOG9wdkRGM3NvS3dLalV2elpWUVdKeWRtdGQ3R24tU3o3MHg5d2NETmdjV1VYbDZnQTVOSno2clFickpxTlBEZHljUXNac3hwYWU4NjJqOGhYTU1uVVBhREtIR054MklLcy0ySVJZX1RPczBkdDRPcHVhd3kzSnFGTHBGa1BBaUI1WHdYZTVUeUZOc1MxZk9WN0JnRllCTnN2RlRXRUViYkNrRHp5eUJtQXRsWjZWYVBwNDA4eVplTlFDRV9s0gHuAUFVX3lxTE1iclZtQ0V0Y1lnRG9BT1_iaVZNVzJrY1oxaXhLYzQtZmtuUEJxdUh4cjN1M25nemdPclY0NWhJb2oyd0ZmTHZCejdKcGpqcUxqNE96Y1dqSzd1MGJzVUpjXFEzZFUyYkdXWU5NY3Q5YlRFX09hWWFrcXVyTlU4N1ZkLW9oS05VnkNWNHczWHhKVGhmakdUaS1aR2R0bDlQcUt5am9zanl5NW9RWV95MDR6aUdmX0RaNFktTE5yNkNsRjNfa0FyZWM0TG1CNXlxWEdMYUlHYS1MQ2dTeVJiTm9LU25DQTc0cTJjZlJtOFE?oc=5"
+        },
+        {
+          "title": "Meta 旗下全新 AI 代理 Muse 下載量狂飆！美加地區熱度打破早期 ChatGPT 移動端紀錄",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+        },
+        {
+          "title": "Can gzip be a language model? 最新論文探索用經典壓縮演算法進行語言模型推理",
+          "source": "Hacker News",
+          "url": "https://nathan.rs/posts/gzip-lm/"
+        },
+        {
+          "title": "Google 發表 Agent Development Kit for Kotlin 1.0！支援 Android 端側 AI 代理開發",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "LinkedIn 揭秘 Context Engineering 架構！以 MCP 協議突破大型代碼庫 Agent 限制",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "anthropics / financial-services (★35969)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/financial-services"
+        },
+        {
+          "title": "coder / coder (★16536)",
+          "source": "GitHub",
+          "url": "https://github.com/coder/coder"
+        },
+        {
+          "title": "mvt-project / mvt (★13729)",
+          "source": "GitHub",
+          "url": "https://github.com/mvt-project/mvt"
+        },
+        {
+          "title": "zhouxiaoka / autoclip (★8533)",
+          "source": "GitHub",
+          "url": "https://github.com/zhouxiaoka/autoclip"
+        },
+        {
+          "title": "腺瘤切除後大腸鏡追蹤間隔與大腸癌風險分析！《NEJM》發表大型長瞻性追蹤試驗成果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603816?af=R&rss=currentIssue"
+        },
+        {
+          "title": "胃食道交界處癌症圍手術期免疫治療全球化進展！《柳葉刀》發表三期隨機對照試驗最新評論",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01425-X/fulltext?rss=yes"
+        },
+        {
+          "title": "抗老化的核心關鍵竟是「心態」！三立新聞報導最新研究：揭示中年人學習正面心態對抗生理衰老驚人實效",
+          "source": "JAMA (三立新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53Z3cwRmdzUHIzV3RJR2FoUXpjRzNpOThFOFNGYjVjUTlCRktzTkNEank0eGVSZ3VMYnRwNW9zWENVbmlFM2VXRldxd0k?oc=5"
+        },
+        {
+          "title": "噬菌體個體化治療專家共識指南發表！《自然醫學》規範臨床安全與個人化應用藍圖",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04654-6"
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "title": "新聞雷達 (2026-09-21)",
