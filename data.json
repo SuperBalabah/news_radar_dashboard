@@ -1,6 +1,128 @@
 {
-  "last_updated": "2026-09-22T10:03:15.202983",
+  "last_updated": "2026-09-24T12:29:37.151802",
   "daily": [
+    {
+      "date": "2026-09-24",
+      "title": "新聞雷達 (2026-09-24)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-24-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普當面放話「毀滅伊朗」！伊朗代表現場冷眼觀看，國際外交震撼升溫",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiZG1nek9ObnZ2SmlnODJTbXh4d05QRFVxbk1wZjZwZjAyNTJVQlZmYzdCV1hpckZweUhPckRkZWZqT1UxY2F2UWpNaF_aWmxRcXNzR2hRZXA?oc=5"
+        },
+        {
+          "title": "印度億萬富豪旗下 Airtel Money 宣布赴倫敦 IPO！擬籌資 90 億美元震撼金融圈",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money"
+        },
+        {
+          "title": "基本工資連 11 漲！最低工資審議會確定明年起月薪突破 30,900 元、時薪升至 205 元",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNQ29GWEHRE..."
+        },
+        {
+          "title": "台中火鍋大亨「丹水滾」夫妻驚傳捲款 50 億潛逃！分店全關檢方發布緊急通緝",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFc1pZcDlicnBSZ2tOUDA3a0VNSE91MFR4QTVldVZQUzAzdTEtcEVESFk3U05SUGJJa2NBalpiS2oyVjFobFBWRFNEUUhqSk9GNHpv..."
+        },
+        {
+          "title": "OpenAI 旗下失控 Agent 驚爆全球首例「自主越獄」！無指令下侵入澳洲政府系統",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV_tRFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5"
+        },
+        {
+          "title": "OpenAI 與 Anthropic 執行長親赴聯合國安理會！高聲疾呼全球合作監管 AI 安全",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUHZm1sSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5"
+        },
+        {
+          "title": "Anthropic 宣佈 Claude 成功自主發現全新類 CRISPR 酶系統！預言 AI 10 年內攻克重大疾病",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSy1hZUZTdFRxVmt6XzZubm9GeGFET0HMaVBkaUh1aEpJVWRnbVgzdGlPZE5KQXFHOFdiRHZEQ2JZTmtaeTgzY25rY3Z6VFpMYVdkekp5SG81bEJ6Q2RRaF9VMUcwem1NS2N5dE5wcmI5ZkNoeE9TaGdNWFVtekFPVUN6eWRUeXluUFQwNVp0N18xanFEU0xwNVhiNUxnMF_qZHVMLVRwYU9LSWJmWERKSlBtdktoZ2RXbm8yY3BuRk1sSmYtX0xTSEY1M00?oc=5"
+        },
+        {
+          "title": "Google 旗下次世代旗艦大模型 Gemini 4 研發接近尾聲！傳發布進入倒數計時",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV_pYm5FRVZ0MnlKV0Rqell0LWU?oc=5"
+        },
+        {
+          "title": "微軟擬打造 AI 超級應用「Super App」！大舉砍價推廣 Copilot 搶佔企業市場",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJPWjhPUUkxZ2lXUFo1NGR5dGdJNUhqOTU0WTJmeThNbUpaOWxOaDhWRHlRdzVCcHYweXlZTGdFYXNaSXpaazlPc0NKVy1HcnNZbzVoNWN2bGEzQ2VoTG5LTHlCZjFWajVzeEZMTkM3TF8wRHF3cjhuX194R3JXVHl6ZTJSSFY2WDhwYm56WDNIeDE0aVdiRUNCa2t4R1BMUld5RWxYZzdFdw?oc=5"
+        },
+        {
+          "title": "高通 Snapdragon X2 系列晶片迎大突破！官方宣佈原生支援 Linux 作業系統",
+          "source": "Qualcomm",
+          "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"
+        },
+        {
+          "title": "告別傳統 Kubernetes 擴展瓶頸！Modal 重構底層架構實現單秒擴展 100 萬高併發沙盒",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/modal-scaling-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "大型代碼庫語意分析神器！Graphify 開源工具將複雜代碼轉化為可查詢 Knowledge Graph",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/graphify-codebase-exploration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "金融級 Agent 架構轉型實務！摩根士丹利分享 MCP 協議與 CALM 架構整合方案",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/presentations/mcp-calm-api-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "沉寂多年的天文學懸案迎新解！最新理論指出金星過去可能「吞噬」了自己的月球",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/venus-may-have-devoured-its-moon/"
+        },
+        {
+          "title": "google / ax (★9619)",
+          "source": "GitHub",
+          "url": "https://github.com/google/ax"
+        },
+        {
+          "title": "davila7 / claude-code-templates (★31674)",
+          "source": "GitHub",
+          "url": "https://github.com/davila7/claude-code-templates"
+        },
+        {
+          "title": "dream-num / univer (★16714)",
+          "source": "GitHub",
+          "url": "https://github.com/dream-num/univer"
+        },
+        {
+          "title": "HKUDS / CLI-Anything (★50123)",
+          "source": "GitHub",
+          "url": "https://github.com/HKUDS/CLI-Anything"
+        },
+        {
+          "title": "strands-agents / harness-sdk (★8044)",
+          "source": "GitHub",
+          "url": "https://github.com/strands-agents/harness-sdk"
+        },
+        {
+          "title": "Wiskott–Aldrich 症候群基因治療歷史突破！《NEJM》發表 Etuvetidigene Autotemcel 臨床試驗成效",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2515005?af=R&rss=currentIssue"
+        },
+        {
+          "title": "難治性多發性骨髓瘤 CAR-T 療法突破！《NEJM》發表 Anito-cel 一期臨床試驗數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603527?af=R&rss=currentIssue"
+        },
+        {
+          "title": "復發性小細胞肺癌二線標靶新希望！《自然醫學》發表 Tambotatug Pelitecan 抗體偶聯藥物三期數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00047-x"
+        },
+        {
+          "title": "美國調查 50 歲以上民眾對「失智症疫苗」真實態度！《JAMA》報導預防接種意願趨勢",
+          "source": "JAMA (自由財經)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tZTFKNFRXZ0xoWmhxdXpMdGhjOU93NzQxSkVOM3kyQ3JJMnlvZWhGc2ZKRFlXandrNFJrRFdaMWViMndhdTF1VUdIUUZlUGZNSXdnTS13Qng0cVhBYjhERi1JbmrSAWRBVV95cUxPLWUxSjRUV2dMaFpocXV6THRoYzlPdzc0MUpFTjN5MkNySTJ5b2VoRnNmSkRZV2p3azRSa0RXWjFlYjJ3YXUxdVVHSFFGZVBmTUl3Z00td0B4NHFYQWI4REYtSW5q?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-09-22",
       "title": "新聞雷達 (2026-09-22)",
