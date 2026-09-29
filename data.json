@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-09-24T12:29:37.151802",
+  "last_updated": "2026-09-29T09:36:39.122865",
   "daily": [
+    {
+      "date": "2026-09-29",
+      "title": "新聞雷達 (2026-09-29)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-29-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美眾院議長重磅表態：美國需要台灣保持穩定獨立，將持續傾力挺台",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XVS1zVDJ5bDVmb0xScndrelI1UjF2Z2I4aXdwSFVzMUhIRDM5WVF4SUdpcWJ1eTV3aHQtX1pZOGZhRGhacnBDNGJ5dS05eEt5MjI5OTlFaWsyV2U0NEJZ?oc=5"
+        },
+        {
+          "title": "南非爆發兩起極致血腥大屠殺！非法金礦黑幫爭奪戰與燒烤店槍擊狠奪 27 條人命",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+        },
+        {
+          "title": "立法院記名表決大封殺！藍白聯手全數否決監察院 27 位監委被提名人人事案",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Yc3ZNUHBRR3ZQUjBtZWJEaEI3VURZUXBIRGpyYzZLMTF2YVJkeFdlRG1xTmNkeTFnX2xTbmdldnRWc1VudVNqUm5OMGdUVTQt0gFWQVVfeXFMTXp3SGljWHE4UmlsR1lQd3pVYzdINkEwN1czUVY2SE9JT0lSc1Zza1hNYWh0MngzcEFqUV9MN0FXNTQ0QTVuZGI2M0tyS3dIVTNrVzBEUEE?oc=5"
+        },
+        {
+          "title": "傅崐萁喊話普發 2 萬元現金！卓榮泰硬化回應：政府債務絕對不能留給下一代",
+          "source": "三立新聞網SETN.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OUHJjUW12T2xWd2lFdWRwMjFFMGFiN3gySXJWXzNNbFNsUC1CUG1SNF9oZ2ZnYzlNUURMTXJINlhyelVuYVhoedIBTEFVX3lxTFBmRHlWZEdEbmRXMUtMYXFjUTRkY0pWX0VuWDJBQS14RGwwOV9zZkFYaUlnT193eFdWS2FnQ05keWJOcVV4SkY5eVl3ZXA?oc=5"
+        },
+        {
+          "title": "OpenAI 驚傳因嚴重安全疑慮急煞車！高層向 WSJ 證實已緊急下架喊卡最新 AI 模型",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5"
+        },
+        {
+          "title": "Anthropic 正式提交 IPO 招股書！巨虧數百億美元之際高調警告：AI 恐帶來「人類生存滅絕風險」",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy1KbEtmZ1NBTnFEd3Fkck9jajdOcHNMRnhrRDAzNEV6UWRVaWk4LWZLdlNCeHQ2U29rWUQzaFpmd3ZfUzNQWXQxMVhmX01ELXYyMEk4MzBLRjlrRGdPT0dEMlBsZUU0UFdmZ0VmYVNhTmFtRTJtaXRPNjc5MVBCcFNNaHY?oc=5"
+        },
+        {
+          "title": "川普與 Anthropic 執行長 Amodei 於白宮共進晚餐！政商巨頭密商前沿 AI 發展與監管",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYTB1WUpwQjdzb2QyV1FTT01ydF9WOGVBVGtpeHVZTzFvd19jQXdJeUpJUmV2cW9wX0tKeXJLUXdGM3dVREx5cDd5ZFFPaUdHNDdUTHVqRS1PNEhmZWJ2U2RFeVNENGZSMVhCV1FWSGpaZWk1QXFqWTdjVXRxLTRMd1dlUWJ5ajhta2pGUHFXb25GOEtnX0RqQjFRWUU2bnd2RFE?oc=5"
+        },
+        {
+          "title": "Google 登月計畫 Project Suncatcher 曝光！正式挑戰將 AI 模型與算力部署至太空軌道",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5"
+        },
+        {
+          "title": "微軟震撼放棄個人 AI 聊天室賽道！重組 Copilot 改版並將重心全面回歸企業與工作流",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3k0S3NVQXlVWXFfSjd2cDltMFJuSXBZZUkwZDJ5VWd5V0k3ZjN1dmZnZ29ibV9rNm1vcWpFWWx3QWNHNEpFUWZzOW83dDJDSnR6cUNfRWM4UTBuSDdRMkwyREtlZmNWcUFyQlRISjF6VDk3Y2tmcGRlVzlIQjhydG91OEV5eWRoSVlhbzBPX3lIczgtbEVLQnVBZklRUDh5OFMxb2FmU3pxa1ZDZ0gxbVFOQXM?oc=5"
+        },
+        {
+          "title": "Docker Cloud Sandboxes 重磅登場！為 AI 寫碼 Agent 打造跨端一致的微型虛擬機（MicroVM）隔離沙盒",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "GKE Pod 快照技術打破大模型載入瓶頸！GPU 記憶體快照讓 70B 模型載入速度暴增 89%",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Harness as a Language 論文發表！arXiv 推出極簡且具極致表達力的 Agent 腳手架框架",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Td2QxSlJmOE8tWGFOVUtZTDRaSHJWdzIxZEwwTkdfYm0xYXMzZ1Zkc0RBbEZ6dmRhQ2NwaU4yeUxlNzdaNEZR?oc=5"
+        },
+        {
+          "title": "自駕卡車巨頭 Aurora CFO 震撼宣告：2030 年前部署 3 萬輛無人駕駛卡車絕非空談",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/"
+        },
+        {
+          "title": "paperclipai / paperclip (★93466)",
+          "source": "GitHub",
+          "url": "https://github.com/paperclipai/paperclip"
+        },
+        {
+          "title": "vectorize-io / hindsight (★41599)",
+          "source": "GitHub",
+          "url": "https://github.com/vectorize-io/hindsight"
+        },
+        {
+          "title": "NawfalMotii79 / PLFM_RADAR (★25892)",
+          "source": "GitHub",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+        },
+        {
+          "title": "mvschwarz / openrig (★1942)",
+          "source": "GitHub",
+          "url": "https://github.com/mvschwarz/openrig"
+        },
+        {
+          "title": "Prime Assembly 革命性升級 Prime Editing 引導編輯！《自然醫學》發表超大型基因組重排突破",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00049-9"
+        },
+        {
+          "title": "300萬人數據追蹤非吸煙者肺癌密碼！《自然醫學》揭示 EGFR T790M 種系突變演化史",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00048-w"
+        },
+        {
+          "title": "泰勒絲發新專輯竟讓車禍死亡率暴增 15%？《JAMA》發表哈佛團隊最新統計結果",
+          "source": "JAMA (自由娛樂)",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82ZTRUVUhITTVHVExCbFh4WEh5Q3lzV25YSHB5ZDUwNVBrUndOc0xsQWNDTEZubFBiRDRfdjJCUUtya1lPV2FoZzZwU3Y5dU5YdFdfRTF5WTBSNDVU0gFiQVVfeXFMT3pxM0dkNEdqNW9fTWs5RVVTTEdNcVZpOHRRc0FTeXZtZHRTSWI2ZlVrcXR4TWl1X2ZDX1M2bXpwRGFwSm45OFBMVTNLRHU2OU5VSnhyT3NuRE5pQjRyYXU3LVE?oc=5"
+        },
+        {
+          "title": "常用廣效抗生素頭孢吡肟（Cefepime）警訊！《JAMA》最新研究警告恐顯著增加死亡風險",
+          "source": "JAMA (Singtaousa)",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWFRSNVU3dkhJQy1oOVY1d05feFhyWXJrLWNJSlFfbmFnSGNLeUNLNW5UaXh3ZjZaWHNPc2tmQXRlZExpZE9kYVN4OTBNRUNPREc1TFpuMzFpc0FtdWhfZ3RUb3NHMnM4UDNTaHNBT05DV0x3YUVVZXhrTWJSN3Rzak5rMGlsSGJCU2hxSmhFV1A0Q0ZtQnpmYndtLVF2aFhjaEN0c0pyQV9tZ3NmZjZFUG5zbWVEQkZTRzNpREIwTXZIWnRSWDNFLUhDQlg?oc=5"
+        },
+        {
+          "title": "開源 AI 模型 SEE-AI 拯救腸胃鏡檢測效率！《PubMed AI Medicine》發表小腸膠囊內視鏡病灶精準篩檢",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42148037/"
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "title": "新聞雷達 (2026-09-24)",
