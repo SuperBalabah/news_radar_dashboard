@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-09-29T09:36:39.122865",
+  "last_updated": "2026-09-30T09:52:23.227856",
   "daily": [
+    {
+      "date": "2026-09-30",
+      "title": "新聞雷達 (2026-09-30)",
+      "file_path": "News_Report/新聞雷達/2026/09/2026-09-30-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "日本人口 5 年狂驟減逾 317 萬人！外國勞動人力規模創歷史新高",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52elprUXpwaGhkRlJYVVQzV3pDRjYxNC11akI1R1YxaFYtcVBDRl9Ic05JYzltNzBhZ01JRC14VzhBU3l5RnUtdy13TUpBM1Vqbkw2R1ZLQ09jTEZzQlRB?oc=5"
+        },
+        {
+          "title": "川習會國宴驚爆內幕！白宮臨陣將比亞迪與小米等中企高層踢出受邀名單",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPVjloS3UtTHRaRGRNZS1jc2VPTlBNaHxd..."
+        },
+        {
+          "title": "卡米地喜劇俱樂部遭潑穢物案！北檢認定中共跨境鎮壓起訴 2 人並求處重刑",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15Y20wZVVUNFNMeE9ac05rLThjS1c5ak9pdkc2VTJ6LTVkd3prNDBSX01UM2dLYUpoSXZGNnNQSG0zQTBVTEtRWmR4SXhOeDNhc3h1a0RmS2o5bHJaVWp3?oc=5"
+        },
+        {
+          "title": "台灣東部海域突發 5.9 強烈地震！花蓮與雙北震撼有感，日本同步發布海嘯預報",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOdkg4U3dQeHM1Ym1WQnZHQzN4eTY3Q1BDdXFfb0tzVDJ5WmU5a2c1SHQyaHdhRVBmS1pXbmxuY2MyOGFaYTJEWE5ka0N6amJCSVQzb29ieXdrbHctcWtIUjlGekh0SkhKdG1QaWZpaERqbTdaYldOX3RoYURDbVFSUWpxZWJaRXRVTTFDVjdGaUJEc0FXU0x5eEZHYlAzYTRKLVUxZ2pGLTlsdm1KeXcxQkd6WmNNMlk3OWhMcDhWVnVfeTdIN0VIYUhRWmY4eXFMTGY5UjFKQm5FT0liUHlka2libko4RjZIM3RfQ0pwcXRvSDRuZGRrd21TR0JYMWx3Y3B3bkVJd0xPb3k5ZWp3ZXQ5QzhNbDJKNjFpd3RWNWdmaDNMOHhTTzBVLXpodGNFXzJEUHFTWE9KcXZKRkhGVXJPRXVJekFMVWU3d0FmeDRlVFBZUlp1b0NtYzdoemNhNjZ6aVF1WQ?oc=5"
+        },
+        {
+          "title": "OpenAI 開發者大會 DevDay 發表常駐型 Agent 服務「Dots」！Sam Altman 首度正面回應 IPO 傳聞",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5idERPZWJyRmd3emJFdjh2SkNZank1Wnc0aVlJYi1ENFlxbS1vLTc3SEVOWkRvSEZkSEtMdFE5MmJYOEVEdmdzbEJDLWxwa0N1ZTZzSDUza2lKNGpNNmRUaUw0TVFKT1lvcEs1ZXN3bUJJM2kzaW5v0gF8QVVfeXFMTXRqSjVPc2kteE1lTjI4YjJ5QWZKV3plRlliV3FqZ05sRWZfR3hVZkFLUHdPaWxRZmltNDEzM2lHRk02RWJCbTAtYUJmYU5CUm5NS2p5T3lYaC0tM0FTZDhjdXZWalV6OUNYR0HpbnN1dEhCNU1kb1U3U3E5Ng?oc=5"
+        },
+        {
+          "title": "OpenAI 爆發內部誠信危機！外媒披露管理層無視員工警訊，強行推進高風險 AI 模型測試",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M3C1W_M?oc=5"
+        },
+        {
+          "title": "Anthropic 內部研究揭密！探討 Claude 是否具備「類人意識」，並致力注入道德與倫理機制",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5"
+        },
+        {
+          "title": "全美數百萬散戶交易變天！羅賓漢（Robinhood）全面對接 Anthropic 推出 AI 股票交易代理人",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjdsLXFZajlrWnpKb2xkTVJpWmlFcWNhSlotN1JLeVVUbC1zLWFmV3JqNzF3RmRzc1ZnSWtYNHlvMlhXYnhiQU42SWE0MDNkWnoycXd6MXFUWFpuRmhMTVdRVzV5VmZxZjgwbTh3THlyMnJmd2p2bFZWV1I4aXExTWZQVC0?oc=5"
+        },
+        {
+          "title": "美國政府聯邦入口網站 America.gov 正式登場！合作導入 Google AI 聊天機器人服務",
+          "source": "Android Authority",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONE1OUHZlY2J6RmRzWndqSWlnNU9RNDFOWEQya21KYVM5eU5oUklUNDdHM3E6WURIRnRkQUtCSXQtZEplVTlQZ2hUNTdUMlBWMmNFZm5ETkY1OU1jMTZsR1F3YTJoQXB5S0w2NHptOVIwa0YyOW9xOUtOLVFzLTJwWkJ5TEFpRXM?oc=5"
+        },
+        {
+          "title": "AI 重構 30 萬行老舊代碼！CodeScene 發表 C 語言自動化重構案例，引爆工程界論戰",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/09/agentic-refactoring-case-study/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "蘋果 Apple Pay 終於正式攻入印度市場！聯手軸心銀行（Axis Bank）解鎖行動支付",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"
+        },
+        {
+          "title": "馬斯克 xAI 槓上 OpenAI！在 Dots 發布前夕秘密搶先買下 Dots.com 網域引發網路熱議",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+        },
+        {
+          "title": "AI 房產管理新創 EliseAI 狂攬 3.5 億美元融資！估值翻倍飆升至 40 億美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
+        },
+        {
+          "title": "打破傳統資料集預訓練！arXiv 發表 Self-Play 零數據自博弈預訓練新架構",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RQnFGYmlCNXAycXJrNk5SNUcteG5CZlVKdXU6OGhkdHdNQjg1MkdJNjl2NXZ5YlVjM3dYa1dRcmJWcWY4XzJR?oc=5"
+        },
+        {
+          "title": "debpalash / VoiceStudio (★49097)",
+          "source": "GitHub",
+          "url": "https://github.com/debpalash/VoiceStudio"
+        },
+        {
+          "title": "NVIDIA / OpenShell (★10955)",
+          "source": "GitHub",
+          "url": "https://github.com/NVIDIA/OpenShell"
+        },
+        {
+          "title": "t8y2 / dbx (★22536)",
+          "source": "GitHub",
+          "url": "https://github.com/t8y2/dbx"
+        },
+        {
+          "title": "rohitg00 / ai-engineering-from-scratch (★61760)",
+          "source": "GitHub",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+        },
+        {
+          "title": "微衛星不穩定（MSI）實體腫瘤標靶重大突破！《自然醫學》發表合成致死標靶新藥一期臨床成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04693-z"
+        },
+        {
+          "title": "早期 2 型糖尿病口服小分子 GLP-1 受體促效劑 Safiglipron！《自然醫學》發表雙盲對照臨床試驗數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04651-9"
+        },
+        {
+          "title": "史丹佛團隊揭密活過 100 歲的 5 個長壽關鍵！《JAMA》報導揭示這 3 個習慣對健康延壽影響最大",
+          "source": "JAMA (Harper's BAZAAR)",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGh0T3Z0RVBHWnotcGZtVVAyUjI5blJUN1_xOVk3ZzM1RTgwdEFpRVlEajZ6NUpNUTNoc1RnLS1ZdUFpT0ZYLU43M0swbnRkR3piYUFhTTduMy01UnNUNDVCZ3d5RGhrNFdZWTRBRV_XWXZuc1Nrcnl5S2gtVHgzVjY1eEpXMFcwdlE?oc=5"
+        },
+        {
+          "title": "常見基因變異於常見疾病的臨床應用實務！《NEJM》發表多基因風險評分（PRS）最新綜述指南",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2413201?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "title": "新聞雷達 (2026-09-29)",
