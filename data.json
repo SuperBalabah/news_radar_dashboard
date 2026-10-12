@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-10-11T13:35:28.006001",
+  "last_updated": "2026-10-12T16:13:11.390181",
   "daily": [
+    {
+      "date": "2026-10-12",
+      "title": "新聞雷達 (2026-10-12)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-12-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "2026 年大西洋首個風暴「伊賽亞斯」增強升級為颶風！預計登陸美國墨西哥灣沿岸",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
+        },
+        {
+          "title": "小羅勃甘迺迪推動之爭議性疫苗臨床試驗！獲西非幾內亞比索政府批准正式重啟",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
+        },
+        {
+          "title": "共軍宣告 10 月 12 至 17 日於渤海、黃海、東海與南海四大海域展開密集軍事行動",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtUHFJT0JnQ19sMHlSUEZ3Y2puT0dhV1MybkFEUUN1RDhSQjRIMWIxMjlxdGJUd1NyT1NaZmp4UmM3R29aQUliZkZZeWJ6OGxQbWxVOGQ0MFo2Y05fRUE?oc=5"
+        },
+        {
+          "title": "留住資深戰機飛行員！國防部推專責飛官制度，延役年限放寬至 58 歲",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55c1YxZEZXdUxVMERnUHVpbnFnMUI0YmdPa3hjU2RxM3VOUy1GeGY0YnQ5OGJld0FuOHp5bUFWZmJaMEZwZk1HZ2RISFpab0ZJQXVBcTdYWkVYLUxqWmxv?oc=5"
+        },
+        {
+          "title": "OpenAI Dot 與 Meta Muse 正面交鋒！次世代自主 AI Agent 規格與架構深度對比",
+          "source": "OpenAI News (Engadget)",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSFZjTm45QWdRTVNwLVpjS04xZkdLMlJtNExPSld4VGk5eXlhNVhfOVFEVWJRUlNEazd5RGFTV2FWZkFLWGl0SWoycTdqYnJPM2kxN2JNdEQtY0lNMFNVMHZYRXN5YURHaGRyeHpGTVYyQWpyTWE5dEpNQ1R2MC1BWWp2NGE?oc=5"
+        },
+        {
+          "title": "Anthropic 狂砸巨資開展資料中心大擴建！背後恐怖的高回報商業經濟算盤曝光",
+          "source": "Anthropic News (The Information)",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFVGNUhWOWkwOWdjbkwycUxUUFQ4NU5tSTBVU2Y2ZW9tYnFzWkJ5b1U1cmpnSDhSdDlYUHBNZlZmMHNCeS1aZzNBZkYzUXJyeHB0TmFXeUt0X0E5dnNmUl8wZjZzdG5hMjdYM0VkZ016OUNrMUxzTjc5T1VuRDYxUUUxWkN1V0d0eDNmcGdfUDcySE45ZDRnR1_7bzduTHM3cEVKUWJFcERzdXRmLWI3ejhvbEVWNVow?oc=5"
+        },
+        {
+          "title": "Google 重磅發表 AI 遊戲創作平台 Playground！零代碼即可一鍵生成自訂互動遊戲",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3EtVDA1V3x6c1dxNS1yc3J0OWlnaDJBdFZER3FkOXpJam1rVUJsRzRQTEdDRG5TWjlraHBhVGEyYUlMUFM1MGp6QkFhTjVjQjl0aE5qbDVsODFiMHl5RWV5U1B6ZmQ4R05WUnVpTGJNRWNzSEF2bTl5QnE1U0F5U0dOMlphOUVMOVA3U2YyckNnb1AtSFhJ?oc=5"
+        },
+        {
+          "title": "微軟總裁 Brad Smith 再次重砲呼籲：前沿 AI 監管力度竟比牛奶還鬆散，法規急需跟上",
+          "source": "Microsoft AI News (BBC)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWblVtb0HgbURUVU1uMXNTMmFyUmxwUGNETm1ZUmpGRVJmcVdUVVlzT2N4LUFzbVRkLVVtR1VvWURJc3NYRkhoY0Q4UDRGTm9sZWxhUVJvMThuWTQ?oc=5"
+        },
+        {
+          "title": "Cloudflare 正式宣告收購 Deno！全面重構 Workers 邊緣運算程式設計架構",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+        },
+        {
+          "title": "Context Language Models 論文發表！實現動態自主管理上下文，大幅削減算力成本",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Postgres 根本不慢是你的儲存硬體太卡！ClickHouse 團隊技術剖析效能瓶頸真相",
+          "source": "Hacker News",
+          "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is"
+        },
+        {
+          "title": "arXiv 發表 DrugTargetWorld！打造生醫 AI 專用的合成生物銀行與科研 Benchmark 平台",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xTKTSuHQ5REtOMWxWa09aOG1WVzA1Sk5QdUFWcFJIeWZMQTItcjloMThMcEdSRUZVYmlYS21GbWdkVmVrYnNV?oc=5"
+        },
+        {
+          "title": "boykopovar / AnyPS5 (★31110)",
+          "source": "GitHub",
+          "url": "https://github.com/boykopovar/AnyPS5"
+        },
+        {
+          "title": "storytold / artcraft (★19269)",
+          "source": "GitHub",
+          "url": "https://github.com/storytold/artcraft"
+        },
+        {
+          "title": "pytorch / pytorch (★104662)",
+          "source": "GitHub",
+          "url": "https://github.com/pytorch/pytorch"
+        },
+        {
+          "title": "chrislgarry / Apollo-11 (★74457)",
+          "source": "GitHub",
+          "url": "https://github.com/chrislgarry/Apollo-11"
+        },
+        {
+          "title": "乳癌全身性標靶與免疫治療新突破！《NEJM》發表晚期乳癌臨床精準用藥綜述指南",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2500695?af=R&rss=currentIssue"
+        },
+        {
+          "title": "電腦輔助檢測（CAD）精準拯救胃癌漏診！《PubMed AI Medicine》發表 ESD 術後早期殘餘病灶篩檢",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42609944/"
+        },
+        {
+          "title": "臨床預測 AI 模型程式碼開源規範審查！《自然醫學》呼籲提升醫療 AI 論文可重複性與透明度",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04691-1"
+        },
+        {
+          "title": "大語言模型於上消化道出血真實世界患者管理！《PubMed AI Medicine》評測臨床決策支援實效",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42428234/"
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "title": "新聞雷達 (2026-10-11)",
