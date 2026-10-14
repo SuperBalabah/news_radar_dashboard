@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-10-13T13:06:18.106808",
+  "last_updated": "2026-10-14T15:28:32.000464",
   "daily": [
+    {
+      "date": "2026-10-14",
+      "title": "新聞雷達 (2026-10-14)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-14-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美駐希臘大使季伏爾捲入重大賄賂醜聞！白宮緊急下達通牒要求辭職",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WZkhTNkh3Q2k3QkJoTGxBbmF4ajJhNldfTWlYRTl4OWd4NmxocVFJeXJkOVVGVnBjTmRmM1Y3WHNncm9JWHN2dl_KQzl4TXdQUmdHU3ZocWdHZGFobWUw?oc=5"
+        },
+        {
+          "title": "川普拋出新戰略構想！擬於佛州私人高爾夫球俱樂部打造「新戴維營」離宮",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OVTdVYjg0N0F2NGh3V3VJNmZRRnRqaEljNm5jLW5YZXlEUjF0OTlXdkVFSXRoaVlJR2hFOHp5VjduTGZSV2JlYmk2QTZfbkVyNEJwYTV2ZWpJTmM?oc=5"
+        },
+        {
+          "title": "外資狂提款瘋砍台股！新台幣匯率狂瀉逾 3 角爆史上最大交易量",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oV3ZuSVJ0cGI3WmoyQ255blZEaDBrMTdZYzRCQ0pFelcweWlKVlBxR2JvaXpXbnYzSGFPZDNRQUdrZU9xbXdZVVJPSVNXVkhmYlZudUtwd2VOYXg8WXc?oc=5"
+        },
+        {
+          "title": "台灣護理師赴西藏旅遊遭中共約談！揭露國安人員反覆逼問政治立場",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rekdIbFBsZWdoUGhBTXl2S0hlTFJNQk05cFJqVEFId3Z1Sk5wV0ZPNWNfSHFiOUYwbjVVZ3VCZ3pyT0FockVKUTNjME84Z3RXRldjSU5FWVdpc3N4UlE?oc=5"
+        },
+        {
+          "title": "OpenAI 爆發驚天資安醜聞！沙烏地籍工程師涉嫌於會議室偷放竊聽器遭 FBI 當場逮捕",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2ano?oc=5"
+        },
+        {
+          "title": "Anthropic 發布警世報告！警告 AI 模型恐在短時間內實現「自主複製」並癱瘓網路",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel_VwTXVqakRZeU5CT3EzbHRuRXBNcGJvSER3bTljbmV3Q1hZRHE0bmc1S0Q2MVAxX3pPV0UzZ2t3YWc?oc=5"
+        },
+        {
+          "title": "Anthropic 宣佈將首度公開財務營收數據！AI 實驗室財務體質成市場核心焦點",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTFZ0YmNOLXFxS3pxWDdPSGx0bjBrdDE2OXFTZmJELThrSU5LWHZlYXcxQ2swUmZUWHhNRjc4Znh1bDZQVU4xMjQ4ZTAySHNQMWRSZjRlaVF3T3F0MDRIU2l4T3A3V3NNYy1pdGJqZ0dwIB3wQV95cUxPVEIwS2NSc2tIUTZUaGF3WGJjekFPY09NWFJVMU5ZWUp3bGxpTC1RWmJzSlREX09xR0lzdkJVejlpV2FFWVdYRVNJZFV6cXM0Y0hyQ0kxdGhlcmd0Y0pTRE1qVTZXUVNJeHpVUVQyVVcwbUNvTXRz?oc=5"
+        },
+        {
+          "title": "Google Play 推出 AI 零代碼開發工具！讓任何人都能用自然語言打造專屬 Android App",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVFJRTBhVmU4SGFjTkFpSFBDdWZuMlhFN1_6QzNHMF_CRmoyQkloQVhKWVZIeGg1R3dhNGJXUWQ3Mm96SlpmejNtTXdFbEozZDRXMWZsRHJ6WTNqYkRrYTB0bnRKQmd5dF9LV3U1R2F2R0JoS3NyUVRWYllNLURwUGhGZFdJOGVQSTBuek5MUE1aZmt3Ti1jOG1FN2x4YU9tMFp1Yg?oc=5"
+        },
+        {
+          "title": "視力重建重大突破！Science Corporation 成功將光電晶片植入失明患者眼內",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+        },
+        {
+          "title": "美國司法部揭露震撼內幕！北韓 IT 駭客已秘密滲透全美數十家科技公司",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"
+        },
+        {
+          "title": "工業機器人升級！Industrial Next 推出 AI 模組讓機器人數分鐘內轉換生產任務",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+        },
+        {
+          "title": "加密貨幣硬體錢包驚爆供應鏈漏洞！Ledger 證實遭到植入間諜晶片竊取資產",
+          "source": "Hacker News",
+          "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+        },
+        {
+          "title": "arXiv 發表 Meta-Reasoning 元推理新架構！讓長跨度科研 Agent 自主決定下一步調查方向",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50a1ZBZDlMQWpteGxlaGhJVjc4U3BpVmZydy0tUlgwZlAzMzBvR3hPSlVSZkdiUHVEenVzNUQyMWx2SFluV1E4?oc=5"
+        },
+        {
+          "title": "vercel-labs / skills (★34719)",
+          "source": "GitHub",
+          "url": "https://github.com/vercel-labs/skills"
+        },
+        {
+          "title": "xtool-org / xtool (★9806)",
+          "source": "GitHub",
+          "url": "https://github.com/xtool-org/xtool"
+        },
+        {
+          "title": "實現 HIV 病毒長期無藥（ART-free）自我控制！《Nature Medicine News》發表廣效中和抗體聯合療法突破",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04714-x"
+        },
+        {
+          "title": "人機協同即時管理癲癇發作！《Nature Medicine News》發表 AI 穿戴腦電圖臨床監測系統",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04680-4"
+        },
+        {
+          "title": "發炎性腸道疾病（IBD）重大病因突破！《NEJM》證實白介素-10（IL-10）自體抗體為致病關鍵標的",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2609242?af=R&rss=currentIssue"
+        },
+        {
+          "title": "每週運動多久才能精準減脂？《JAMA (Women's Health)》發表運動時長與體脂腰圍變化臨床研究",
+          "source": "JAMA (Women's Health)",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHlZWjJkZXkzUUZvY09mZEVkTkFyNl_XM21kSlFVR2JubEphZEJJYW5WdGFabkFJQldpV0hjdlBleVpvV3pBczgzc2dBUy0yajNCRXh0MHI2TTZpdjcyZGw3MmF1UTJydWYxM24xYXlvNnRLdFBhaWJ4dFdtakFUSVRqSDlnZEVpa2FQTOrNzNuS0H1UlRFVDJteUtWbzRuVmR2Q29QczI1NnEwbnc?oc=5"
+        },
+        {
+          "title": "青少年每天多走一兩千步顯著改善心理健康！《JAMA (TechNews 科技新報)》發表臨床步數研究",
+          "source": "JAMA (TechNews 科技新報)",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFRIRm1JTnhubWJsTnQtUEhZU0HFTlYwMFB1T3lkY2w0b00zTE9mRXpoQUxuX1NTNUczMXREdkdWTzJtN091V0M4cWVtMG5USGZWV1RETXh2cWxpV0E0U0FPVmkwTDMwaE5HUngwdTJfY2FJTlRuYzFyUEVOaXFEYnk4SW94YVhWRnBZVzJXSWUwMjdZWnp6amFyMjNBcDQ?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "title": "新聞雷達 (2026-10-13)",
