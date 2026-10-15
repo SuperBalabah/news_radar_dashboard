@@ -1,6 +1,138 @@
 {
-  "last_updated": "2026-10-14T15:28:32.000464",
+  "last_updated": "2026-10-15T19:18:30.154761",
   "daily": [
+    {
+      "date": "2026-10-15",
+      "title": "新聞雷達 (2026-10-15)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-15-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普公開承諾不再進行「斬首行動」！答應不再刺殺伊朗領導人以緩和中東緊張",
+          "source": "世界新聞網",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wc0FwOHlWNm4ycGJfQ3IxdGFwVDRwRDRwUFR1NURxNmJveDFOZDduYll4Skt6YWtzYll0NEZ5MDFEUVdrUnJsc3lEUDNzY3ZpZ1FodXZ4NW91bHBySVRzLWRaRXRvSkp2NFFoVXZ5VG4wb0xXNllj?oc=5"
+        },
+        {
+          "title": "土耳其沿海驚喜發現全球最古老沉船遺址！青銅時代考古取得突破性重大發現",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcjhBeFpSOHdzZWRrdll4QkxDU2tjejNVLWt1ektxd3NpMkg0enp1aDVOM3JMZzR3LUptd2JGQURUdjI3VDRBaURwa3d2RDdnNmVpTzlJSGsyd3M?oc=5"
+        },
+        {
+          "title": "國造潛艦「海鯤號」順利推進第 25 次海測！專家證實海試階段進入最終驗收",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE08S3VSd3FaWTFxTVJzZHhGRDAxbi1fUmI1WktxT2RBcERVd0otb2tMN3RlQy1LQlBTQUpYSnhwNDc3MGlCUDd6Mnc1cTFqWDJUb2ZpVnkxXzVNeHBTR1RB?oc=5"
+        },
+        {
+          "title": "藍營力推選前加碼普發 2 萬元現金特別條例！行政院重申財政紀律三原則",
+          "source": "三立新聞",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TOTBGNDkxd3B4VTdLMTJ1SG1FNnJTVW12NjlKbVQ1SDN0dmNobkl0NjNhekZ6OUJoMHBuRTlVeWJ4QTBQOXFlc9IBTEFVX3lxTFBHbFhXSW1RdVdFeTlPQm5pVm9OZ3QzNl9oZlZKWEVKUnNBYTdmRXN6WEtqLTVSeVJrVUl5aW1hQWo2NFNiVWVYclNWWEw?oc=5"
+        },
+        {
+          "title": "OpenAI 遭全美 8 個州聯合起訴！指控 ChatGPT 缺乏兒童防護並誘導自殘情緒",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/14/openai-lawsuit-child-safety-harmful-content"
+        },
+        {
+          "title": "Anthropic 安全團隊突發警世報告！警告 AI 模型恐在短時間內實現「自主複製」並威脅網路安全",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/anthropic-warns-ai-models-could-soon-self-replicate-2026-10-14/"
+        },
+        {
+          "title": "Anthropic 向聯邦上訴法院申請重審！誓言翻轉美國國防部「資安風險名單」黑名單決定",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-asks-court-to-rehear-fight-over-pentagon-security-risk-designation"
+        },
+        {
+          "title": "Google Play 發表 AI 零代碼開發工具！讓任何人都能用自然語言打造專屬 Android App",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/14/google-play-vibe-coding-android-apps/"
+        },
+        {
+          "title": "Google 擴大挹注 450 萬歐元！聯手愛爾蘭氣象局推動 AI 高精度氣象預報系統",
+          "source": "RTE.ie",
+          "url": "https://www.rte.ie/news/business/2026/1014/1475302-google-met-eireann-ai-weather/"
+        },
+        {
+          "title": "Figma 發表全新 AI Agent 平台整合架構！預先定義 Agent 在 UI 設計流程中的作業規範",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+        },
+        {
+          "title": "零點擊（Zero-Click）間諜軟體爆發極致威脅！透過定向廣告精準感染智慧型手機",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/"
+        },
+        {
+          "title": "25 萬億 Token 數據分析揭密！InfoQ 發表報告剖析開發者對 AI Agent 的真實信任度",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Meta 將保密計算（Confidential Computing）延伸至 AI 眼鏡！確保私密多模態處理",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Google Antigravity SDK 新增本地模型支援！提升 Token 效率並確保代碼隱私",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/antigravity-sdk-local-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表 IdeaLens 指標！精準檢測長篇論文與寫作中的 AI 觀點與生成痕跡",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13Y1JqUFRDdUN3UzljV2g3Q3ZPQmlaek9tcEZUUkdJOXluMjV1b3RkQ2FsZWVMZ3VLRWdRTGJxYUtxTW5QY2I0?oc=5"
+        },
+        {
+          "title": "anthropics / claude-plugins-official (★38233)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/claude-plugins-official"
+        },
+        {
+          "title": "obra / superpowers (★299419)",
+          "source": "GitHub",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "title": "JuliusBrussee / caveman (★112044)",
+          "source": "GitHub",
+          "url": "https://github.com/JuliusBrussee/caveman"
+        },
+        {
+          "title": "ruvnet / ruflo (★74754)",
+          "source": "GitHub",
+          "url": "https://github.com/ruvnet/ruflo"
+        },
+        {
+          "title": "NationalSecurityAgency / ghidra (★88094)",
+          "source": "GitHub",
+          "url": "https://github.com/NationalSecurityAgency/ghidra"
+        },
+        {
+          "title": "難治性 HIV 患者長效型抗病毒療法突破！《NEJM》發表非洲成人生存與依從性臨床對照數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2601140?af=R&rss=currentIssue"
+        },
+        {
+          "title": "成人 Ph 陽性急淋白血病（Ph+ ALL）標靶治療！《NEJM》發表 Ponatinib 聯合 Blinatumomab 無化療試驗數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2603310?af=R&rss=currentIssue"
+        },
+        {
+          "title": "人工智慧應用於自殺預防的機遇與臨床倫理！《PubMed AI Medicine》發表臨床指引評述",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42654321/"
+        },
+        {
+          "title": "自體與廣效中和抗體引導 HIV 長期免藥控制！《Nature Medicine News》發表免疫治療臨床試驗成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04714-x"
+        },
+        {
+          "title": "即時人機協同 AI 系統共管難治性癲癇！《Nature Medicine News》發表穿戴式腦電圖發作預警",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04680-4"
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "title": "新聞雷達 (2026-10-14)",
