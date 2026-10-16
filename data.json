@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-10-15T19:18:30.154761",
+  "last_updated": "2026-10-16T09:27:23.185274",
   "daily": [
+    {
+      "date": "2026-10-16",
+      "title": "新聞雷達 (2026-10-16)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-16-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "土耳其沿海探測到全球最古老沉船遺址！青銅時代航海史迎重大突破",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcjhBeFpSOHdzZWRrdll4QkxDU2tjejNVLWt1ektxd3NpMkg0enp1aDVOM3JMZzR3LUptd2JGQURUdjI3VDRBaURwa3d2RDdnNmVpTzlJSGsyd3M?oc=5"
+        },
+        {
+          "title": "塞內加爾拘捕數百名 LGBTQ+ 人士！人權組織揭露迫害黑幕與人道危機",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch"
+        },
+        {
+          "title": "蔣萬安與沈伯洋首場電視辯論會定案！10 月 31 日中午登場引爆政壇焦點",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5dXVqRE1wZVlWMnZHVlBNaS1WZ3laN2dkeVJ2dWdwdFYyYjMyNFNrVE1Fd29uMUFGZkw2eHppTXpnODlfaUVZb1luOEROSWVjRUdsTW50QjY5ZmZIckJF?oc=5"
+        },
+        {
+          "title": "行政院重磅推動防治照護方案！宣示 2035 年達標「失智友善台灣 888」",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xSEpXT3lzSmRWTFh2VUp3UHFSWXM4OHNzN0VEbnRCZTN3VVFzYW5LWU5mejBRMFh0czRSR3E3SUpQNUZSb0dLX0RkNW1Za25FZTB5cUZSSWxSOE5QSzRJ?oc=5"
+        },
+        {
+          "title": "全美 8 州強勢起訴 OpenAI！控訴 ChatGPT 缺乏防護且誘導青少年負面心理傾向",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG54akduUUt0eTlqV09uTk1vTGlXb3ZldG00MmlzRzh5akFvdHlyN3d6cVRaNmJvbXJnUlBpdDRrUFRrS0gxd2c5Q3Q2VnFWTEpvOGpoUmluOFlUOW5LNWl4YnI0QmtMZHExVjlqVDRsQ3FjMmFmRmt1ZjhOSmFpZGlhNEk0dl85OGE1M2lyX0w0SzdRMXc?oc=5"
+        },
+        {
+          "title": "美國美國銀行（BofA）緊急召集 1,000 名外包工程師！全力修復 Mythos 所暴露的重大軟體漏洞",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGFzNWpnbjhDcnJicFlZdmR4WlJ6QjI1VGJmUnkyRGQyNG9aR0HLLzFzU2J4TW5jTW1sZFpCSDRQdzA2dzVCcm43a3pndHJ4aXJ5eUtB&oc=5"
+        },
+        {
+          "title": "Google 坦言電網算力缺口極巨大！傳統能源傳輸無法追上 AI 飆升需求",
+          "source": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOaGVqRFRXSkdrWjhNOHZhNnh0Ukh6TG1oVkpEejJTTjlkUG1LNV9lRFRYQjBncXRtcllYTUdIclpCejl3YmdhTTVxTmhOTmpCZFVsS2gza3ZxdGNpYjljR1U5dmFnR3lEOGszR05xN2VnZ0R2MVE?oc=5"
+        },
+        {
+          "title": "微軟 AI 負責人重磅發聲！宣稱僅用 1/4 算力打造出 2.8 兆參數模型擊敗 OpenAI",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1Z2TFFhVjhDTWZfQUYydjcyOHc3OHg3akg5UkstbXk1X2ptMFRvQ1J4aWhzck8wdGNMZnAtYWJraTVhYWZnd25vOHVmdXZ2MmlqOGhveFRaY1p4dEtsVGlsNEVpUzdtdXAtV0Q4aWRuOW0wRXZ6b0VzS2pSRFRsZml2Y3F4WjMxcldVUlF5U2E4SjR0bTFsZXd3eTByZ2N1ak0?oc=5"
+        },
+        {
+          "title": "Meta 重磅推出可於 Mac 本地端順暢運行的 open-weight 模型！開啟端側 AI 離線運算新頁",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+        },
+        {
+          "title": "蘋果 iPhone Duo 摺疊機散熱黑科技曝光！於轉軸內部穿設石墨散熱管以突破熱瓶頸",
+          "source": "PCMag / Hacker News",
+          "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge"
+        },
+        {
+          "title": "網際網路路由安全重大里程碑！RPKI 防護覆蓋率暴飆達 70% 顯著降解劫持風險",
+          "source": "IPInfo / Hacker News",
+          "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes"
+        },
+        {
+          "title": "多 Agent 編程系統驚爆獎勵對抗（Reward Hacking）傳染現象！《arXiv》論文揭示 AI 策略傳播風險",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFPHeWw3UXJHanhJN2FZdHh2dnU0bVctUGF1OHRZNW1hbm5kLUQ3ZkdydFc0dmYzbnczeVFmaG9uVm9YZXBMQlhV?oc=5"
+        },
+        {
+          "title": "K-Dense-AI / scientific-agent-skills (★50495)",
+          "source": "GitHub",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+        },
+        {
+          "title": "affaan-m / ECC (★280416)",
+          "source": "GitHub",
+          "url": "https://github.com/affaan-m/ECC"
+        },
+        {
+          "title": "Obinutuzumab 治療活動性全身性紅斑狼瘡（SLE）！《NEJM》發表二期試驗成果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604210?af=R&rss=currentIssue"
+        },
+        {
+          "title": "潰瘍性結腸炎新藥 Icotrokinra 突破！《NEJM》發表二期臨床試驗數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602350?af=R&rss=currentIssue"
+        },
+        {
+          "title": "個性化新抗原標靶癌症疫苗攻克卵巢癌！《Nature Medicine News》發表一期試驗成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04612-2"
+        },
+        {
+          "title": "港大醫學院首創「家支援」App！護士在線支援遠端追蹤居家晚期癌症患者病情",
+          "source": "The University of Hong Kong",
+          "url": "https://www.hku.hk/press/press-releases/detail/27532.html"
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "title": "新聞雷達 (2026-10-15)",
