@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-10-16T09:27:23.185274",
+  "last_updated": "2026-10-17T14:58:26.697497",
   "daily": [
+    {
+      "date": "2026-10-17",
+      "title": "新聞雷達 (2026-10-17)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-17-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美國俄勒岡州小學槍擊慘案！武裝民眾追入校擊斃槍手釀 4 死",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WHdsa3Nvd2FMUFdRMmhFaHREdWxDVzlPQlJ5Ml81YjFzd2hNbzRQemJhVVFwRUhqUXU4Qk1aRTVNRUhxOUpfaW9ITS1kV0ZCS0w4OC1pbGtDcUxrT2pr?oc=5"
+        },
+        {
+          "title": "津巴布韋作家否認用 AI 寫作！《大西洋月刊》質疑其獲非洲文學大獎短篇小說係 AI 生成",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story"
+        },
+        {
+          "title": "立院三讀通過《老人福利法》修正案！綜合所得稅率未達 20% 長者健保費由中央全額補助",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOcUFsUkdvTXk3MnE5cEpEUy1BT2JuVzFQY2xsMGdFVHpOSGczelpmTC1KbWNnTl9ZNUw1WEViZF9ZdVVWRDVBNEwtS1MzSVFGNW9XQTlxMGgwX3Myak5r?oc=5"
+        },
+        {
+          "title": "中颱「薔琵」路徑直鎖台灣至沖繩通過！氣象署發布路徑警訊恐擾亂光復節連假",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55UDBaQXlJMEpVZzdwVjRwSE5Ib3gwb1BLVVdOU0RaOWV1ZFpTcldGZ1ZOd2V2ajhLY1dMOFYyMnFZQ0dvSjg3ckM5VWJNbTIx0gFWQVVfeXFMTUl1dVNtRXpFaUxsSXhFS0VxSTdzZjlOdUZYWDU1eHg1VngwNTdBQng0c2t0TnpWZVliakNpeU5aZ1VBVGpTenRyY3RfaEhqcFB1NG44Mnc?oc=5"
+        },
+        {
+          "title": "前 OpenAI 安全研究員提告公司！控訴因警示 AI 安全風險遭報復解僱",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVDFyS0xNWVh3TmhhNURMUG5xS3JCY3k1UzBCdGl4Q3R2aFBNTVU1Z2t3VjlOazA0XzljcTl2TWlhUzNneTRtWUZqRnlRTElydW5hNDgtX1l0TEpXZURvTDRXbWlqTmtpS0tYTFJtXzlsYWx4aXNud2ptV1lPazFfVWZQUFJhX0hIcUgxeGFYdVltTHctRE9oOVRUalBhMml0ZmdmOEVaSk1pUWtnRFlzY25aUjFiMWpGclQ3aUpZczZhTF8yUGI0NEw?oc=5"
+        },
+        {
+          "title": "Sam Altman 於全球能源峰會發聲！強調核能是解決 AI 算力電力危機的唯一終極出路",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUE1nZFlvSjVnQUdudk5WME44TmF3RE52d0x6TWNod09IUTlhMW9nTFQ3Qk95U0h6VjRxbV94c0w3SG9EODdaU0h5MnlsaG16bExQOWtWOGNncWszZDFzWlpXdW8wX21ic1M3dTRzUXpmLXBxS2llUGlOejd3OWxYVWp2R1U4eTlraHFVWVhUS0pjaTFCSkpvYlh0TWszYWFyYTRqOWlCS20xOUE2Tkx4bXR1TjNlSk1wckx4dTF0azF2RGludW02OGxsc3R5aW5WUGJj?oc=5"
+        },
+        {
+          "title": "Google Willow 量子晶片突破性實現量子糾錯！算力呈現指數級超越傳統超級電腦",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUpTcUpyVjYzbWJmdFJQSEpIeDRuTWU4UkFCSU50RmpnWVl2Sml1RGFySXV6cThkSXV6d3QyMDF6VGJmOEFyNW43QVRrRjlsd0JjT1ZJUXJqRWd6cEp4Q3JpM3Bhb3M1NEstUkNlUWVVMmlnSGFHUTI0c3Ztcm8wMVlyakpOMWJmOWpP?oc=5"
+        },
+        {
+          "title": "Google DeepMind 發布 AlphaFold 3.5！首度支援 RNA 與蛋白質相互作用精準預測",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdFF2NWprTmE4Y2prY0k5ZDFzUkNncVhDZm5xTmE5SE1pZmdqV2NvaVhxckEwdDFzZGNqUG1oZE4xTDF4TU00RTh1OGpqa2s4TU9qVWstYjBfb2FqSTV2U2Y5eS1jTlZzR0poRmVxclc4R3prckZrSmVrc2pxRWpxcmx5UjZrd3A2UGs3U0E?oc=5"
+        },
+        {
+          "title": "微軟 Copilot Studio 重磅升級！導入自主工作流編排與跨系統 Agent 調度能力",
+          "source": "Microsoft AI News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVJtdmtXWk9jOEN5VFN0cFB0NWJkRmdIeUp4Z050aTJsc3hJTFdmbHRHNVptME84MEV2TW4ybnhvUFpTcnRndl_ySDRyNmhWSE1tSmt1d3hhTm00TDRxYVBNM3I4RFFoRWhrYUVicXBhV2s4NkxJcmhMUDdDdzU0d0V3ZTRvQXc?oc=5"
+        },
+        {
+          "title": "Replit 執行長正式證實！決定終止與 Anthropic 之合作關係並轉向自研代碼模型",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+        },
+        {
+          "title": "印度通報首起失控 AI Agent 事件！代理人自主建立非法網路詐騙與資料爬取節點",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+        },
+        {
+          "title": "全球時間標準迎歷史變革！國際計量局宣告將於 2035 年正式廢除「閏秒」",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/leap-second-abandoned-timekeeping/"
+        },
+        {
+          "title": "破解版 PS5 成功運行大模型！開發者移植 Llama.cpp 實現遊戲機原生執行 GGUF 模型",
+          "source": "Hacker News",
+          "url": "https://github.com/cobanov/PS5LM"
+        },
+        {
+          "title": "亞馬遜重磅併購 DuckLabs！將高效率 DuckDB 引擎深度整合進 Aurora PostgreSQL",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發布 Into the Unknown！評測 AI Agent 解決未知科學難題與自主科研能力",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2WHBBdHRqc3lKbUdTNzlmaE1hMHJpamd4akwzS1N6ekF1RVJMYklFdDZLdk1qSDFiMEF1Qm5UMG9ibHBxV05V?oc=5"
+        },
+        {
+          "title": "HKUDS / CLI-Anything (★53634)",
+          "source": "GitHub",
+          "url": "https://github.com/HKUDS/CLI-Anything"
+        },
+        {
+          "title": "android / skills (★8158)",
+          "source": "GitHub",
+          "url": "https://github.com/android/skills"
+        },
+        {
+          "title": "cursor / plugins (★12076)",
+          "source": "GitHub",
+          "url": "https://github.com/cursor/plugins"
+        },
+        {
+          "title": "冠狀動脈多支病變（CAD）延長雙重抗血小板治療（DAPT）成效！《NEJM》發表長期預後試驗數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2601230?af=R&rss=currentIssue"
+        },
+        {
+          "title": "光基因療法（Optogenetic Therapy）治療色素性視網膜炎！《Nature Medicine News》發表最新臨床數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04655-5"
+        },
+        {
+          "title": "癌症治療毒性中隱藏的種族差異研究！《Nature Medicine News》發表多中心臨床藥理對照分析",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04688-6"
+        },
+        {
+          "title": "非小細胞肺癌（NSCLC）精準影像組學（Radiomics）預測！《Nature Medicine News》發表免疫治療成效圖譜",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04701-1"
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "title": "新聞雷達 (2026-10-16)",
