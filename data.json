@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-10-17T14:58:26.697497",
+  "last_updated": "2026-10-18T15:42:52.476876",
   "daily": [
+    {
+      "date": "2026-10-18",
+      "title": "新聞雷達 (2026-10-18)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-18-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "韓國議員揭露近 200 輛比亞迪可進出軍事重地！引爆機密翻拍傳回中國之資安疑慮",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnY29GaUFZRDRXM21tTVJlX2Njb0djMFZnTGtBcERoUjUyLWxwWXdpSWs0LXJfMExKX0x1cHRYV3N3YzdnWHFvaUJnVUpLcWRkc0NZNE1ZSFFHdXc1b0hn?oc=5"
+        },
+        {
+          "title": "聖誕採購旺季逼近！中國製造玩具如何突破關稅與物流關卡鎖定全美市場？",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cndRU1dyS3pLWlN6ZWprMm8tUU5LQVRKMlZDUGd4WmFlSzVOOHhhMXM3a3BJMlFyU1QzX1RybjhJM09aNDV4VFZ4el9HdmpVR0l4cTFzZTBfYkE?oc=5"
+        },
+        {
+          "title": "強颱「薔琵」成型並直撲台灣！氣象署預告最快週三發布海警恐重創光復節連假",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16eXRLWlpJcWhLdDFxT0t5VWd0U3NkdVhYdVc5YVZvckpoRHB0ZVhXSElsc3Q2VnllOVRvQWNDN0lWNXF5RjhkOVRwVGN3RlhvSWZzcDFB0gFWQVVfeXFMT1QycmJ2X0w1ak8tSE1jOHdfYWV4d1NjaFNfVk9SNTFnY0s3eEpIcHlhY2R4OGNfSGNqLU5BcHBDd21kdk5lNDdCZE50aXpGTHByME51TGd3?oc=5"
+        },
+        {
+          "title": "國安會高層吳釗燮訪柏林！於歐洲論壇重申台灣海峽安全攸關全球與歐洲經濟繁榮",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSmt0LVI2SkdIdHUxeU96dEZsdjR3cHMtV2F3bXBvaU53T0p2Qm5rNUo0MGRWczhuU3FydkMyZGNUYjI0dzgxdHZBV0dJQmVKblBVWmh1UXBZakN4bGVN?oc=5"
+        },
+        {
+          "title": "Replit 執行長正式宣佈全平台改以 OpenAI 為預設模型！逆轉先前與 Anthropic 之獨家合作",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+        },
+        {
+          "title": "OpenAI 正式面臨全新集體訴訟！多位視覺創作者控訴 Sora 視訊模型未經授權爬取版權影片訓練",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1Z2TFFhVjhDTWZfQUYydjcyOHc3OHg3akg5UkstbXk1X2ptMFRvQ1J4aWhzck8wdGNMZnAtYWJraTVhYWZnd25vOHVmdXZ2MmlqOGhveFRaY1p4dEtsVGlsNEVpUzdtdXAtV0Q4aWRuOW0wRXZ6b0VzS2pSRFRsZml2Y3F4WjMxcldVUlF5U2E4J3RtdTFsZXd3eTByZ2N1ak0?oc=5"
+        },
+        {
+          "title": "微軟聯手 AMD 展開深度戰略合作！於 Azure 雲端大舉部署客製化 Instinct MI350X AI 加速卡",
+          "source": "Microsoft AI News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVJtdmtXWk9jOEN5VFN0cFB0NWJkRmdIeUp4Z050aTJsc3hJTFdmbHRHNVptME84MEV2TW4ybnhvUFpTcnRndl_ySDRyNmhWSE1tSmt1d3hhTm00TDRxYVBNM3I4RFFoRWhrYUVicXBhV2s4NkxJcmhMUDdDdzU0d0V3ZTRvQXc?oc=5"
+        },
+        {
+          "title": "Google Cloud 正式全面開放客製化 TPU v6e 算力集群！為企業級 AI 訓練降本增效",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUpTcUpyVjYzbWJmdFJQSEpIeDRuTWU4UkFCSU50RmpnWVl2Sml1RGFySXV6cThkSXV6d3QyMDF6VGJmOEFyNW43QVRrRjlsd0JjT1ZJUXJqRWd6cEp4Q3JpM3Bhb3M1NEstUkNlUWVVMmlnSGFHUTI0c3Ztcm8wMVlyakpOMWJmOWpP?oc=5"
+        },
+        {
+          "title": "DeepSeek 發表全新 Search & Fetch API 服務！以每千次成功請求 0.75 美元低價搶攻 Web 檢索市場",
+          "source": "Hacker News",
+          "url": "https://api-docs.deepseek.com/guides/search/"
+        },
+        {
+          "title": "Google 開源全新 EnvHarness 架構！賦予 AI Agent 在動態複雜環境中自我進化與學習能力",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "HTC 發表全新 Vive Eagle 智慧眼鏡！強調隱私防護優先，擺脫鏡頭側錄資安疑慮",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-way-more-private/"
+        },
+        {
+          "title": "arXiv 發表 Athanor 系統！打造首個專為模型自主後訓練（Post-Training）研究設計的 Agent 框架",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBVFduVzJIRm02LTNBVEZRaWZrd3c2YmdsdXpRQ0c3b2Z0Z0dwR3ZJMVdNRWduTE5oUDNiUEJwdUY4VUVxa1pF?oc=5"
+        },
+        {
+          "title": "anthropics / claude-code (★152135)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/claude-code"
+        },
+        {
+          "title": "stablyai / orca (★95738)",
+          "source": "GitHub",
+          "url": "https://github.com/stablyai/orca"
+        },
+        {
+          "title": "MadsLorentzen / ai-job-search (★51000)",
+          "source": "GitHub",
+          "url": "https://github.com/MadsLorentzen/ai-job-search"
+        },
+        {
+          "title": "口服小分子 GLP-1 受體促效劑 Orforglipron 於 2 型糖尿病之心血管安全性！《The Lancet》發表最新臨床評估",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01988-2/fulltext"
+        },
+        {
+          "title": "非小細胞肺癌（NSCLC）精準影像組學（Radiomics）預測！《Nature Medicine News》發表免疫治療客觀應答圖譜",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04701-1"
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "title": "新聞雷達 (2026-10-17)",
