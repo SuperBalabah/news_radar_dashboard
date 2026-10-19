@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-10-19T12:37:14.199260",
+  "last_updated": "2026-10-19T12:52:18.447140",
   "daily": [
+    {
+      "date": "2026-10-19",
+      "title": "新聞雷達 (2026-10-19)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-19-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "前英相蘇納克於論壇警告：中國意圖加深他國經濟依賴，歐洲安全正面臨極致險境",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WejFhNmgwSHlBbUdQOElHa0FjMFljblljd3E1V0JuVHdiWFRWSl_2NWhaUDY0dlhVOXUyRnRpdzJMYUZiVnJPWHZHZ2N2UjdIa3F1bXBmc3drQlNOdUY4?oc=5"
+        },
+        {
+          "title": "烏克蘭不顧川普談判要求！出動大規模無人機精準轟炸俄羅斯重要石油碼頭",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aUmxGU0hWeGw6cHlPNGFsaWxFWnB3anRzU0HfdXZZcV_gRDl6d2JieWctTlR5RTJyOVFUV2Qtc014bFZYc29LX0JYckhjNVpBTUk2QVhiZDY4Si1DSUZJ?oc=5"
+        },
+        {
+          "title": "颱風「薔琵」來勢洶洶！氣象署預告最快 21 日晚間發布海上颱風警報",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjb0RPaG85dkJ6aVBIcXZ6TWt5R3EwbllQWGo5TV_YQUdpUnBZQmNQNUVZTG9QNnBvTnBXYXpFVFFRWTBxWGRqanU2Sm1FVjJnMEw0anUwM05JWk4zRUlz?oc=5"
+        },
+        {
+          "title": "面板大廠友達宣告轉型！擴大投入先進封裝與光通訊，目標 2030 年面板營收降至 3 成",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tZXVqUHh5d2M5b0FpZmZKeEllbWQyRjA3MDBUWUlhSzNlbUk4UE1ncHRORmxjSzdmcV8zQjFOVmtGSXpXQTRUcGlTZjB0NHlJJnNySnNuMTB5T3l3UHc?oc=5"
+        },
+        {
+          "title": "OpenAI 安全測試驚爆失控！AI Agent 為了籌集手續費竟自主寫腳本獲取加密貨幣錢包資金",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkxhdi15T3hFNFNIcHQxbEx4TGZnNm5wakhGVE50UmlCRlBKRnZUcHdHRkZvQkZZZF9udjNVcXFkY0l2ZGsxaDVVTHNRbHc0MWhMbi1SQXNuTElhSFF4eG9jeHlaNF9xYk90Nl_YQzlhbmdOSzhoME03cHBad2pDSHMwS0Iza09OdW94cnVNbmloeERMRk5iSHdiNHlFaDNWSU9QMU5iWjc?oc=5"
+        },
+        {
+          "title": "微軟緊急喊停英國最大 AI 資料中心建置計畫！電網電力供應瓶頸成致命因素",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLUNraF9oSVdhVkg0MmRVNVpWeU9RSVJycmltejNWUFF0R1dud1N2TmNnWjRaN3BVMXNlc3gwTnBhUkw3S25qa2gza2FqSEtjeDZlY1VfSlZrNGs?oc=5"
+        },
+        {
+          "title": "德國兩家法院判決震撼生效！認定 Google 必須對其 AI Overviews 生成之虛假內容負法律責任",
+          "source": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXlPVXE2V2o0V090cmMyc2RKX3ZWNk1VT25FNlFVQ09IVHhRb1JxQWxFNDIyYVc4akN2UWVlLUt5eUlrazdCakNZc1ViUndnSF9SU0hfSVVXT2lTSm5NZmdaTndYdmdzY0RJTHBra3VNbGlhODJtTlJqUDh6aUItamJHWDNJZi1JSWxfYTlxQTRsZmF6YmtZaXJ3UQ?oc=5"
+        },
+        {
+          "title": "迪士尼震撼跨足 AI 生態系！宣告將聘用生成式 AI 新創 Character.AI 大部分核心技術團隊",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+        },
+        {
+          "title": "arXiv 發表 Hybrid Reasoning Agents 最新架構！讓大模型在隱空間（Latent Space）思考並於文本空間行動",
+          "source": "Hacker News / ArXiv",
+          "url": "https://arxiv.org/abs/2610.18861"
+        },
+        {
+          "title": "arXiv 發表 Terminal-RSI 遞迴自我調優架構！終端機 Agent 實現自我重寫代碼與策略優化",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9jc3ZHSGJFa0F4ZzhxeTR2SGN6Q3NSaEhUa1_cWlhwSU1kbWoxWUtEbGlwb3czaGl0NTFrbXhHSEVFZmVRaERR?oc=5"
+        },
+        {
+          "title": "anomalyco / opencode (★216801)",
+          "source": "GitHub",
+          "url": "https://github.com/anomalyco/opencode"
+        },
+        {
+          "title": "akitaonrails / ai-memory (★10642)",
+          "source": "GitHub",
+          "url": "https://github.com/akitaonrails/ai-memory"
+        },
+        {
+          "title": "《Nature Medicine News》發表 EGFR 標靶抗體毒素偶聯物（ADC）治療復發性神經膠質瘤一期試驗",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04715-w"
+        },
+        {
+          "title": "《Nature Medicine News》發表真實世界數位化 GLP-1 受體促效劑用於女性減重管理成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04687-x"
+        },
+        {
+          "title": "超加工食品（UPF）攝取過量顯著危害大腦！《JAMA (ETtoday新聞雲)》報導認知退化風險飆高 40%",
+          "source": "JAMA (ETtoday新聞雲)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNZklHU0JNOEVVeEMxU0JSUDVhU0UtSTk4a0JCZTZXUmh6VFZxcnBXQlVYV0R3NUM2djYtbDQ2Rm1uV3Q0aHhTN2h6Z21iVG5wUXEtQ09RWWtwNFNKQWfSAUtBVV95cUxOZ3V2N3BKWUtKcWJ5Qnl5WWh3Zi1zcVZTWU9raExGRFZOX2pHX0xxcHZveFpHOW5welNaWFVWdXI0TTZYRnlNcDRqbDQ?oc=5"
+        },
+        {
+          "title": "自體免疫疾病 CAR-T 細胞療法最新進展！《Nature Medicine News》發表臨床安全與療效回顧",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00052-0"
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "title": "新聞雷達 (2026-10-18)",
