@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T09:53:47.274669",
+  "last_updated": "2026-10-21T10:58:16.042403",
   "daily": [
     {
       "date": "2026-10-21",
@@ -44,12 +44,12 @@
         {
           "title": "微軟發布嚴肅資安白皮書！警告自主 AI Agent 風險等同「內部人威脅」不可盲目信任",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/20/microsoft-says-ai-agents-are-like-insider-threats/"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV_yxLO_E4giQqXu_W723SC3xLcHd2VNj58GioCMqbbluSzuMCQ1sE1BxF75lab2jF5g1lw66PvrhH5P8aAXoLNk80DP_1wxa8w_I8e-hVXMhsPdclepMNXcPtcX8Bn5hg8ogf_iv6PFxBODb0lyzH0-zHY7vrzZwiMDZIXqVnSTw948McuXZhGZZIY?oc=5"
         },
         {
           "title": "Anthropic 秘密推動安全立法草案！若 AI 模型具備造成 50 人以上死亡能力將強制封鎖",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill/"
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
         },
         {
           "title": "馬斯克王國重大重組！SpaceX 與特斯拉董事會成立特別委員會檢討併購可行性",
@@ -59,7 +59,7 @@
         {
           "title": "AI Agent 意外加入頂級網路研究員郵件清單！「全部回覆」引爆社群失控混亂",
           "source": "WIRED",
-          "url": "https://www.wired.com/story/ai-agent-listserv-chaos/"
+          "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/"
         },
         {
           "title": "Google 官方開源 TorchTPU！讓 PyTorch 原生代碼無縫於 TPU 算力集群極速運行",
@@ -84,22 +84,22 @@
         {
           "title": "臉部照片精準診斷系統性疾病！《PubMed AI Medicine》發表 FAHR-Face 生態級多標靶 AI 臨床驗證",
           "source": "PubMed AI Medicine",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42698712/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42897078/"
         },
         {
           "title": "初診多發性骨髓瘤四聯療法突破！《Nature Medicine News》發表微小殘留病灶（MRD）分子預測因子",
           "source": "Nature Medicine News",
-          "url": "https://www.nature.com/articles/s41591-026-04720-9"
+          "url": "https://www.nature.com/articles/s41591-026-04692-0"
         },
         {
           "title": "AI 深度掃描 15 萬篇貼文揭密網購非法減肥藥黑幕！《JAMA (TechNews)》驚爆「越吃越餓」副作用",
           "source": "TechNews 科技新報",
-          "url": "https://technews.tw/2026/10/20/unapproved-weight-loss-drugs-side-effects-ai-analysis/"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV_yxLQRWxLipNU4DKTelc203mHg-WLSy24GJdilbQ8mVdyYiiql6lzvOVoAlXI803fSmEs95i_H0EhjbG0dJN7vukmHjc-LS0UGdgz_5ONGiKwnuDVoRIefDTozynJJyitoZ?oc=5"
         },
         {
           "title": "膽道鏡碎石術深度學習品質評估！《PubMed AI Medicine》發表即時影像可視化輔助系統",
           "source": "PubMed AI Medicine",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42698234/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42898633/"
         }
       ]
     },
