@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-10-19T12:52:18.447140",
+  "last_updated": "2026-10-21T09:53:47.274669",
   "daily": [
+    {
+      "date": "2026-10-21",
+      "title": "新聞雷達 (2026-10-21)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-21-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "奈及利亞首度確診伊波拉病例！西非疫情跨國蔓延引爆全球公衛警報",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
+        },
+        {
+          "title": "小羅勃甘迺迪支持之疫苗研究機構突遭幾內亞比索警方拂曉攻堅搜查",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau"
+        },
+        {
+          "title": "國安高層證實中國 AI 介選手段全面升級！大量偽造假帳號分眾精準激化社會對立",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sVUR4NmtPY3NkLXNjWDZQcDJWeHptWmNYYTRhYzhHb1VRVUpiYlQxeUQ0Q0hvVDNaVUJpMF9EVHY4VzZSMlVvcnJjLXRsb28tUkFKZVV1cHRHUWVaMG9r?oc=5"
+        },
+        {
+          "title": "台積電高雄 2 奈米廠區突發嚴重工安意外！4 名電焊工人高空墜落釀 3 死 1 傷",
+          "source": "自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPcmlyeWstUjh2RERqdWt3LVlhZXRmRmsyTXBqRHRYUXllTHZqZ2lpd1ItZjh5MmtyOEFuR1Nzdlh4OUNWc1pMUDAtQQ?oc=5"
+        },
+        {
+          "title": "OpenAI 重磅併購生醫新創 Orchestra Bio！大舉擴展 AI 在生醫研發與新藥開發版圖",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDFyS0xNWVh3TmhhNURMUG5xS3JCY3k1UzBCdGl4Q3R2aFBNTVU1Z2t3VjlOazA0XzljcTl2TWlhUzNneTRtWUZqRnlRTElydW5hNDgtX1l0TEpXZURvTDRXbWlqTmtpS0tYTFJtXzlsYWx4aXNud2ptV1lPazFfVWZQUFJhX0hIcUgxeGFYdVltTHctRE9oOVRUalBhMml0ZmdmOEVaSk1pUWtnRFlzY25aUjFiMWpGclQ3aUpZczZhTF8yUGI0NEw?oc=5"
+        },
+        {
+          "title": "Anthropic 爆出 2026 上半年巨虧逾 800 億美元！算力與資料中心預付承諾成沉重負擔",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTNua1Z2dWd1U2RjLWZ5TkhCbnV2X2Z5Q202QUgtcmE3T2w4VlhOQ05nOG5zOTAtZ2NlQy0ySmdud3ZpdjYwSnpTcHhhTkc4R01xRmljUGx3VlQxb243X0p2NFRaTWl4NWx1dFF2cnh4SlluS2I3bml6cDV3U3gtVkFqaVRsYllqYWtVREtqQ3lIRlhndlR2VnctM3dOZFROdU9rLWdz0gG1AFBVX3lxTE53SE9IeDV5UjJubC0xYVl0VURld3lWbk9ZNmpxS0E3d2VzTE8wYm1aUkVjXENyUlUzbS1mQUVveXp2OTd5TnlGdmFmSjFzaEcyOEZQZFlqZHB4bUpqVlJ6N29mUF_yN2gtZ2d6UkM2Snd5SzhidjdUODR0VFFTdzFSR2Fpd1AtTUVlME1iOHktdWdld1Mtb2kxeGFfSUpCSkE4cW9mdkpoUk5lSEtzMmlmQQ?oc=5"
+        },
+        {
+          "title": "美國財政部重磅制裁中國科技孵化器！因捲入 Google 前工程師商業機密竊取案",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkptclUxcldRclVHQkVhLWdzSWRyZEtzVHRmRGd5TFlOdm4xTW1UbnVqVUpEOG9wQWJ5SThEOWx2ZjlUaGlTWWNmZkltOHdEekZ5X2x4eFR1eXRlWUR0X2k1bkJjZHRiM3A5cl80SngyUldOQW5iOHp0YlljUFRxV1Z3d19qRW1xOUE5R2NnZXlybmUzaA?oc=5"
+        },
+        {
+          "title": "微軟發布嚴肅資安白皮書！警告自主 AI Agent 風險等同「內部人威脅」不可盲目信任",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/microsoft-says-ai-agents-are-like-insider-threats/"
+        },
+        {
+          "title": "Anthropic 秘密推動安全立法草案！若 AI 模型具備造成 50 人以上死亡能力將強制封鎖",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill/"
+        },
+        {
+          "title": "馬斯克王國重大重組！SpaceX 與特斯拉董事會成立特別委員會檢討併購可行性",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
+        },
+        {
+          "title": "AI Agent 意外加入頂級網路研究員郵件清單！「全部回覆」引爆社群失控混亂",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/ai-agent-listserv-chaos/"
+        },
+        {
+          "title": "Google 官方開源 TorchTPU！讓 PyTorch 原生代碼無縫於 TPU 算力集群極速運行",
+          "source": "GitHub",
+          "url": "https://github.com/google-pytorch/torch_tpu"
+        },
+        {
+          "title": "msitarzewski / agency-agents (★162386)",
+          "source": "GitHub",
+          "url": "https://github.com/msitarzewski/agency-agents"
+        },
+        {
+          "title": "Graphify-Labs / graphify (★130303)",
+          "source": "GitHub",
+          "url": "https://github.com/Graphify-Labs/graphify"
+        },
+        {
+          "title": "cloudflare / security-audit-skill (★34319)",
+          "source": "GitHub",
+          "url": "https://github.com/cloudflare/security-audit-skill"
+        },
+        {
+          "title": "臉部照片精準診斷系統性疾病！《PubMed AI Medicine》發表 FAHR-Face 生態級多標靶 AI 臨床驗證",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42698712/"
+        },
+        {
+          "title": "初診多發性骨髓瘤四聯療法突破！《Nature Medicine News》發表微小殘留病灶（MRD）分子預測因子",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04720-9"
+        },
+        {
+          "title": "AI 深度掃描 15 萬篇貼文揭密網購非法減肥藥黑幕！《JAMA (TechNews)》驚爆「越吃越餓」副作用",
+          "source": "TechNews 科技新報",
+          "url": "https://technews.tw/2026/10/20/unapproved-weight-loss-drugs-side-effects-ai-analysis/"
+        },
+        {
+          "title": "膽道鏡碎石術深度學習品質評估！《PubMed AI Medicine》發表即時影像可視化輔助系統",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42698234/"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "title": "新聞雷達 (2026-10-19)",
