@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-10-21T11:27:06.435617",
+  "last_updated": "2026-10-24T10:05:29.842946",
   "daily": [
+    {
+      "date": "2026-10-24",
+      "title": "新聞雷達 (2026-10-24)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-24-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "全球 Z 世代抗議浪潮爆發！經濟通膨、就業困境與氣候焦慮引爆青年集體走上街頭",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mSm1MRGlzUmw3Nlg5LWxOeU5RRFlISmFoSjlFeWd4UGZ3U0VrVjA3SHNXZF9hZjhiaXlwOFF2dmE4ZldjN1ZXU1BhcXh5VVpvQzdGNFhmYmY?oc=5"
+        },
+        {
+          "title": "塔利班全面打壓新聞自由！阿富汗當局強制喊停 BBC FM 廣播電台訊號播送",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QSEhHX2JDa2NlLTB1WXRrRVZaNXlVUlROSjRJRk5iZktwSFFLMFp3bXhTa1RwcVRwSjBtZmJsWjA2eXB4LWExWS1hb1g1ZWJjVnU4akRET0dSRW8?oc=5"
+        },
+        {
+          "title": "9 月台灣製造業測驗點創逾 4 年半新高！台經院示警三大全球經濟風險",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yMmdINkVtcVQtT0lkaDdWVEFLX1VXOTJYWDVaemNXay1NNFJxNUpzN25oWWE4blBKMHRmcENtMDlRQkNPRnEtXzFVRmhId2RGcFF6bXhkYWpVdjM1a0E?oc=5"
+        },
+        {
+          "title": "薔琵颱風暴風圈肆虐北台灣！全台 13 縣市宣佈停班停課並嚴防豪雨致災",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPZ1pPcTB0dVRVVGNKNGdMZ0NudGdEc3I5alhBOHhXMHU0bzFjYkpJam1wWTFSVHp1Z2dOd3ViWnlMVDl5WFhtTTNCbW9ZanZWenNOYUhjOXMwUmN5QXU2UXgwcmpmRGJURjRDWTdXZmt3TVNTYUlQMlhVRzBmSV9pYmhEcW1xRG9FQl_taHBiaVRvVk91Mm9Xem1fcWc0dGxYc1_DNURfNmtlVUFGM3RHcW9VSUg4MUZXRFNYa1_TLWpyMkdNeXlvZUZNbG9Eb2JkOVA5NWxMUWl0X0Y0ZFV1NUwxT29zRDhvdnUwZkRUTVpPVVpiRkE0QmpmOEViQjlXa0N2dWgtMGd4cVkzazktMTBmU096MGZiVDlnaURwMk1XWlNhWXJrS0VzU0hwb2J3YnhwRHQ5M3ZVVmlwYlk3cjJJMW5aRU5mNXdIUmNqM0w0YTAydFl6JnlSOFJiYmtiNDFNVTVURGtDT3ZwWVNDWjFNcGhidzVkbVVPZ3c0dG1ka1Rva2d0NWhCUTkyWk94SXVpQmFpa3Awc1l5eWVnVTRuRmlfRThMRjRhc3dCeXI1YXNFRnBsVTlkeThiWjRKVzNPRDJ6YXdhdmlXNVRqWTRCQXM4UjRVZVlEdzMtTm5GOFBOWVdvWg?oc=5"
+        },
+        {
+          "title": "OpenAI 官方拋出震撼彈！因網路安全考量宣佈前沿大模型停止於即時網際網路進行訓練",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+        },
+        {
+          "title": "Anthropic 拓展歐洲市場版圖！宣佈於歐洲成立官方 AI 戰略諮詢顧問團隊",
+          "source": "Financial Times",
+          "url": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Google Cloud 客製化 TPU v6e 晶片全面開放企業調用！大幅調降大規模模型訓練成本",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXBYeFJQQ0o0dlJwWWk1OEFpYTNOUlFLVk5vQXd0MWh6SUd3b0tNQzlLTmhrSGZWMGlfNl9XN0dGLXI3NzRKVHRkaHdqcFpwbDNUV0szeVg0MC11M2ZtaUkwSlZ3M2lrNm5QOWFtV2h2by12TDNYRFNfZDlDWkV5WHB4YVBzQ3pIT0p3?oc=5"
+        },
+        {
+          "title": "微軟 AI 醫療診斷突破！全新 AI 工具於複雜病例診斷精準度高達 83% 遠超一般醫師",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRVdXNUh5Ylc4REo4QVJUQk42eV9PS3B3UDlEdVhsREdRaG1HazZBOHVyZnFJYmhGc3hpcVM5VjRnYW02RlF6d1h3TDhDb1NqcWVyUHdDd0pQVk9GQUdnR1duUi1abGY0Y1EwTWNOaU9JbVZTMGJMVHFGSFV2Wkx6TWdZNDdmS3dnZzNWUEdZaV9KaWxNaDVoZ202ZTloaXE5bi1sam1VOXZuNkRoRHBWNFF0RVVLZTdETW5ZZXpoZGJhYXNWNkRBWEFpYlFyc2dJZmFKakp3Zkp5d29nOERSWQ?oc=5"
+        },
+        {
+          "title": "Anthropic 推出 OSS Scanner 免費服務！自動化掃描關鍵開源專案之資安漏洞",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "哈佛大學最新研究顛覆認知！AI 寫碼工具暴增程式碼產量，卻因後續審查瓶頸無法提升實質生產力",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Vercel Labs 開源輕量級 Zig 寫碼 Agent「fx」！支援嵌入式與 WebAssembly 運行",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "輝達黃仁勳加持爆紅！Microduck 機器人玩具預售 2 萬台破紀錄",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+        },
+        {
+          "title": "anthropics / knowledge-work-plugins (★32249)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/knowledge-work-plugins"
+        },
+        {
+          "title": "OpenBMB / VoxCPM (★40282)",
+          "source": "GitHub",
+          "url": "https://github.com/OpenBMB/VoxCPM"
+        },
+        {
+          "title": "Renhuai123 / ziwei-doushu (★6892)",
+          "source": "GitHub",
+          "url": "https://github.com/Renhuai123/ziwei-doushu"
+        },
+        {
+          "title": "Ianalumab 標靶治療乾燥症（Sjögren's Disease）！《NEJM》發表最新三期臨床試驗成果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2601088?af=R&rss=currentIssue"
+        },
+        {
+          "title": "幽門螺旋桿菌感染臨床管理新進展！《NEJM》發表權威綜述解析抗藥性與根除策略",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2414530?af=R&rss=currentIssue"
+        },
+        {
+          "title": "mKRAS 專一性淋巴結標靶疫苗治療胰臟癌！《Nature Medicine News》發表二期臨床試驗數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04734-7"
+        },
+        {
+          "title": "雙特異性 T 細胞促效劑 Invikafusp Alfa 攻克實體腫瘤！《Nature Medicine News》發表 1/2 期臨床成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04711-0"
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "title": "新聞雷達 (2026-10-21)",
