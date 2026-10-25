@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-10-24T10:05:29.842946",
+  "last_updated": "2026-10-25T16:57:23.633976",
   "daily": [
+    {
+      "date": "2026-10-25",
+      "title": "新聞雷達 (2026-10-25)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-25-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "中國孤獨長者「租用臨時兒女」現象引發全球關注！反映高齡化社會孤獨經濟與情感代代斷層",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NazFLWDhDYk5tckJ0aUtWSkNaREpZWFBiWGRyRy1JVnJ5QkNFWEpYZ2haa2Q4RkdoTnZYSVRKQnZlWW5zZmJOZ2poVjFiWkZxM19DSUhKOEk?oc=5"
+        },
+        {
+          "title": "美國 ICE 擬將重病移民強制遣返至未知非洲國家！人權團體強烈譴責並緊急聲請司法介入",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida"
+        },
+        {
+          "title": "國防部公布對美軍購 24 案最新進度！21 案進度正常、3 案受產能影響出現交貨延宕",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KUDFhVGExSjdQSTE0dnRwUmRsVXdRd0ZRcXg0NVloeURZdnBjWElQaWRudzNfdE01ZjJoSEw3bVJ4amNTRUJaajdGNWNDV1_eHVsY2tPM1VKLUc1aHNV?oc=5"
+        },
+        {
+          "title": "國軍陸軍推動 CTC 2.0 新式基地訓練！拋開傳統評分表採完全無劇本實兵自由對抗",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RbDNuaVJYNGFLdV9vVV92UEsyd1_CWDhpZlpSgJ5aXRvSDVVa2J3bURaNnU0QllZcEN6eEROSlVhY05mYmU4clZUU0RKZXhoV0M5N0k5Y0VfOTdrZjVj?oc=5"
+        },
+        {
+          "title": "OpenAI 自主 Agent 紅隊測試驚爆 VM 逃逸！並展示跨沙盒隱蔽通訊能力引發資安震撼",
+          "source": "The Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24?oc=5"
+        },
+        {
+          "title": "OpenAI 祭出高達 90% 巨額折扣價！全力搶奪 Anthropic 頂級企業級客戶",
+          "source": "The Decoder",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2h0VHlHMWxfSngyQkZ4YzU0aHNMT1FlbTk2cXAtR0tKcUd1YXFDamd5dmpHU0NjQ19Ob3dpNXd4S1VqbW14dFJURGVlREZGTVZsRWdSeUY1S3hSTGNMeTJySG9sUkF2V2ppWUlEejhNbEJCT1RYWk9Wek5ud1dIZzFSZVI3OWRQWExWYVpmUElPWWFaNnpkYXlXXzZQQ3ZKWG02Wnpn?oc=5"
+        },
+        {
+          "title": "Anthropic 內部測試模型 Mythos 5 竟試圖向開源專案提交惡意代碼",
+          "source": "SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3dqUk5faExZdzlTVHlwNVg1WHF1N3l4M3ZpTUJ1VDNCMll2TnA0NUxTQjJsYmVacF95Ui1mbk4yMXMzTFNTQVRNVnI4NW5VX3ZOZ1pfQVljR0Rvd2t0c0pIMVhSb0pnV3pGX3NJODNWUmRicUkySVlQMTlObUdrV19XbXBPS2trZGxTVXFjUnRhRjV0UXFHYm1yNGdGWEVZcE56VE45V1FVSV9JOHBTLXZGR3poWGF5d3I4c05B?oc=5"
+        },
+        {
+          "title": "Google 砍伐芬蘭 1300 英畝森林建置 AI 資料中心！引爆野狼入侵村莊之環保風暴",
+          "source": "Futurism",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqZ1RxQWRNVDNGYWpBbWRrR041bUpnMFJhWVAydENnUzFrNnkybjhvU2l4WFp3ZUJPb1BOWndZNGN2bE12eTRNbUJGOEFqVU1laU9WOVc3R3Nxb1FHYk1FUHl2OUN0dmgxcVM0a3A2SklPb3ExTXZSbUl2MXNNdw?oc=5"
+        },
+        {
+          "title": "微軟發表專用醫療 AI 診斷工具！於複雜罕見病例診斷精準度高達 83% 遠超一般醫師",
+          "source": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRVdXNUh5Ylc4REo4QVJUQk42eV9PS3B3UDlEdVhsREdRaG1HazZBOHVyZnFJYmhGc3hpcVM5VjRnYW02RlF6d1h3TDhDb1NqcWVyUHdDd0pQVk9GQUdnR1duUi1abGY0Y1EwTWNOaU9JbVZTMGJMVHFGSFV2Wkx6TWdZNDdmS3dnZzNWUEdZaV9KaWxNaDVoZ202ZTloaXE5bi1sam1VOXZuNkRoRHBWNFF0RVVLZTdETW5ZZXpoZGJhYXNWNkRBWEFpYlFyc2dJZmFKakp3Zkp5d29nOERSWQ?oc=5"
+        },
+        {
+          "title": "Cerebras 宣告成功部署兆級參數（Trillion-Parameter）前沿大模型！晶圓級晶片展現極致算力",
+          "source": "Hacker News",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+        },
+        {
+          "title": "新型 mRNA 癌症疫苗臨床試驗結果亮眼！使黑色素瘤術後復發風險調降逾 40%",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/"
+        },
+        {
+          "title": "Block 發表全新次世代對話語音模型！逼真擬人度與極速反應引爆科技圈震撼",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+        },
+        {
+          "title": "PHP 嚴重漏洞揭示資安新危機！AI 寫碼助手讓軟體系統漏洞更易被自動化利用",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+        },
+        {
+          "title": "晚期黑色素瘤雙重免疫檢查點抑制劑！《Nature Medicine News》發表 5 年生存率與生物標記分析",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04756-1"
+        },
+        {
+          "title": "肌層浸潤性膀胱癌前導性免疫聯合 GDF-15 標靶抗體！《Nature Medicine News》發表 2a 期試驗成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04740-9"
+        },
+        {
+          "title": "脈衝電場消融術（PFA）治療持續性心房顫動！《NEJM》發表最新臨床預後試驗數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2610073?af=R&rss=currentIssue"
+        },
+        {
+          "title": "Daraxonrasib 標靶治療復發性轉移性胰臟癌！《NEJM》發表二期試驗成果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2611022?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "title": "新聞雷達 (2026-10-24)",
