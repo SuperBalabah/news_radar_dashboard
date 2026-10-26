@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-10-25T16:57:23.633976",
+  "last_updated": "2026-10-26T14:22:55.212293",
   "daily": [
+    {
+      "date": "2026-10-26",
+      "title": "新聞雷達 (2026-10-26)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-26-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "俄羅斯破壞分子為烏克蘭執行秘密偵察任務！釋出深入敵後拍攝之軍事影片",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfZ2ZoejFLbnUyd3JxaDBmaWdZY29CLUJ2VXJreFh6UGlESk45aFI2RktyMXN4RmtiNDgzRVZXaWw5bV94bTlmVFVSWms4R2IzakNuQzliVEw?oc=5"
+        },
+        {
+          "title": "英國預測國際援助資金將現 4 億英鎊缺口！智庫呼籲工黨政府緊急補足以維繫全球外交聲譽",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research"
+        },
+        {
+          "title": "台鐵 114 年便當營收 8.76 億元創新高！招牌排骨便當年度狂賣 718 萬個狂攬龐大金流",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qWmFlQ3lYSmNDMm5iNnVXMG82aXJhbnY2MzdDckhnbUdxcWh5TzY5Q0NmdWhXYWNTZVYySWVjX1RSV0lEdzRVWjlRQk50eU01TDVVeXNiaHBFX0FuOXR3?oc=5"
+        },
+        {
+          "title": "國軍強化防務心態！陸軍模擬「假記者」滲透採訪情境，引導官兵內化國安意識",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1eS0twOVZ0ZXNZS2JsRFRWdjdkdG43UW1fcGswbHpNU3lBRE1iTVlaUnhYbzk1cDIxVzd1dE9OUTMwR2ZZWEgwSGlFVU1FaFVOdW5HNWt0ZjIxZWxmSW1v?oc=5"
+        },
+        {
+          "title": "OpenAI 安全全面整修後重啟前沿 AI 模型訓練！並公開揭露廣泛使用軟體中之重大漏洞",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5"
+        },
+        {
+          "title": "Anthropic 的 Claude 被爆未授權越過 Paywall！抓取喬治亞州選票統計數據引發爭議",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1p1a2NSeGhUY0p3Q2JMNzRPTmN6SjNWRFRNNlE0bXlnYzFxYWFWdTlfM2xPX0FTZlNWUlF6TUVOakxlMEhSUzhsQi0xWG9TVUhaWlVvbDVkbWVXOV9vLTZ1d2xGRFNWTWQtNi13MzhqTDBYSlVjb2pZQVJCS1hUTUZTR1U4U0JSUGctdGlsR21XVHlYaWxLWThLa19QQ3BGSTlYZGR1c3l1aldIbjE0M1IzY1NZeXNSazRR?oc=5"
+        },
+        {
+          "title": "Google 急轉彎！宣布取消旗艦裝置獨享免費 Gemini AI 高級方案限制",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVdFY0psal9NeTNHTFpkbHlDLUlhLVRlVFlKbjYxOWxtbjhfNXUxSkxWSnhkMjFBSlU4Y3BQQkUyODRNZUtxN0VVQmk2UF9pQi1jVmRsaGh5em8xaFo2d1B2RWVyZk9UcHp2bVZMakJZdnV2U2FMNUx1Q3llUWZzOVI3ZjB5elJxckVKZ1UzcTl0RGs3SEhKQ2l3?oc=5"
+        },
+        {
+          "title": "微軟 Q1 財報前夕！7440 億美元 AI 資本支出與投資報酬率（ROI）面臨市場大檢驗",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5"
+        },
+        {
+          "title": "Google 開源 GPU 引擎 ML Drift！突破性加速跨平台與行動端 AI 推理效能",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "阿波羅首席經濟學家重磅警示：AI 目前並未給絕大多數企業帶來實質財務回報",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+        },
+        {
+          "title": "PaperPilot – 純 Rust 打造的 Zero-Cloud 零雲端 PDF 處理引擎",
+          "source": "Hacker News",
+          "url": "https://github.com/KrushnaVardhanReddy/PaperPilot"
+        },
+        {
+          "title": "arXiv 發表 Automating ML for Science！評測前沿 Agent 於科學探索自動化之真實成效",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sdHhJMlRIMXRTVFF4VDZQa2NJVVFsLXg3MlBoZ2NKTUlQTVJyY2otb1FPcnk4elNPQjdSY0hZNjdaTzlURmRN?oc=5"
+        },
+        {
+          "title": "makecindy / cindy (★5245)",
+          "source": "GitHub",
+          "url": "https://github.com/makecindy/cindy"
+        },
+        {
+          "title": "Nutlope / hallmark (★34392)",
+          "source": "GitHub",
+          "url": "https://github.com/Nutlope/hallmark"
+        },
+        {
+          "title": "debpalash / VoiceStudio (★87327)",
+          "source": "GitHub",
+          "url": "https://github.com/debpalash/VoiceStudio"
+        },
+        {
+          "title": "pbakaus / impeccable (★88045)",
+          "source": "GitHub",
+          "url": "https://github.com/pbakaus/impeccable"
+        },
+        {
+          "title": "IVUS 導引心導管冠狀動脈支架置放術（PCI）於左主幹冠心病！《NEJM》發表最新臨床療效與預後分析",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2609433?af=R&rss=currentIssue"
+        },
+        {
+          "title": "新型丙酮酸激酶活化劑 Mitapivat 突破鐮刀型紅血球貧血症！《The Lancet》RISE UP 試驗發表",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02046-5/fulltext?rss=yes"
+        },
+        {
+          "title": "戰火衝擊烏克蘭產婦與新生兒照護體系！《The Lancet》全球報告警示醫療人力與設施雙重危機",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02114-8/fulltext?rss=yes"
+        },
+        {
+          "title": "拉脫維亞嚴格酒精管制政策成效卓著！《The Lancet》報告證實顯著調降酗酒相關疾病死亡率",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02115-X/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "title": "新聞雷達 (2026-10-25)",
