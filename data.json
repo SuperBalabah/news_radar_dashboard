@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-10-26T14:27:50.990615",
+  "last_updated": "2026-10-27T14:38:49.552358",
   "daily": [
+    {
+      "date": "2026-10-27",
+      "title": "新聞雷達 (2026-10-27)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-27-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "英國宣布制裁蘇丹軍方高層將領！嚴厲打擊埃爾法舍爾性暴力與人道暴行",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+        },
+        {
+          "title": "巴西總統魯拉連任引發資本市場恐慌！巴西股市單日崩跌近 14%",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pSWc2Y3R2akdndExGbmpxV1E3R3B6LV94SEptVmtRUVU2TG4wcXR3X3prZTFNSUptckdnc2tQYW1rNkxj0gGIAVV_yexMTWlJZzZjdHZqR2d0TEZuanFXUTdHcHotX3hISm1Wa1FRVTZMbjBxdHdfemtlMU1KbXJHZ3NrUGFtazZMYw?oc=5"
+        },
+        {
+          "title": "台灣六都市長參選號次抽籤正式出爐！蔣萬安抽中 5 號、沈伯洋奪得 3 號",
+          "source": "Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNYkM1N0VaUy1BcjFZRmpOcFQ0MXFJdmNZQ3hfOWVMc0lIb2N0eXphb0ZiLUs2dXZQeGQ5RDl2WElmOHVGeWo1V2t0anZaUzNQMWhUNUN1NW03MW9vREJFa2RiSURQcHBrN2dRb3QxM3FXS0wxSmo3ZVloYlhSZElGQjN6V05pbzhMS1BYaS1tOHdBYjVUU0dqbXlNdjRIY2hjZC1PdkJaNDZTbFF6OFlyM0xPdmNaMkFLRnQ5SjJSbURhODB0cTlEclBQWjZhZE11ak5LeXpvT1B6OUc4T1dGSzBFX2hrdUVyRmtzbFRQdWVpdll5WXdtcXBSQXlwSElSa0tpY2JxdTdPZUNkMWszSVQ2dWphRG1zY1U2a2VFQ1k0S0tZQ2pPTllEMFJVQjk2NmdqN1JQRExqUnFaVzZZNzNka2ljVFo1NDg4N2Y0VEVTdE0y?oc=5"
+        },
+        {
+          "title": "一周迎三波東北季風襲台！北台灣低溫下探 20 度，煙花颱風最快明日升級強颱",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HTUdJSmFhX3daYUpZMWk5bHdaX3ltbzdrTmh2Ukc5cDVJNXhsa3FhclM3UFRrXzAtakR4VjlNdmZhTDF4VlRSc0Q0aTNDS0F4QWVvS3dB?oc=5"
+        },
+        {
+          "title": "OpenAI 宣布大模型自主導出三項跨學科重大科學證明！並推出全新學術合作機制",
+          "source": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONW1JX0dNNHJ5ZUxiZ2dhZFAtakZ4MTJhcktGd0J2cmxndkt1Z19TdUUxbXg5LVdHTmZLbUJVSW5TTExBWHFQYjRIU3BXZzUtTU1HWlhMTzhNSjdhdFRPU0hmQU5ZTm1TU1NrTjNVdzJmOTdvQVVZd3IwX3QwZGphT3pRVGhrUlB0Z0RsU1UzTFk3RzQ?oc=5"
+        },
+        {
+          "title": "Anthropic 正式提交歷史性 IPO 上市招股書！激勵美股科技股板塊全面飆漲",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzdFQkJFVk8yOUxhWXN4M0J5TGc2cFZMLU1HLWpYblk2RGprSlh3RHhMOE1mRlUzRE5XU3d1a08zcjE1UE0xTUZzWDBSSnBhZ3hjekRXVzYxajhNRFdYZ1lyZURmWW9USTNhYXVWWTFDRGlxczFydE5UNTRCQTVmc1duR2RKTGs?oc=5"
+        },
+        {
+          "title": "Google 重磅啟動全新 AI Quest 專案！挑戰繪製完整人類大腦三維神經網絡圖譜",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWtaclp0U1ItbzJsazQyNHNpd2RSY09zV1hDTFZsT1RvSjJEREZwYTB2UmRxbHBnbzdudjl4NklIbGV0WlgtcTd6NXhQUHRPUWZBamFhUVlEWUFJV3FCRkZETTZJbkx3MVRTUzZOTF9NamsxUnVZVFF3RkwzdnR0YUkwYnp1LVpCTlJGdg?oc=5"
+        },
+        {
+          "title": "微軟因 AI 算力支出暴飆推動營運改革！向全球 6 萬名員工提出自願離職優退方案",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONW1JX0dNNHJ5ZUxiZ2dhZFAtakZ4MTJhcktGd0J2cmxndkt1Z19TdUUxbXg5LVdHTmZLbUJVSW5TTExBWHFQYjRIU3BXZzUtTU1HWlhMTzhNSjdhdFRPU0hmQU5ZTm1TU1NrTjNVdzJmOTdvQVVZd3IwX3QwZGphT3pRVGhrUlB0Z0RsU1UzTFk3RzQ?oc=5"
+        },
+        {
+          "title": "Cohere 爆料阿里 Qwen 模型試圖將資料傳回北京！引爆 AI 資安與跨境數據洩漏疑慮",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+        },
+        {
+          "title": "Atlassian 調查驚爆 AI 生產力幻覺！開發者回報顯著節省時間比例自 68% 暴跌至 26%",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "DigitalOcean 重磅推出學習與數據服務！協助企業建置可自我進化之 AI Agent",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表 MemoryTax 論文！揭示 AI Agent 長期記憶體之昂貴計算成本與「苦澀教訓」",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfdTdvbkZrTTNwNnd0NzNsV2lMMVJlRV9uSlM0Wm1BU0d0cW04TWFYcGJ3MGFsRDhRZTlpUHQwdHdLTWhkY3drag?oc=5"
+        },
+        {
+          "title": "假期過後心臟急救危機！20 萬人研究揭放假後首個工作日猝死率飆升 9%",
+          "source": "UHK 港生活",
+          "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPcTlZRnNvNFN4X0hmdjV0V1RkblBrdzJ0SmpjTGlfVGpvYjhKbmJveUpJUG1fOW84aXpzQjhrcFRpOWxfbmZfWW5ZOHpmeGstNm9pUnlhUVRsXzR6akxVOWxudC1jTGpwa1kxbXJ6bmQ2UWF2c3hnbC1xR2NycE5LcmN4bnhzX21kYld5bS0wTjFFTHZtbmtsaExaLWlsdEx4eHoxUkUzeF_mOTI0Q21vSWZ0MEhKUXFsc21aX2Zq?oc=5"
+        },
+        {
+          "title": "非小細胞肺癌前導性免疫聯合化療突破！《Nature Medicine News》發表二期 MDT-BRIDGE 試驗數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04742-7"
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "title": "新聞雷達 (2026-10-26)",
