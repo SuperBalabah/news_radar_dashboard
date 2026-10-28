@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-10-27T15:50:15.324544",
+  "last_updated": "2026-10-28T12:42:19.413223",
   "daily": [
+    {
+      "date": "2026-10-28",
+      "title": "新聞雷達 (2026-10-28)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-28-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美軍於索馬利亞打擊行動遭遇人權爭議！洪災期間平民撤離引發關注",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino"
+        },
+        {
+          "title": "以色列屯墾者於橄欖收成季襲擊約旦河西岸巴勒斯坦農民",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xaFBqU2ZmeE1NR2hFdDh0U1dZNjViMFdFcW9MT05iVkhyRm5XT0ZHX3lOdldvdXkyWC1DLXdqNUIyT1N5eG5YNnZub2kybXpMSExUVU5ZaUczQnc?oc=5"
+        },
+        {
+          "title": "移工懷孕權益保障引發勞雇爭議！民團呼籲政府規劃彈性多元陪伴照顧配套",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15Yk5PcFh3eW1xY0hhYThvLXRvYm9XNDBsaXpvd21yYWp6VzYxN3EwbTlFOUdJbkFFSm8wdVpzSnh4SWtfRmVlTkdfVGhIUnZ3RGFHUEtOQVJ1Q0E?oc=5"
+        },
+        {
+          "title": "屏東發生重大路安車禍事故！車頭毀損嚴重引發地方交通安全關切",
+          "source": "東森新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LVXRaWGlNOFZqYkNDVlNwOWRBbUVBYnoxUHZXQ2QzTGktbjNMOUZyd0tGWHFrLUhFNWtYY2dTNWdBeUdrbld5T0g0MjY5RzdTNzhxRWdB?oc=5"
+        },
+        {
+          "title": "OpenAI 算力建置重大轉向！傳將採購 Google 自研 TPU 晶片以破除輝達供應瓶頸",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDU3bGNqR3dyemtNTG5ucDNRUGo0UlFPNS13QV9ScUk5RFE0TW1PckFYVjVoMUFBMjV3RnRwd1NQX21FNURXN1Bkcm83WnpxT2RrN0xZN0U3aFRoUHhjeExZdVk5YlF4dEFiMjZqQnItNGVQZW1BWDZSTHl3UW1Hb3dwUWdUWnFrSUlHOUpfN3VocmNSbThGV1N0V2E1a05yb1djSXVONi0wVHM?oc=5"
+        },
+        {
+          "title": "甲骨文與 OpenAI 宣布深化戰略合作！全線企業級軟體將全面原生整合 ChatGPT 與 Codex",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXNOakpZUWg2elFlZ2k0VXcxVHlybzUtYTJxWmZIUEw1QmM4a0xiRmdrdjZFZGloUU5HZG1DTFp0Ry1FcC1PMFVrY2gxYmlrb0E2dUFaaHF6Z2NGSV9mRW5wVkh2TTI4Yy1ZeU42X003YjdrZjhaem1XOEh4eXk5MTVn0gGHAUFVX3lxTE1aMnIwbG5ZZUoxd1NqT0hCeS1hdFdCbnVzWVdBUkUyb1lzZzVQRXU5WHNJTEhUOXd1eG11RGVZajFHazZnaWZ1MS03eHNCVUlPaTl1dXN0WW50Q0w4ZERuR3hOd25TRmV0VEYtckN3TmlIZ2dFdkhueFN6dy1lWVlDd2FQTmMxRQ?oc=5"
+        },
+        {
+          "title": "Google 發表全新次世代 Genie 4 世界模型！支援極速即時互動式實境模擬與遊戲生成",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWVjemszVnZuX2wzWXZBUEV0cEhFZDN1Vk5OV0g5THlTQ0ozdGtrM21SVG1IdnpYaXVxNHYycEkySXJEVnZYV1Vnd1N0al9yS25xSWdMVklRa0JkZUs4Y3pSWGVzV0pONnV4SzgzMHV5M2hqc0hNdTk2eDYyREJ0SUhnaE5wVDdiQUZ6MXhFMzZBWVBGVXFLVWNR?oc=5"
+        },
+        {
+          "title": "博通 CEO 出手促成 630 億美元巨額融資案！助力 Anthropic 擴建次世代算力集群",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5"
+        },
+        {
+          "title": "AGNTCon + MCPCon 2026 重磅登場！Agentic AI 基金會新增四大開源專案，MCP 協定全面聚焦資安防禦",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "資料中心建設浪潮帶動電網升級！能源創新助推美國電力基礎設施現代化",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+        },
+        {
+          "title": "Uber 突破傳統 CPU 限制！推出專為狀態負載（Stateful Workloads）設計之效能感測排程器",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表 TACS-RF 最新論文！實現運用 Agent 進行射頻（RF）與毫米波模組之自動化電路合成",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYWTA1SDFFTjNCYXYtRnJlQm9HWlVlbTE5Vm1idTY1aGVkbV9GcldGVTVaemlJQm9ja1g3dzFzLVVxeWoxaXJN?oc=5"
+        },
+        {
+          "title": "gitroomhq / postiz-app (★39542)",
+          "source": "GitHub",
+          "url": "https://github.com/gitroomhq/postiz-app"
+        },
+        {
+          "title": "HKUDS / DeepTutor (★46325)",
+          "source": "GitHub",
+          "url": "https://github.com/HKUDS/DeepTutor"
+        },
+        {
+          "title": "nightly-labs / openbot (★2605)",
+          "source": "GitHub",
+          "url": "https://github.com/nightly-labs/openbot"
+        },
+        {
+          "title": "肌層浸潤性膀胱癌前導性免疫聯合化療突破！《Nature Medicine News》發表 MDT-BRIDGE 臨床試驗數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04751-6"
+        },
+        {
+          "title": "肥胖代謝異質性臨床新發現！《Nature Medicine News》發表大規模人體代謝表型分型研究",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04718-7"
+        },
+        {
+          "title": "漸凍人症（ALS）免疫機制新突破！《Nature Medicine News》證實中樞神經系統中存在持續性 T 細胞免疫應答",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04728-5"
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "title": "新聞雷達 (2026-10-27)",
