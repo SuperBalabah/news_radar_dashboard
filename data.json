@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-10-28T12:42:19.413223",
+  "last_updated": "2026-10-29T12:36:34.406814",
   "daily": [
+    {
+      "date": "2026-10-29",
+      "title": "新聞雷達 (2026-10-29)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-29-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "埃及當局重罰知名總編輯並勒令關閉獨立媒體 Mada Masr",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown"
+        },
+        {
+          "title": "蘇丹醫護揭露準軍事組織戰士專挑醫院襲擊！醫療體系走向全面崩潰",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MN3MtX3dZV2NMMTF1T2ZkQ09JT2IzdUFvZzN1UUpEZ2dVaVJScG16eE4xa1RkREN0LVRvX2F2WndDREpJYVowcGx6UGN2NDZxT2ZYVGtRSHM?oc=5"
+        },
+        {
+          "title": "巴基斯坦政策重大轉向允許台灣航空公司使用其領空！印度聲明兩國立場不同",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45bFdhNGxTTGJPV2dlUG5tS0h1UWlEbGxwTkpGbko4M3gxSGZKS2ZTbjJwYU1Rb1lYTGJlT1hra3RLS3BRRHM4N21qc09VY0tZcUdoUUxpQnRnZUJONHdV?oc=5"
+        },
+        {
+          "title": "日德首腦峰會深化安全與經濟合作！雙方重申維護台海和平穩定",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvT2lmdHpvN25CRXltMFhSWVVRQW5WbE9RQ2t1LVhwM1R0ZjZpa09HUzlaMTNHc0FPbGRsa180STBpanAwX2d3UzlOdmN2SjJFd1ZWMzBrRk1jdmFVY29DN2twUVpQb0d2eXBZZHVDYlFfUQ?oc=5"
+        },
+        {
+          "title": "首起 ChatGPT 醫療諮詢致死訴訟！家屬提告 OpenAI 指控 GPT-4o 建議停用癲癇藥釀死",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNZ1QxT0dGVjd6V2VXM05CSWpNOHdZMG9HQTFrQUlBczFrQ3BxZGFvN1V3ZVlENG42eGdkZUs2eUlTdUI1NHoxbU5aTXFiTDdJRDJDbFdhV3JTWm1zVTY3QnNPY1NkcFVWbUFZdVZaeUMxWVQ4OXpPQUVRYldQTzBYcGhGQnE4U2hQTDFoYkZsVEEyQ1l6VlFsaWl5UWNmdGNvbHpFNGlUM2JkUTFBb3Z5Y0FNSklqSkliaUlsWVk5UnkzOVdRN1F1bHhqYkJCRUFmUE5aWmJYNDVSeFJpS2NGWi1oblEzNTBCQXdhVXVvbTBXNXduMWR6bGxxMkxQSnhUdVBubDRVRy1xSHVuaVFtY0tGTGFMX0xLOG9NNUY4RUVBWXE1aFJZ?oc=5"
+        },
+        {
+          "title": "博通股價自高點回落 29%！與 Anthropic 簽署巨額 AI 晶片與網路合作協議",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2xKMjJsUnppQ1l5U0V0MXN6UElta0dHN1RILVZZdnVuTTc4LUFYQkhYTTJXUWpMRndnR1ZKdUZUZ3hxQUQxZzgyTW9SNTFETWxBODJUS1dKMmpwQTFpeVJQeDZkdWZpUk56TU1hb1hQMVUycGxpSHBDcC10d1JqU0c0WjZQZTVTZnExTFBobVZnTTU0X3AzQ2ZkQQ?oc=5"
+        },
+        {
+          "title": "Google CEO 桑達·皮查伊於 Q3 法說會發聲！強調搜尋 AI Overview 與雲端 AI 強勁成長",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHM3bGd3cDMxcnppSXR3OVRtVEVJcm9BWXBjN0xFZXB1Mkd6bTBhZER2ZzBYaDZocHJlOEpwbDJKblVJTFYyc3dLcUljendNcHBLRHBwMUFkdTlfc1REVXBiM19KRHhMelZ0MHZXOWVtWk5nd3UySlZNbjdwdHFWZmJ3UEYwekRNa1VEM3Jn?oc=5"
+        },
+        {
+          "title": "微軟 AI 開始自動讀取用戶郵件與對話紀錄！隱私爭議引爆停用設定教學潮",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvT2lmdHpvN25CRXltMFhSWVVRQW5WbE9RQ2t1LVhwM1R0ZjZpa09HUzlaMTNHc0FPbGRsa180STBpanAwX2d3UzlOdmN2SjJFd1ZWMzBrRk1jdmFVY29DN2twUVpQb0d2eXBZZHVDYlFfUQ?oc=5"
+        },
+        {
+          "title": "微軟最新財報揭密！單單從 OpenAI 帶動之 Azure 雲端需求即斬獲 100 億美元營收",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNZ1QxT0dGVjd6V2VXM05CSWpNOHdZMG9HQTFrQUlBczFrQ3BxZGFvN1V3ZVlENG42eGdkZUs2eUlTdUI1NHoxbU5aTXFiTDdJRDJDbFdhV3JTWm1zVTY3QnNPY1NkcFVWbUFZdVZaeUMxWVQ4OXpPQUVRYldQTzBYcGhGQnE4U2hQTDFoYkZsVEEyQ1l6VlFsaWl5UWNmdGNvbHpFNGlUM2JkUTFBb3Z5Y0FNSklqSkliaUlsWVk5UnkzOVdRN1F1bHhqYkJCRUFmUE5aWmJYNDVSeFJpS2NGWi1oblEzNTBCQXdhVXVvbTBXNXduMWR6bGxxMkxQSnhUdVBubDRVRy1xSHVuaVFtY0tGTGFMX0xLOG9NNUY4RUVBWXE1aFJZ?oc=5"
+        },
+        {
+          "title": "拒絕 Datadog 高價收購案！雲端原生資安新創 Upwind 宣布完成 4 億美元 B 輪融資",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/"
+        },
+        {
+          "title": "Qwenputer 神人展示！直接在 Qwen3.5 神經網絡內部實現確定性 RISC-V CPU 運行",
+          "source": "Hacker News",
+          "url": "https://divagr.com/blog/qwenputer"
+        },
+        {
+          "title": "Airbnb 升級 Chronon 平台！將推薦模型嵌入更新延遲自 2 天狂降至數秒內",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "macro-inc / macro (★5501)",
+          "source": "GitHub",
+          "url": "https://github.com/macro-inc/macro"
+        },
+        {
+          "title": "togg53192-cmd / jailbreaks (★7387)",
+          "source": "GitHub",
+          "url": "https://github.com/togg53192-cmd/jailbreaks"
+        },
+        {
+          "title": "超加工食品刺激兒童大腦飲食獎勵迴路！《JAMA》研究揭示 1 年後體脂狂飆機轉",
+          "source": "JAMA (鏡週刊Mirror Media)",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkNncGhmeVpybHg5cjcxZkZkc1dQdWJPZkJEbGJqaEc5aVVsMF96MkxKSEdmZHJOY1AwbGYxQ0VVMGthUFItTnprcXdxWWZwQ0U3TlpTZzdJQk83NlVsM0pFb1ZMV3EzNWJ1WldEWHJJbko5YjlMaTlCaW9JTmdUSnlxUWVMem84U1JjWExLclFodw?oc=5"
+        },
+        {
+          "title": "AI 自殺風險預估的機會與警訊！《PubMed AI Medicine》發表臨床實踐評價與倫理指引",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42862709/"
+        },
+        {
+          "title": "心臟肥大核心標的 MicroRNA-133 論文爆發疑慮！《Nature Medicine News》發表關切聲明",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04748-1"
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "title": "新聞雷達 (2026-10-28)",
