@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-10-29T12:36:34.406814",
+  "last_updated": "2026-10-30T12:11:41.050775",
   "daily": [
+    {
+      "date": "2026-10-30",
+      "title": "新聞雷達 (2026-10-30)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-30-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "尹錫悅內亂首謀罪二審再遭特檢求處死刑！指控無理由猶豫",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2VXE5RlRUcmhjSmZXcTk3b3huYVBtT3IyZnpqSEV1R1NGSzZ3OUpDejBHM3doWG5ncU1zS2ZDTU11bzdMcUFVQ2ZfOGU3LWZsaUpZaDNXOWIxeVFwcEUw?oc=5"
+        },
+        {
+          "title": "喜馬拉雅山建案狂潮引爆災難危機！逾 30 萬平民暴露於極端地質風險",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlhZRUc3bk9weE4xeDNpeHcxQjQyZTNvZ1lFdG5nNnNJWlN6Y05zLTBXaThLNndhWkVMSkxpMUExY1FhbEs5QjhnUTZMYktPQnE2Q2RRRjFySnVya1pBN1F5S25PbW91bTJXS3U0d245R2VNb1Z5dF8tRkpZdUo5Mjk1RF9KRWYwS1ZIYzRB?oc=5"
+        },
+        {
+          "title": "台股狂瀉 1500 點一口氣摜破半年線！台達電、友達重挫跌停引發市場恐慌",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPNE9lUVIwNmZTTUJCVmliOEtVM1Q3RlByMmE0UDNITC1pY0FfMTVadmM0U0FRelpzeVZmd2laT1RjMm5ua3JaakxMVkZ2OEhKZkd3NHdoS3FnWEJuZVVsRS01NGs2VDhaRjVSSW9zYXdBVjlCUTRnd2RxSlNnM3IwTzE1bTNLY3IxNU1XMTR6MkVYQTZ0djVBQ1pPYmhKaVdpU2lUeXVCWGdBQkVjbzQ1Zk85a045WEhLR0lTX292TUZmRDdZN2swcW1XakMzOUZOQ3RaY2s2S045aE1MRW5wOHpnMHZWOUJKUHVjSldRX2RaSWRUYmhTa1hvRFh4Tk1TSXg2aXBLMjVKUWJpX1ZnbkYwcXpxVmllU0p4elZHOUdZV0xHRnRxdm9PR3hlNF8zd3NNckZyWU00VjFE?oc=5"
+        },
+        {
+          "title": "OpenAI 宣佈前沿模型研發突破！解開數學界百萬美元難題引發科學界震撼",
+          "source": "Scientific American",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5"
+        },
+        {
+          "title": "SpaceX 季度營收最大支柱竟係 Anthropic！單一合約貢獻逾三分之一營收",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3o2ZGpFM2Z0LXhaVWVoYUMyWnRqZEluVFF0LS0zS2ZoZEgza0RWSDNOLXVRS2k4Qm9CXzZyUEg3aWZxYUtIdUxGX01SbkJOR2tPbmdOU1BUYlZiUmJoSVBZaGpCeUk0UGNNQTZGeVJiQXA4cGpEMHRZS2tyaVg0SGZGSUl2QnNYY1dHUjNMci15SWVVTHk4RXJpQnNKSXFiNVE?oc=5"
+        },
+        {
+          "title": "Google 重磅發表全新次世代旗艦模型 Gemini 4 Carbon！主打資安防禦與威脅檢測",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHJxLU9oeW51ZGg2aG8xbWpXWjlhazdlbnJHSEZhdHhmQklFRnpKUkpPM1Vubk52TkNOMDRHM0ZWVmdlbGs0UHF5ZFY2QUpMT29DUUpFcXUxb084eGFWWXBpY0poZThuZ2NFbmVjempGam0za085ZHAxLXVuNFp4WkNvXzlhdTZsZWIyS3FXaEhFckliUzNialNtNW1sOS1MLUE?oc=5"
+        },
+        {
+          "title": "AI 資料中心擴建遭遇瓶頸！Google 與微軟暫緩上修資本支出（Capex）預測",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pM0RNUDRnMFJXZkRoZG5ZdVVXRHozTUtidUxjMXdKbFBHVW9hTjg1NlFPcFcwLTZCQzM3cTRQYnpzRE1LQ3pNUkpxQmN1OEdnN25fZGhNUDlMZ0w0VW5kUGdoWWd4ZDFWNlZBTHFQaVpDd3B2M01UN3ZrcWzSAYIBQVVfeXFMUDhDNzNOa204RlZoNUNMTUZnWEVNY0RVbmtlNjQwc0N6YU0wWlhla29xRE5GRkhZbmwxRjEwNE9lZ2VoaG9mU0loVVJGaEprdmY2TkE3U1luNlE3Q2g2VmJVSlZkQ0RPYVdpSGYzV1lSMFZzZmRjU2lFanhOUThXUzZGZw?oc=5"
+        },
+        {
+          "title": "幣安（Binance）遭史上最大規模資安事件！疑被轉走 56 億美元加密資產緊急暫停提款",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+        },
+        {
+          "title": "Mistral AI 震撼宣布開源 Mistral Large 4 完整權重！強勢挑戰商業模型霸權",
+          "source": "Hacker News",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/"
+        },
+        {
+          "title": "Bug0 發布全新自動化 QA Agent！透過 Playwright 快取重播徹底解放軟體回歸測試",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/bug0-agent-testing-cached-replay/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表 The Trinity 最新論文！實現多模態 Agent 之能力驅動遞迴自我進化（RSI）",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FS3htT09kRV9QcW54LWJVdkhiSVRETjFLMV9OcElEMVlXVnl2WFFiOG1MV0FybmxBMmFxX1ZmUFJIcmM0UVJB?oc=5"
+        },
+        {
+          "title": "thedotmack / claude-mem (★104954)",
+          "source": "GitHub",
+          "url": "https://github.com/thedotmack/claude-mem"
+        },
+        {
+          "title": "milind-soni / OpenMausBot (★7597)",
+          "source": "GitHub",
+          "url": "https://github.com/milind-soni/OpenMausBot"
+        },
+        {
+          "title": "CopilotKit / OpenBot (★8241)",
+          "source": "GitHub",
+          "url": "https://github.com/CopilotKit/OpenBot"
+        },
+        {
+          "title": "新型口服 SLC6A19 抑制劑 Repinatrabit 突破苯酮尿症治療！《NEJM》發表臨床試驗成果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af=R&rss=currentIssue"
+        },
+        {
+          "title": "小分子 TREM2 促效劑攻克阿茲海默症！《Nature Medicine News》發表小分子腦部免疫小膠質細胞活化研究",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00055-x"
+        },
+        {
+          "title": "早期 HER2 陽性乳癌去化療（De-escalation）成功！《Nature Medicine News》發表 PHERGain 試驗 5 年長期預後數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04723-w"
+        },
+        {
+          "title": "新型 ALK 抑制劑 Ensartinib 治療晚期 ALK 陽性非小細胞肺癌！《NEJM》發表三期 eXalt3 臨床試驗數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "title": "新聞雷達 (2026-10-29)",
