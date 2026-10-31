@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-10-30T12:11:41.050775",
+  "last_updated": "2026-10-31T15:17:10.827330",
   "daily": [
+    {
+      "date": "2026-10-31",
+      "title": "新聞雷達 (2026-10-31)",
+      "file_path": "News_Report/新聞雷達/2026/10/2026-10-31-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "緬甸外交官於聯合國大會哽咽呼籲：懇請全球攜手終結緬甸人民無盡苦難",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXZkNlbmpRZklDLVFtNmxyNl9nOG9nM2FRR1VXUndmTUYzRzNDQTZfUFV0QWsxN2s4S2doa05YRGFaMHJ6aXNtN1N2ZDlyWE1hVDFSVl9OcWc?oc=5"
+        },
+        {
+          "title": "蘇丹流亡人士與人權團體強烈抗議！嚴正反對阿聯酋候選人競逐聯合國高階要職",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job"
+        },
+        {
+          "title": "華爾街日報揭密！中國研究船密集測繪台灣周邊海域水文，為未來戰場經營鋪路",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVjBOTl9kdjlyVzlLeVZyRW8zTUhyTWRRdVBTOC1ESzZyeUs3dG5GeEdKRzZ4QlJST09jRzMwSkZCbkRwdjFyVWxvOW92SV95Q0J3d0ZmVDhKcS1lMHc?oc=5"
+        },
+        {
+          "title": "科技股高檔震盪引發融資疑慮！OpenAI 傳將最新一輪融資目標大幅下修 100 億美元",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5"
+        },
+        {
+          "title": "Sam Altman 吐槽個人電腦配備記憶體「極度糟糕」！宣稱資料中心能提供更佳算力利用率",
+          "source": "Tom's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV0JjNVJDNmxJSXdsWk4ySjhKVDRmdkhPTlNBWlliM28tbG1JM055YkdpYUhQUHZHazFIYjJyWXd0LU54NU9FUEpPNGU4REFDLUJpQmx4QlRwWjdDaU1MeTZhUDQwdmdHQ1RvTVdJYnRlMko4WlUxNXJpR2tNZVQwWDFwdXBUMGQyaWF1dkNyUzQzNDctMWdQci1aWjkxb2JjdlFLenNBdHpmMDc3eEEzUWFYY05WZ1dPblhHXzJwcVlua19ic1RqVzFMUXN4UnRwYUgyaEppM3h2TVQ2MEFsMFRyZTZxWWpYZlRGbGJ0ZkhoV1lHd2JyN3hsMko?oc=5"
+        },
+        {
+          "title": "惡意供應鏈攻擊震撼資安圈！含有後門之第三方 Claude 擴充套件植入數千台開發者裝置",
+          "source": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2hyRVBYNEpLVEQ2V2IwYk9aZmhtUm9veEV5RE4tZVVONXpIM1Y5Q1hxSWprYjFDR1NXNGF2MjlyeUpod2p6NFNydVltcmpudHoxU2wtUWJxSUdrWUhhanRiTUo3ZzdGNXViN0NyRUdTcHFiVEJfT2Z0VklGczNiOGhzYw?oc=5"
+        },
+        {
+          "title": "歡喜迎接 AI 自我吞噬？Google 坦言生成式 AI 搜尋正取代傳統廣告卻依然樂見其成",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM1ZQekFiMzV2eHlIU3lBa0lZOFI4VXVVbHFXTXFMQkNYQVRyQTRDbzUyWmcwYUNWRFhrYVJldGEyWXlmVFdaTU9HR0dyR0tjQnRYTnByMjQtYjNiTXZFa2ttQlhqVjB5V0dORmFxeVRSVVJPNF8xeWxScllLcG5sYkV1T1prTWJkaVRNNTZTTC1CbGxnYmxKMVhwbHNQY05MRjJIdW5IaG83VEhxTUROOGNn?oc=5"
+        },
+        {
+          "title": "英特爾股價暴跌引發市場震撼！美國政府入股部位單日蒸發 120 億美元",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+        },
+        {
+          "title": "Salesforce 併購狂潮根本停不下來！傳砸 3.75 億美元收購國防科技新創 Rune",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+        },
+        {
+          "title": "DoorDash 導入 AI Agent 成果驚人！將生鮮超市重複下單延遲從 16 秒狂降至 2 秒",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表最新物理探索論文！評測大語言模型能否透過自由探索自主發現隱藏物理定律",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zdHdMSDU0aEJjYm5qc2lXVjgxOTJ3X1d5SG1MUHhRSkN1ckg3UGJ2aS1kUFFXTXBzWUZXVFczdUVneHphMjdv?oc=5"
+        },
+        {
+          "title": "[Shell] expo / skills (★3940)",
+          "source": "GitHub",
+          "url": "https://github.com/expo/skills"
+        },
+        {
+          "title": "[Shell] mattpocock / skills (★307680)",
+          "source": "GitHub",
+          "url": "https://github.com/mattpocock/skills"
+        },
+        {
+          "title": "[TypeScript] pingdotgg / t3code (★33074)",
+          "source": "GitHub",
+          "url": "https://github.com/pingdotgg/t3code"
+        },
+        {
+          "title": "子宮保留雙重標靶療法突破！《The Lancet》發表避免子宮切除術之替代治療評估",
+          "source": "The Lancet",
+          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job"
+        },
+        {
+          "title": "早期錯配修復缺陷大腸癌根治策略重新定義！《The Lancet》發表免疫前導治療里程碑成果",
+          "source": "The Lancet",
+          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job"
+        },
+        {
+          "title": "數位雙生（Digital Twins）技術成功應用於預防早產！《Nature Medicine News》發表個人化免疫與產程預測系統",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00056-w"
+        },
+        {
+          "title": "變局中調升男性健康品質！《The Lancet》發表全球男性公衛與慢性病管理社論",
+          "source": "The Lancet",
+          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job"
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "title": "新聞雷達 (2026-10-30)",
