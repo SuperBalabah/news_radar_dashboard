@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-10-31T15:17:10.827330",
+  "last_updated": "2026-11-01T12:24:26.993400",
   "daily": [
+    {
+      "date": "2026-11-01",
+      "title": "新聞雷達 (2026-11-01)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-01-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "波蘭憲政危機引發大規模群眾示威！總統急召各黨派展開緊急政治諮商",
+          "source": "中央社 CNA",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42898633/"
+        },
+        {
+          "title": "傳川普擬選後重啟美伊對抗！伊朗最高領袖下令最大嚇阻防禦，反擊範圍不設限",
+          "source": "UDN",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51WGFkNEFTb1pzc0hsUVNSbFgzSGRFY1BPLXgtNGtVeEc1WUNHZEJQdVNpOEdHRWgwdF9qMFRYb0FQUTdpVVg0SXFoelQ4TExsUHV30gFYQVVfeXFMTmdiYjNJWFVINzRiZ3gwa01qZXB2ZnhCZ1JuQTV0NDBoWTdCM2ZCZjUzOU1oRzBUSGdvN1JPRUl5QThtRGt0aFFaWDFTMXpoYkdWZ0NxdW9DNA?oc=5"
+        },
+        {
+          "title": "同志酒吧執法過當爭議擴大！北市府正式公開致歉並完成行政調查報告",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LbWVYcW9USEhPM29mUF9ISUdIaGc3bFZvME9iS1NtSzhVaXM3R0dyXzNrY3JEYnBheU5XTHFvam44V0NPN3NjelVlYkxIcEJkamZoU3hNYTBqTDdoMlRV?oc=5"
+        },
+        {
+          "title": "OpenAI 傳將最新一輪融資目標下修 100 億美元！科技股估值面臨大檢驗",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5"
+        },
+        {
+          "title": "鴻海宣告與 OpenAI 展開全新戰略合作！董事長劉揚偉強調 AI 絕無泡沫疑慮",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5"
+        },
+        {
+          "title": "Anthropic 下達嚴厲禁令！強制要求 AI 助手 Claude 停止抄襲與逆向工程重製遊戲",
+          "source": "Game Developer",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5"
+        },
+        {
+          "title": "Alphabet 股價遭狂暴拋售單日暴跌 5000 億美元！AI 搜尋侵蝕傳統廣告收益引發恐慌",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5"
+        },
+        {
+          "title": "全新 AI 竊密木馬（Infostealer）驚爆肆虐！能自主爬取隱私並「自動肉搜（Autodox）」受害者",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+        },
+        {
+          "title": "Google 發表 PageBreak AI 資安代理人！一舉自動掃描並捕獲逾 500 個 XSS 零日漏洞",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Netflix 顛覆傳統維護思維！將 GPU 零組件硬體故障提升至「分散式系統」層級優化",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表最新研究論文！揭示網路生成式 AI 內容的不均勻擴散與品質隱憂",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aN1k5UnpIakt5Zjl6Qm9TUDd5TXJxMGh6bmhyc3hTZHkxdzlwMHRkSWZKcGJobUJiSWN4b0drYUsxdXBINUZF?oc=5"
+        },
+        {
+          "title": "Donchitos / Claude-Code-Game-Studios (★31283)",
+          "source": "GitHub",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+        },
+        {
+          "title": "lightpanda-io / browser (★39344)",
+          "source": "GitHub",
+          "url": "https://github.com/lightpanda-io/browser"
+        },
+        {
+          "title": "革蘭氏陰性菌抗藥性臨床攻防綜述！《NEJM》發表最新多重抗藥性致病菌管理指引",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af=R&rss=currentIssue"
+        },
+        {
+          "title": "變局中調升男性健康品質！《The Lancet》發表全球男性公衛與心血管防禦權威社論",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02190-2/fulltext?rss=yes"
+        },
+        {
+          "title": "超加工食品刺激兒童大腦飲食獎勵迴路！《JAMA (鏡週刊Mirror Media)》研究揭示 1 年後體脂狂飆機轉",
+          "source": "JAMA (Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NWQ4SUI4cnlfU183LVZ0SjhreElQRUUwUzZnUlJUX3hPaHQ4QVlJcGZBMlpmTXV5dWZDWmxaTUx2SkFxYnh5X3ZZQTBCaUxqMUlyTGVTaWFZdDExLWx0czRtUQ?oc=5"
+        },
+        {
+          "title": "氣候變遷威脅亞太地區瘧疾根除進程！《Nature Medicine News》發表氣候極端事件與公衛防線評估",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04722-x"
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "title": "新聞雷達 (2026-10-31)",
