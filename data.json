@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-11-01T12:24:26.993400",
+  "last_updated": "2026-11-02T09:08:16.877472",
   "daily": [
+    {
+      "date": "2026-11-02",
+      "title": "新聞雷達 (2026-11-02)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-02-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美國期中選舉倒數大解密！BBC 推出全球特別報導分析川普與美中賽局動向",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUxISzd5bExOd2R3Q1hHRWQ3YnR0cE10ekIxdFlZYmNvWjB5aUdUUGJsNXBReEZzS09rUW5TRnZXWWNHT0d0N3RtUGZDT0lZVFBUUm02WUJXZDJadGloOUJ6a2RJNnlWV0dlUnQ4OFhrXzB6WFo2bi1NUG9MMmFmM0VZMWY4eWY4X3NlRGV2MVMyRjJfV0E?oc=5"
+        },
+        {
+          "title": "德國爆發大規模生活成本抗議！暴動者洗劫柏林商家引發社會極致動盪",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXZkNlbmpRZklDLVFtNmxyNl9nOG9nM2FRR1VXUndmTUYzRzNDQTZfUFV0QWsxN2s4S2doa05YRGFaMHJ6aXNtN1N2ZDlyWE1hVDFSVl9OcWc?oc=5"
+        },
+        {
+          "title": "中共水下灰色威脅升級！日媒爆料中國海警與科研船繞台，疑密集搜集海底電纜水文情報",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLOFZPeXR6aXJDQkpaWS00RHVoYnl1bmZnZjRnUTM2TEJtZWx3RkhKSjdlLWNKc0RvOEU3NE5TQ21qc01ZckNES3hQN3VDOURlbkc1cEI0SWFpd0ZjUVZJ?oc=5"
+        },
+        {
+          "title": "Sam Altman 吐槽 PC 配備 RAM 係資源浪費！OpenAI 預估將吞噬全球高達 40% 記憶體產能",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmczM2QxUWFDbUJ3WEF1OV8tb1RMSmU3LV9fcW5mWWQ1R2p2RUZuM0FYS003WEY4VkZlZmFRZ01QblI0LTBhTjhoSElDZkFWaGRILWhVRDFLa2dCRTRLYVdQa0tMY3hwZzU0VGFqOXdad2ZfVjBjZERiREJkU214RUpYTjN5N1lsZWg0UmRIY3pRSmxNQkZGbnR3?oc=5"
+        },
+        {
+          "title": "DeepSeek 推出升級版寫碼 Agent 重磅宣戰 Anthropic！國產 AI 寫碼助手戰火白熱化",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5"
+        },
+        {
+          "title": "為什麼生成式 AI 狂給 Meta 廣告助攻，卻讓 Google 傳統搜尋收益慘遭吞噬？",
+          "source": "Google AI News (English)",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VFFxN2pKNFVfSEdGZVpaUmU0ZUVyWGE2VnEwUE5oZE41bmo5Z2dsTnM2alRKM1VaV0g5ZWcxb2FKcXZxdUZsWUktQzJVel9aelpQQ2FScE43X0RncXl2cnJDY2FjdVBYb3EzR1NySdIBdEFVX3lxTFAxZ0VWZ1FUemdMTjR6NktfMmpJUmYyY3BycTBTQ2tocUZLa2RoaEJZVFAyamFxU1ZwdmJOYjdOZ2xqVWMxbGNVLXNOSjBrUFVFQ0lwZ1ZQcGRXYmtjaERRaE10b3JEWDBnTG1IUHU3YTZZLVNa?oc=5"
+        },
+        {
+          "title": "微軟 AI 於模擬醫療診斷測試中擊敗人類醫師！複雜病例判讀展現極致精準度",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWp2OF9UQnVEVEZvcm01N09RZXkxVzFsZ3NoZVdFRElaeHo4azE2dlF0LUtCejU1UnB0eE1VS1hVSHRsT1dDdktWSWNWdndKSU0xeUt0NGZuNy1nMUZRckk5UzREYmtJRUY1N09xUEk0aWJ3SXU3MFpLOXlSeGdDV284ZlNEYUnSAYwBQVVfeXFMTklsUk5LcXJHMGNLenQ0aDR2X0tJMXg5MG10UThHcGpXV1NuS2dNWDBBbWI1eEpRbGpRYjN6OTV0ZzBEN0VPY1M0LVhQTDZJY2F2MkVRUWVrSEpZaUY4OVo3VHFGQTJjMS1SZWVGVGNiLV9LeWRjazRXNFlTcXA4eHB3amUtR2ltR0VnMmo?oc=5"
+        },
+        {
+          "title": "AWS 算力爆滿告急！亞馬遜 CEO 證實 2027 前大型專用雲端算力已被客戶預訂一空",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Postgres 19 開發進度驚爆跳票延宕！核心貢獻者重砲抱怨「全是 AI 程式碼惹的禍」",
+          "source": "Hacker News",
+          "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+        },
+        {
+          "title": "AI 吞噬軟體工程中階梯層！最新研究警示：初階工程師缺乏實戰鍛鍊引爆人才斷層危機",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表 Agent 委託授權研究！揭示使用者在監管代理人時常見的落差與困境",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rSmE1REFtd2ZoUjdDbzBWLWhpaUN4a2RTaVpuNUcwbUE0b19oR3NKWlVxQm1MVVg1aVZTYks4LVlzT2R3RnRN?oc=5"
+        },
+        {
+          "title": "shiyu-coder / Kronos (★45393)",
+          "source": "GitHub",
+          "url": "https://github.com/shiyu-coder/Kronos"
+        },
+        {
+          "title": "cjpais / Handy (★36556)",
+          "source": "GitHub",
+          "url": "https://github.com/cjpais/Handy"
+        },
+        {
+          "title": "beenuar / AiSOC (★6222)",
+          "source": "GitHub",
+          "url": "https://github.com/beenuar/AiSOC"
+        },
+        {
+          "title": "Sirolimus 塗層氣球動脈成形術治療下肢動脈疾病！《NEJM》發表最新臨床預後試驗數據",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af=R&rss=currentIssue"
+        },
+        {
+          "title": "子宮保留雙重標靶療法突破！《The Lancet》發表避免創傷性子宮切除術之替代治療評估",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01715-0/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "title": "新聞雷達 (2026-11-01)",
