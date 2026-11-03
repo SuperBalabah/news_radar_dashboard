@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-11-02T10:44:32.877898",
+  "last_updated": "2026-11-03T08:14:45.758365",
   "daily": [
+    {
+      "date": "2026-11-03",
+      "title": "新聞雷達 (2026-11-03)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-03-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "台日經貿外交重大突破！台日兩國研擬簽署全面性貿易協議最快年底敲定",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44d2dERDBfX2d5ckJmTjRYd0tiYmZvaVpJS0t3QVo4bGQ1cUxsN1k4LXlWQkZTZjE0ekFkc1llTy1nNC04Uk1FdU44UGJCUGV0dVl5SzBUQU0zMTZudjdB?oc=5"
+        },
+        {
+          "title": "公費流感與新冠雙疫苗第二階段擴大開打！50至64歲民眾接種可獲獎勵",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12VWt5c1ZoT1dTS3RGUkF3ZXNqdHZLTWJSRFctLXVHNy0xZGVnZFpPSXoySHlUTnRlMGJDRUpjSHh4RVEySEhGc2JnN2QwVHNnLWY2WUlqSEJuY1JEZ2Jz?oc=5"
+        },
+        {
+          "title": "全球多國網站驚爆大規模無預警癱瘓！國際網路安全防線面臨考驗",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAya0JvZE43VTBoZksyX0lyUHduMTVUOFpuWGljUzNhazJiaHAwc2xrbE43OWJ1SS13TXR0ZUdvUExyQ2NZWkRVWXNMbFphcE9qUU1KR1pPRVc?oc=5"
+        },
+        {
+          "title": "伊朗少女遭槍擊受害引爆全球人權關注！母親打破沉默勇於尋求正義",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0bEF0bkZhYzU2Qk8xdDZKSlhqZUwwaGI2a2FET3psRUZsQ0ZHUjZJWnRYUHVrYnR2ekhXc3NFQkdfODlRNlB6VlNlU0w4WXNYTWlIdkJRNks?oc=5"
+        },
+        {
+          "title": "OpenAI 延攬前美國陸軍部長加盟！全力佈局國防與軍事 AI 應用",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVIwNmtWSjgyZ3BiQUV2akNTSzVrQnQyeTVVSEtua3BBVXpiQURSQmsyVzVwY2R3QTdOTWZER24xTTBPay0ybXl6RzBPdmtzOVdPbnR4dmtDOEliZWtyQUZwVjhtN1h4VVo4c09iVTMweVVYUmdSdjUyeEtNZXpOYXdFTk4?oc=5"
+        },
+        {
+          "title": "揭密 Anthropic 算力軍備競賽！大舉尋求核能與超大規模資料中心算力支援",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMU9mUnA3eGNRaE42VV9SdE5yWFpwUVBWazdiNFV2QmpsWFY5V1hrdV9wMEJiUFIxamVLaXNLNmNTczRGRHZkMWlDT0JWUkhhZExkc25BeWhxNDN2TThXcUszN3dVcU5VS3NCbzUySmRva0NjRmFHVmNfTXhRTWlUYWswVzNzRjRjQ3JKbk9pX2tKM2d1cHlQUWRBSDZfblZSTkV5Z2VzRnJJVTNVem05VmUwTzE3OGE1dXVZN0JJMlQydHpHUS1tVVR3?oc=5"
+        },
+        {
+          "title": "Google 高層面臨著作權集體訴訟！股東提告皮查伊指控未授權使用版權作品訓練 AI",
+          "source": "Google AI News (English)",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUt4SEhrV2tsLXVFVFZXZHNEWVlQS0RTeElRaTBuLXNpTzlOdnVDelZQLWprdmdlbmdFeHA2Y1QzQ3hzRUpfNGhvU3pZOHF3NE5fWVNDYkNiMUdzdk84R2Rmd3VOSUkxZmFXN25pbjNQR2Q4bkFKY0g0ZGU0ekxIVGM5eHVhbHF4Q1BhLS15elkxeENJaV9yZ21OakpPYjdW?oc=5"
+        },
+        {
+          "title": "微軟 AI 執行長突發警告！呼籲科技界嚴禁開發具備自我意識的 AI 機器",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02190-2/fulltext?rss=yes"
+        },
+        {
+          "title": "權重級神經網絡自我程式設計！Astra 實現直接讀寫權重以優化 Qwen 模型",
+          "source": "Hacker News",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+        },
+        {
+          "title": "降低 AI 訓練門檻！新創 Trajectory 獲 4500 萬美元融資，讓無技術背景專家亦能訓練專用大模型",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+        },
+        {
+          "title": "自動化軟體測試革命！Momentic 推出 AI Agent，能像真實用戶般操作 App 自動捕獲 Bug",
+          "source": "Hacker News",
+          "url": "https://momentic.ai/"
+        },
+        {
+          "title": "次世代 Agent 架構指南！InfoQ 發表系統化記憶體與上下文架構白皮書",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "vercel-labs / agent-desktop (★9584)",
+          "source": "GitHub",
+          "url": "https://github.com/vercel-labs/agent-desktop"
+        },
+        {
+          "title": "D4Vinci / Scrapling (★92814)",
+          "source": "GitHub",
+          "url": "https://github.com/D4Vinci/Scrapling"
+        },
+        {
+          "title": "FlashML-org / FreeToken (★16042)",
+          "source": "GitHub",
+          "url": "https://github.com/FlashML-org/FreeToken"
+        },
+        {
+          "title": "暈厥（Syncope）鑑別診斷與臨床處置指引！《NEJM》發表權威綜述解析心因性與神經致因診斷流程",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af=R&rss=currentIssue"
+        },
+        {
+          "title": "步行速度與長壽關聯！《JAMA》大規模追蹤 12 年研究證實，步行速度較快者全因死亡風險顯著調降",
+          "source": "JAMA (Google News)",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMTh3SUlPb0tSdnk2Z2FHN0ROS1BQdUxqRVVVaU9xaGJKLXRHSjRfWjFvc3dFOE9MMWxSOF8xb0t3SmNzaXdmMkwtdnlQLU5ucjNLMkJOdXBZelE0UG1pOG40Z2VXem5IR0hNYkVxNTZuTklRekdnV28zQjlxbW9mSXk3ZXdMc0RubzVtaG5WcHE0QWh4S2xXRnNDLUFuWnNKeTIzdjZEWldFVWhNOXRxNm5qUjlaZ3VYTWdGS1lxbXZQYlNGNmc?oc=5"
+        },
+        {
+          "title": "錯配修復完整型（pMMR）大腸癌前導性免疫治療 breakthrough！《Nature Medicine News》發表 UNICORN 二期試驗成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04710-1"
+        },
+        {
+          "title": "非節段型白斑症（Vitiligo）口服 JAK1 抑制劑突破！《Nature Medicine News》發表三期 STOP-V 臨床試驗數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04739-2"
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "title": "新聞雷達 (2026-11-02)",
