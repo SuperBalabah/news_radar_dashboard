@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-11-03T08:14:45.758365",
+  "last_updated": "2026-11-04T09:01:40.102140",
   "daily": [
+    {
+      "date": "2026-11-04",
+      "title": "新聞雷達 (2026-11-04)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-04-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "烏克蘭與俄羅斯驚爆遭虛假緊急警報襲擊！網路心理戰全面升級",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44TjFfVGVSN1A3OG5FcWhSRHp3Uk9qdVIwRWlOZ3JhRGkxZGxzbmVmbzljNXBXUzNlMVhNaVdrbzNqc2l5ejdPeUpONF9hQzRn?oc=5"
+        },
+        {
+          "title": "物理學全新概念「Zeptoverse」問世！極致微觀維度將顛覆物理學本質",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5c0RhMC1hV1F4dWp4bUhmYXhpSUpMMUlTZ1hFdDJYeGc2NFNjYm1TSHZpR3JQVTEtX2xVaHZucGJzVmtkLUdzcFBUWjFFRV9nMXFxRXdxRXZMQ0E?oc=5"
+        },
+        {
+          "title": "第 2 批 3 架 F-16V Blk70 戰機自美起飛！國防部證實近期抵台大幅提升空防戰力",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdDV4MXRMcTlyZS1xTWxUNkZXNmphdmwzY2lVby1HYUZUZTBvOXhxRFFYZEVOaWVBX1NIa0lxWjFWdmp5SFJHRDRiZDJ4Z0Zld1JlV3dxek9Ud1hlNzVn?oc=5"
+        },
+        {
+          "title": "日籍男子遊九份突發失蹤事件！新北市警消與搜救隊傾力展開搜救",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lb0NBcnJXUTN0Um1yeGd1M3hBRE5xdWp2TU1qbm9jc2hQYXhLdkd3bHlOVTVPNEZMUmxvaVFZTEZhWFdoV1pma1JoZUt3czE2d3R3aHU2eGJCUzNyanY0?oc=5"
+        },
+        {
+          "title": "OpenAI 延攬前美國陸軍部長加盟！軍方加速佈局國防 AI 應用",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5"
+        },
+        {
+          "title": "Anthropic 向華爾街與公眾靠攏！即將迎來歷史性上市考驗",
+          "source": "Anthropic News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3VPODg4OFh2Wk9FNTFNRlMzTzV4WnpOWGZ2Z1lNZ01nYUh2SS0xN1R0LUpTTHhUTnMwVFZQS2tiNHRpdHVuZVVjT0ZwZmJqbDdndlZZcGJkcHFQSElyZG5MSVdHczNtS0d3VGlONGVibnhVWDJIaVNNbHZMNENwR2ZzNFlaWWRjVDNQeHpaUXNEdk1OZ012a3MybFA?oc=5"
+        },
+        {
+          "title": "歐盟法院顧問發出重大資安警告！Google AI 聊天機器人可能侵犯著作權法規",
+          "source": "Google AI News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUt4SEhrV2tsLXVFVFZXZHNEWVlQS0RTeElRaTBuLXNpTzlOdnVDelZQLWprdmdlbmdFeHA2Y1QzQ3hzRUpfNGhvU3pZOHF3NE5fWVNDYkNiMUdzdk84R2Rmd3VOSUkxZmFXN25pbjNQR2Q4bkFKY0g0ZGU0ekxIVGM5eHVhbHF4Q1BhLS15elkxeENJaV9yZ21OakpPYjdW?oc=5"
+        },
+        {
+          "title": "太空 3D 列印重大突破！Orbital Matter 成功於真空太空環境印出第一根堅固樑柱",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/"
+        },
+        {
+          "title": "Google 重磅發表 LiteRT Tensor API！推動端側 AI 模型建置、客製與極速優化",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/litert-tensor-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Agent 互動介面新革命！InfoQ 展示 Beyond the Harness 之 Canvas 架構",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/presentations/canvas-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "柏拉圖表徵假說突破！arXiv 發表運用 JEPA 驗證並提升通用表徵理論",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qYUxsdkktNjRRaTNvUGhaazRmRndlQllQYjVqcnQyLV9YV1BFMGFKLU00UUhYRkpmYmM4Ym1VXzU3LTJSWGpB?oc=5"
+        },
+        {
+          "title": "max-sixty / worktrunk (★10486)",
+          "source": "GitHub",
+          "url": "https://github.com/max-sixty/worktrunk"
+        },
+        {
+          "title": "JustVugg / colibri (★47247)",
+          "source": "GitHub",
+          "url": "https://github.com/JustVugg/colibri"
+        },
+        {
+          "title": "p-e-w / heretic (★38793)",
+          "source": "GitHub",
+          "url": "https://github.com/p-e-w/heretic"
+        },
+        {
+          "title": "心臟磁振造影死亡率預測比拼！《PubMed AI Medicine》發表人工智能對決資安醫師臨床估算成效",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42862709/"
+        },
+        {
+          "title": "難治型晚期黑色素瘤細胞療法 breakthrough！《Nature Medicine News》發表膜結合 IL-15 工程化 TIL 臨床數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04743-6"
+        },
+        {
+          "title": "圍絕經期女性荷爾蒙替代療法與腸道菌群異質性！《Nature Medicine News》發表個體化反應研究",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04737-4"
+        },
+        {
+          "title": "異體造血幹細胞移植活體生物藥物預防急排斥！《Nature Medicine News》發表 1b 期試驗數據",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04786-9"
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "title": "新聞雷達 (2026-11-03)",
