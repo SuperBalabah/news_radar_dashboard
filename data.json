@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-11-04T09:01:40.102140",
+  "last_updated": "2026-11-05T08:12:48.948731",
   "daily": [
+    {
+      "date": "2026-11-05",
+      "title": "新聞雷達 (2026-11-05)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-05-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "南非地方大選爆發民怨大潮！執政黨 ANC 因水電危機與服務崩潰面臨懲罰性選票",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+        },
+        {
+          "title": "約翰尼斯堡非法黃金採礦危機失控！地表塌陷爆發巨大天坑與治安動盪",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg"
+        },
+        {
+          "title": "外交部回應美國期中選舉：對美外交跨越黨派，將持續深化台美安全與經濟戰略合作",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZUGEzQ3dSSnFRODZSRjM3U1F4MFk5eVN0RGZOVV9HamZfcFZ2WUljQUdhN0JOX2djR0ZhYWNrUEhNZ3B4Q3pzQXctZW9nWnROazhN?oc=5"
+        },
+        {
+          "title": "OpenAI 未雨綢繆已開始佈局 2028 美國大選！試圖透過利益團體與政策遊說形塑未來 AI 法規",
+          "source": "OpenAI News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVElzb3RuOGpILUxZNGYtcXM1bGRTaXVNM1Q1VUJJQ0ZrYnVJYUxxNWkyLXZHUDU1YlNNcjU2Z1dLWGlDaEVhWThiY3JZaXNIWVZ0YVBHbUVzSHV6dGhJdWMwSVpMX2pPeHQ1Qi1TSFRpRlBPWktIMHRJTGJMaFU5cV9KMTNITHpXR3pxVmtCTQ?oc=5"
+        },
+        {
+          "title": "Google 重磅出手提供融資擔保！助力 TeraWulf 為 Anthropic 建置次世代高算力資料中心",
+          "source": "Anthropic News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRnZlVlY01kVjVYczh3YzN1N3ZrLWlLRFVURERNQ0lFcDFURElfOVJ3OXpvR3RodUpvaWZWaGtQMDBaNUFYVUNDZFFicC1DclF1aWl0dERFYkJXMVhFZnAwWE1uV0t2VUhkQmhYajRlWjZjWHpiRUJJR1ZtakdPQjNRWXRBRzFOLTRZZktDSldPcjFNa0ZSQm5yUWdOWGNHTFVvVGduOUQ5SlB3NHhHV2gtSQ?oc=5"
+        },
+        {
+          "title": "Google 發表負責任醫療 AI 開發框架！確立智慧醫療應用之臨床安全與隱私防護標準",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUt4SEhrV2tsLXVFVFZXZHNEWVlQS0RTeElRaTBuLXNpTzlOdnVDelZQLWprdmdlbmdFeHA2Y1QzQ3hzRUpfNGhvU3pZOHF3NE5fWVNDYkNiMUdzdk84R2Rmd3VOSUkxZmFXN25pbjNQR2Q4bkFKY0g0ZGU0ekxIVGM5eHVhbHF4Q1BhLS15elkxeENJaV9yZ21OakpPYjdW?oc=5"
+        },
+        {
+          "title": "衛星照片曝光隱憂！微軟 50 億美元 AI 資本支出缺口背後，凸顯資料中心擴建面臨電力與建設瓶頸",
+          "source": "Microsoft AI News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVElWR0NvTE1oOGFIU1JFRkREWGdSMDhiRTAzeEpJb2dVSG43d2lWODJ6bjdjSzFqUFNCcUc0WFZzZWdxRWdXTmRRQ1dFUElFMmpDT3l1UExmT3hOZFE2b0pSeXVYbnBxU25YWVQ0N2d2NTJka2ZuOG92MUNJenhKemFNWWdpdjJmOUN3VDZZZHE0eFVYOUVtMnpqVnRUUkdTaWxuaWpsWjktLTExMXc5WTdKVzhYQ2Ff?oc=5"
+        },
+        {
+          "title": "矽谷 AI 政治行動委員會（PAC）重金砸數百萬美元影響國會選舉！成效與法規影響深度剖析",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVElzb3RuOGpILUxZNGYtcXM1bGRTaXVNM1Q1VUJJQ0ZrYnVJYUxxNWkyLXZHUDU1YlNNcjU2Z1dLWGlDaEVhWThiY3JZaXNIWVZ0YVBHbUVzSHV6dGhJdWMwSVpMX2pPeHQ1Qi1TSFRpRlBPWktIMHRJTGJMaFU5cV9KMTNITHpXR3pxVmtCTQ?oc=5"
+        },
+        {
+          "title": "Nothing 執行長震撼預告！神秘 AI 優先（AI-First）硬體裝置將於下個月正式發表",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+        },
+        {
+          "title": "期中選舉震盪引發科技界避險！矽谷新創與資本大舉搶攻「太空資料中心」軌道部署",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/"
+        },
+        {
+          "title": "全美開源模型全新 SOTA！Ripple-65B Preview 於 Agentic AI 寫碼能力測試中刷新紀錄",
+          "source": "Hacker News",
+          "url": "https://www.ricursive.com/ripple"
+        },
+        {
+          "title": "[Python] NVIDIA / auto-ontology (★4908)",
+          "source": "GitHub",
+          "url": "https://github.com/NVIDIA/auto-ontology"
+        },
+        {
+          "title": "[Python] github / spec-kit (★147289)",
+          "source": "GitHub",
+          "url": "https://github.com/github/spec-kit"
+        },
+        {
+          "title": "[Python] The-PR-Agent / pr-agent (★14743)",
+          "source": "GitHub",
+          "url": "https://github.com/The-PR-Agent/pr-agent"
+        },
+        {
+          "title": "PROSpect 試驗轉化臨床床邊指引！《The Lancet》發表重症照護之病理生理學精準決策",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02054-4/fulltext?rss=yes"
+        },
+        {
+          "title": "代謝相關脂肪肝炎（MASH）非侵入性檢測！《The Lancet》發表臨床診斷與藥物試驗效益對比",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01144-X/fulltext?rss=yes"
+        },
+        {
+          "title": "心臟磁振造影死亡率預測對決！《PubMed AI Medicine》發表人工智能對比資深醫師預後估算成效",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42971895/"
+        },
+        {
+          "title": "可切除非小細胞肺癌圍手術期雙特異性抗體 Ivonescimab 突破！《Nature Medicine News》發表二期臨床成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04745-4"
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "title": "新聞雷達 (2026-11-04)",
