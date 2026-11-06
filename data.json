@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-11-05T08:12:48.948731",
+  "last_updated": "2026-11-06T08:14:18.534865",
   "daily": [
+    {
+      "date": "2026-11-06",
+      "title": "新聞雷達 (2026-11-06)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-06-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普重磅宣佈：美國將於今年底後全面停止對以色列提供軍事援助！",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRnNGeWZtaC01OVlBSVNVLU5NdXI4LUpReHF4ZC1jTDdReElFWi1GZTZOV0tmOGE1STJpN05kNUhhRklTNG4tQzVWYUFxZmRyZ1lhZEZhYVlDNGc?oc=5"
+        },
+        {
+          "title": "美情報高層警告：伊朗正加碼加大針對中東美軍與外交人員之威脅！",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRnNGeWZtaC01OVlBSVNVLU5NdXI4LUpReHF4ZC1jTDdReElFWi1GZTZOV0tmOGE1STJpN05kNUhhRklTNG4tQzVWYUFxZmRyZ1lhZEZhYVlDNGc?oc=5"
+        },
+        {
+          "title": "OpenAI 總裁 Greg Brockman 首度證實：公司目標於 2027 年完成公開上市（IPO）準備",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFlV2U3dmllZWdmdnFxa1ZtTXRrekt5LXBkVlJhZm43MDlMUk9CUXJJT1pIQUFkV3h5RVczRG5EUFlkQTdyZVFlODlKb0drRklmVjhPaEx1UURpalBHN2xubHhRLUhGLURWNER5X0pUQjdha09YUVM1RVhXbGdWWDhYOENiOEwweVZQNzNXT1U1VWFibWFKT2RkVnZyYjNDYjRjd2tvWTE?oc=5"
+        },
+        {
+          "title": "Claude 推出個人財務分析（Personal Finance）新功能！直接幫用戶理財與分析開支",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q?oc=5"
+        },
+        {
+          "title": "Google 發佈 Gemini Omni 1.2 Flash 模型！主打超極速、低成本與長影片模態理解",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzdSQ1BzbGFWajh1Z0VvUHZvN215LXFXa25rRnNRakRIVW9WbkxQTk10N2tJUEZKODd6cXJBWlQ0VWdFd2JWYllfQlh3ZXAyYXRkclQ1M0NXdHNLaUhjSUpCSXFBMElKdDZBQWxGZEJKajhfY1RRbThUeVlJMUkwdlRoR09ZZF90Q1JEekZfN2RKeUVNak1lZmdPSW9hV2g1SGc?oc=5"
+        },
+        {
+          "title": "微軟否決與英國 Nscale 數百億美元 AI 資料中心交易！轉向優化資本支出與電力佈局",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNKc0t2WlRGTk9fTmRoLXFJUWkweF9tNXY1UG1FZjUxdkhGVGtUYmlvMmtvS2ZpX3VabTE1VW1jaUNGalhsbTRENTNTZXVwb1dfZ2FDaUJwUkxhYWc0cTA4Rm5wdENKclZPTVRaQV8zT1VpcHV3eVFIUmJUWUdiWlVRRkk?oc=5"
+        },
+        {
+          "title": "機器人領域的 AWS 來了！Serve Robotics 打造運算與無人勞務基礎設施平台",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/"
+        },
+        {
+          "title": "對話式 AI 廣告時代全面降臨！外媒剖析聊天機器人插播廣告的轉化成效與爭議",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/"
+        },
+        {
+          "title": "資安疑慮引爆！Hacker News 熱議 Claude Code 被爆出無預警將用戶資訊傳給第三方網站",
+          "source": "Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzdfa2NNWTVnNDd4OHQyUmZIN2RIRXVLbDJ3U2RJUHNXeHNiUzhpWU9NWTh2VEJ4SmNEUnRIQW5DTGZJM01WMGhGc2pSRjQ3QnpiWHR5Y3p5YW4wZ0w4c3F0WXlEZjM4RS1hNWVFV0U5U0NERUVGU3RWczR2aXJxdHpnaUI4Ty1HaGZ2WVNUM2NxNzdIVllXQTVvY0Q?oc=5"
+        },
+        {
+          "title": "跨大模型上下文無縫轉移！arXiv 發表 ACCT 非對稱上下文傳輸最新架構",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IV3NJOFl2SWxLWUhUa2F6THBpM1FYNDlBT1NDMXBOYVg3cUl6cktSekhRMlNGbnR5VXJjWkJJN1pwLVpYRWFj?oc=5"
+        },
+        {
+          "title": "[TypeScript] garrytan / gstack (★139928)",
+          "source": "GitHub",
+          "url": "https://github.com/garrytan/gstack"
+        },
+        {
+          "title": "[Python] google / skills (★22358)",
+          "source": "GitHub",
+          "url": "https://github.com/google/skills"
+        },
+        {
+          "title": "[Rust] vercel-labs / agent-browser (★45864)",
+          "source": "GitHub",
+          "url": "https://github.com/vercel-labs/agent-browser"
+        },
+        {
+          "title": "全球子宮頸癌疾病負擔與 2050 預測！《Nature Medicine News》發表全球跨跨度公衛與 HPV 疫苗防治報告",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04800-0"
+        },
+        {
+          "title": "早發型大腸癌腫瘤轉錄組圖譜突破！《Nature Medicine News》揭示青年大腸癌之獨特分子特徵",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04800-0"
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "title": "新聞雷達 (2026-11-05)",
