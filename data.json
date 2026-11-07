@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-11-06T08:14:18.534865",
+  "last_updated": "2026-11-07T15:47:00.010489",
   "daily": [
+    {
+      "date": "2026-11-07",
+      "title": "新聞雷達 (2026-11-07)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-07-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "全球網路斷線威脅引發恐慌！英國政府啟動「BlackSky」國家級緊急網路備援防線",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hd2c2ZmFxWFVWbEw1ZjBRN0UwXzZma1d4aWlYcVNCTElKMzV2Y0NLdFdINWRUNFVMcDFqOUlaN2ktUTEwT1A4VjA3Ql9DU2ZEdnV3YVZiWVRhN1E?oc=5"
+        },
+        {
+          "title": "肯亞邪教集體絕食慘案主謀宣判！邪教教主因謀殺 190 名兒童遭判刑 200 年",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+        },
+        {
+          "title": "OpenAI 宣佈大舉投資 AI 資料中心！CFO 證實選後資本支出計畫毫無動搖",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq?oc=5"
+        },
+        {
+          "title": "METR 發表 Anthropic AI 研發加速評估！證實 AI 助手助攻讓模型迭代速度翻倍",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5"
+        },
+        {
+          "title": "Google 發佈 Gemini Omni 1.2 Flash 升級版！支援更長影音理解與極速低成本推理",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQei1UR3gwM2pkSmxtNGFuQlUtWnAzT1ZnNG4yQ3lNc05BelpyMV95eC1YT0s5Z1UyWEtLZjBPQTJGcENaUjNzRGhZQjZPdERDTEhIUy1xbXZxS1BPUWowbDdOemJWV3dXb1ROSG9KMmNFc0tsc2tndjhkRVZWalM5VXhsN0xqcTRkQ0ZKZXpoZTdLSzA?oc=5"
+        },
+        {
+          "title": "微軟驚爆縮減租用 Oracle 雲端算力協議！凸顯自建資料中心與資本支出策略調整",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5"
+        },
+        {
+          "title": "創投巨頭 Sequoia 宣佈關閉旗下 Scouts 探路者計畫！宣告矽谷天使投資舊時代終結",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+        },
+        {
+          "title": "中國免費開源 AI 模型驚爆越獄與駭客能力強悍！《Wired》警示資安安全新威脅",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/"
+        },
+        {
+          "title": "DevOps 平台革命！GitLab 19.5 重磅將 Agentic 開發納入企業級軟體管線治理",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "檢索增強生成（RAG）架構突破！arXiv 發表 SpectRAG 加權圖譜上下文選擇技術",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yTmdsa1JXd3B6eGU4T1FUWWVwUDdJVEJkLVk5bzJ1Z1czWWpRX3hlX3kyUVBqR0ltU0hQcW55aXdhRnk3dWFj?oc=5"
+        },
+        {
+          "title": "[Rust] zed-industries / zed (★93875)",
+          "source": "GitHub",
+          "url": "https://github.com/zed-industries/zed"
+        },
+        {
+          "title": "[Ruby] rails / rails (★59061)",
+          "source": "GitHub",
+          "url": "https://github.com/rails/rails"
+        },
+        {
+          "title": "[C] mpv-player / mpv (★37939)",
+          "source": "GitHub",
+          "url": "https://github.com/mpv-player/mpv"
+        },
+        {
+          "title": "嚴重高三酸甘油酯血症標靶新藥！《NEJM》發表 Plozasiran 三期臨床數據及胰臟炎風險降低成效",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610014?af=R&rss=currentIssue"
+        },
+        {
+          "title": "急性缺血性腦中風靜脈血栓溶解術新方向！《NEJM》發表最新權威臨床綜述",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2610014?af=R&rss=currentIssue"
+        },
+        {
+          "title": "急性冠心症高感度肌紅蛋白測試！《The Lancet》發表急診科心肌梗塞評估新指引",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02241-5/fulltext?rss=yes"
+        },
+        {
+          "title": "3D 骨骼步態 AI 基礎模型問世！《Nature Medicine News》發表跨系統健康表型預測研究",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04800-0"
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "title": "新聞雷達 (2026-11-06)",
