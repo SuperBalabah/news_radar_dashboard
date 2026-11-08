@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-11-07T15:47:00.010489",
+  "last_updated": "2026-11-08T15:05:51.558018",
   "daily": [
+    {
+      "date": "2026-11-08",
+      "title": "新聞雷達 (2026-11-08)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-08-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "紐西蘭國會大選倒數戰火白熱化！兩大黨黨魁雙 Chris 決戰國家經濟與政策路線",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uTnpSdTE4cUtzQ1k1M2tIME8tUG1vX2xSS0xtM1RuTTVfRnRGa01xVThMdkhwa05URjhMLWNmVVdwX18wTDZRVktyLWNETjNTM1QxNmRyUlo?oc=5"
+        },
+        {
+          "title": "氣候變遷全球通識指南發佈！極端氣候衝擊與綠能轉型關鍵指標全解析",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCS2FMN09MbU5nUWxsRm02MDZpUm5aX3Q1YlZLMS1KOGNVakZhZFdFbjNPV1dpSnJnOXJMX2VmXzZXOXRMNnZ1VGlpRTFkZEFWQVJUclB6eUgxZw?oc=5"
+        },
+        {
+          "title": "跨國鎮壓威脅升級！人權組織爆料中國於海外秘密佈署「網格員」監控異議人士",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoeGFEZG9aN3lXOVNWc3lmUU5ra0xWRkQ4T3dIY3pyRVRBUjBQMTN3eVdNWDF2M2tHalAtLUtKZG1wSTRtTVpwRThBVVlRSnJ0X2FiZWlVdHBVMUkyRlE?oc=5"
+        },
+        {
+          "title": "OpenAI 大轉向！宣佈廢除資料中心保密協定（NDA）以化解地方民眾疑慮",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5"
+        },
+        {
+          "title": "校園 AI 護欄驚爆重大安全漏洞！Google 因學生使用 Chromebook AI 生成輕生計畫遭家長重砲提告",
+          "source": "Google AI News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclVwOU96NjRHdkk3VW1UN3hlU2tEMG5YcU5LWVBFOUZKMTlGcjBTNWZsTGlDZl82b2ZoaXVoSU1qcWJySmprbHFOTjlSY09zUWtuc2E1Q0VmSzNieGJRMENmaXBORWRfM1pReVhQTkhNNlV3Zk9uQWxHa0Z1STNxR25USFNMUDVPc2fSAY8BQVVfeXFMTnJCRGZtY2dZMDdLamhiQlk5c283Q0dsVVE1eXIxNC1zTEhGbzdfMFRrVE0tSXU4Vl9iSFU4UHNSa2kxS0V5OEVKSVpSVkZlRE5vMVBQOE9JMTk4bE50T0o0LUlHUGhfSGVGU2t2OVZtdUE3TThJSWc3M2xrbGtyRHNIRmRjSmNpQ21MSjJtNUk?oc=5"
+        },
+        {
+          "title": "舊型 GPU 算力瓶頸引發合作變局！Oracle 因 Nvidia 舊款晶片效能限制失去微軟巨額 AI 算力訂單",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMVpHMU9kNjRsUWlWREtkdlBPbGU4WlRZdXVaYUlGaS1HUWFBeTY5MWUtZ0sxUFVtOEpnRi1mVl9rWEV2U2dOcmFaZExsdzh1dGlyUHBpQmVtcmdMMzJrMmZ2V1RBZnROZDJIU2ctdWpIdlByUG0tTUlwd3hvMkY2Rm1jU3p3ZmFQOTBkS2xEOTI5U3dtNHRPb25IZkV2RloyOUxv?oc=5"
+        },
+        {
+          "title": "幣安高層震盪！在遭逢 63 億美元黑客劫案後，幣安 CFO 宣告離職轉投全新創業項目",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+        },
+        {
+          "title": "AI 寫碼助手自動化授權爆資安漏洞！Claude Code「不再詢問」設定遭爆洩漏逾千份 GitHub 密鑰",
+          "source": "Hacker News",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+        },
+        {
+          "title": "PostgreSQL 向量檢索效能大升級！開源擴充套件 pg_vectorsearch 實現大規模向量相似度檢索",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "東南亞獨角獸 Grab 實戰經驗！如何建立嚴格稽核管線安全控管 AI 生成程式碼以維持 App 穩定度",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "[Python] anthropics / skills (★188949)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/skills"
+        },
+        {
+          "title": "[TypeScript] meta / astryx (★14776)",
+          "source": "GitHub",
+          "url": "https://github.com/meta/astryx"
+        },
+        {
+          "title": "[Python] sherlock-project / sherlock (★101128)",
+          "source": "GitHub",
+          "url": "https://github.com/sherlock-project/sherlock"
+        },
+        {
+          "title": "冠狀動脈血流重建術生理學導引突破！《NEJM》發表血管造影生理評估對決傳統干預療效",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2610113?af=R&rss=currentIssue"
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "title": "新聞雷達 (2026-11-07)",
