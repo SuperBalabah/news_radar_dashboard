@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-11-08T15:05:51.558018",
+  "last_updated": "2026-11-09T08:09:54.028217",
   "daily": [
+    {
+      "date": "2026-11-09",
+      "title": "新聞雷達 (2026-11-09)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-09-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "埃及驚爆兩列火車對撞重大慘劇！造成至少 7 死逾百人受傷",
+          "source": "The Guardian World (English)",
+          "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+        },
+        {
+          "title": "足壇傳奇 C 羅震撼宣佈退役！結束葡萄牙國家隊輝煌生涯",
+          "source": "BBC World News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aS0NnV3A0M3N6N09iMUl4OVN5SlhrVEw2a21FZFJ0dTh1LTNjdjlwbTBUWkhZU01obWxwNmY2WnNmUXRzN25lSEZXSHJpeGJ4QVY4VS1nVVQ3OUo4TXIybTRmVUZxRzht?oc=5"
+        },
+        {
+          "title": "食藥署警示「瘦瘦針」疑不良反應通報達 63 件！提醒民眾切勿輕忽副作用",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhMWJMa3dtS0REMk5qajlpSkZFU1ZfY080dHZaX2p2QlFzVG9xeE1FWUQtczNHVlpaV21oanZZMDRIaXFId3Y3VzMzQnVsMkdlUk0wXzhJQ19RVW5td013?oc=5"
+        },
+        {
+          "title": "台灣關閉駐巴布亞紐幾內亞代表處！美國務院痛批北京外交打壓與恫嚇",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhMWJMa3dtS0REMk5qajlpSkZFU1ZfY080dHZaX2p2QlFzVG9xeE1FWUQtczNHVlpaV21oanZZMDRIaXFId3Y3VzMzQnVsMkdlUk0wXzhJQ19RVW5td013?oc=5"
+        },
+        {
+          "title": "Anthropic 爆利用 AI 自動化開發軟體！學者警示「認知投降」風險增",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1hyX1Y2cFM5Mi1oNjRnVUR4QzcwUThFeGJIUUwzZnVkOGpqNmJvZEQ3cWpIWlNLNjBka2tia0tyN1VMRFNEdlN2UDlWTFAzS2FBQ0xxQU50dTE5VjBETDNvblVIbzdBNzFLZTdSSUNqRFRjcnpKT1FUUUZodnFybGVvMjV6SldXcnEwWEdwUktId2w2dHhvUGtVbEJoRm1GSzNnM3FUdkRfUQ?oc=5"
+        },
+        {
+          "title": "Google 發表 Elephant-Goldfish 插件！主打規範驅動開發（Spec-First Coding）模式",
+          "source": "Google AI News (English)",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbE10al91Y05oVlY5cF82a2gyaUNUVVN2NWtQU3U2TzV3eTFiOFRaM292elBuU191eFR1a201dFl2VzlJZFlFMU1oN3pKalU2bXA1RFBQRDhaTFNhenZFQkVDMW84THdOR3FndEN1R2h3X3gtMXZYS2d5S1VGcHdseUZLa0U3SktGMmExdDF1bjdsbEdxNDNRRUliUzVWX21iMWQ3WXlDd9IBpwFBVV95cUxQbE10al91Y05oVlY5cF82a2gyaUNUVVN2NWtQU3U2TzV3eTFiOFRaM292elBuU191eFR1a201dFl2VzlJZFlFMU1oN3pKalU2bXA1RFBQRDhaTFNhenZFQkVDMW84THdOR3FndEN1R2h3X3gtMXZYS2d5S1VGcHdseUZLa0U3SktGMmExdDF1bjdsbEdxNDNRRUliUzVWX21iMWQ3WXlDdw?oc=5"
+        },
+        {
+          "title": "Google 推出 Gemini 全新繪圖生成應用功能！草圖秒變即時互動式網頁 App",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0FMOHpUVTFITEZKckRqWUVYZXN1Y0hHMFp3NDNMdlAwZEozMDBXYzZqNXRTXzJDRmlfVXp2bE5acWNmWFE2cFBBZ1ZJVHBtcmxqWUZkZk95QjNwSEo0aEFBaFoxZmpVZVlkUDlKc2daaFZtaTlLMXBPSjZpYk1WZFJkb0dJZmFDaE5PWGpoc2xJMWs?oc=5"
+        },
+        {
+          "title": "微軟 AI 執行長專訪發聲：若出現足夠證據，未來不排除賦予 AI Agent 基本權利",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYlNFOWt3SDdyUUNMSzc3Q1huYWVhSkQyakQtTlVQTzVIR3FOa1NJVTQxTU1aQl9veVdMRklyX2NBbnlpaFQxM3RQUlVSSXFPZmdqOV9UWjhjYkZ4WnNfR1lJYkxjYm9sUkpGQkZHTVU1Yk42T0RwZHdMdGR2Sk1fNXpKbkVtMm5fM1kwWFVkUlF1TnBPTHc?oc=5"
+        },
+        {
+          "title": "arXiv 發表協同 AI Agent 最新論文！實現固態量子自旋實驗之自主科研探索",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yYUM5WWZPUGFnVDRaUjN3Zktjc0tOc2NodE5vNVF4bU9vbmdteG9JRm1WbHR1RUNZVWpLV3ZzdzlVRXB4bnBz?oc=5"
+        },
+        {
+          "title": "Hacker News 熱議開源 3D 設計工具 KetchUp！採用 Rust 與 WebGPU 打造 SketchUp 替代品",
+          "source": "Hacker News",
+          "url": "https://ketchup3d.github.io/app/"
+        },
+        {
+          "title": "全球電網頻發無預警協同干擾！德國科研團隊成功破案解開電力異動謎團",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzVwenhwOUEyaGxYMTR0NkE2LXQxZk9PcklwNTlwX3h1SjhUbEgtSkRleWxwUXluYzdlTE5fN29oV0liWkxtMVB1ck9Welkxekx0anBGSjJIOHV2UGNnNTVUbXVFV1JjckRxVGk3c05QdXhFV2Vhdl81T0RKb0ZycTl3RU9YdXVRRGljdWZjb254dlBRb3U5dnZoSlpTUy1SRXNib1JFNjBrTHZpdkktbTJpTQ?oc=5"
+        },
+        {
+          "title": "Google Cloud API Gateway 正式支援串流傳輸！為即時與生成式 AI 應用提速",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "[Python] anthropics / claude-quickstarts (★19401)",
+          "source": "GitHub",
+          "url": "https://github.com/anthropics/claude-quickstarts"
+        },
+        {
+          "title": "[C++] google-deepmind / mujoco (★16392)",
+          "source": "GitHub",
+          "url": "https://github.com/google-deepmind/mujoco"
+        },
+        {
+          "title": "[TypeScript] ranxianglei / billion-context (★5122)",
+          "source": "GitHub",
+          "url": "https://github.com/ranxianglei/billion-context"
+        },
+        {
+          "title": "轉移性前列腺癌雙重抑制突破！《NEJM》發表 PARP 聯合雄性素訊號抑制臨床成果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2611171?af=R&rss=currentIssue"
+        },
+        {
+          "title": "克里格勒-納賈爾症候群基因治療長期耐久性！《NEJM》發表腺相關病毒基因臨床成果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2603129?af=R&rss=currentIssue"
+        },
+        {
+          "title": "可干預生活方式與腸道菌群雙軸調控！《Nature Medicine News》發表健康與慢性病臨床機制",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04744-5"
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "title": "新聞雷達 (2026-11-08)",
