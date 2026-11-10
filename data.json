@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-11-09T08:16:20.931950",
+  "last_updated": "2026-11-10T08:09:29.210317",
   "daily": [
+    {
+      "date": "2026-11-10",
+      "title": "新聞雷達 (2026-11-10)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-10-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "聖嬰現象推升全球氣溫逼近歷史新高！COP31 聯合國氣候峰會正式開幕面臨極端考驗",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjaFk2SnlacjFiZnBjLVN6Zk54Vnk4cjJuYlg1aDJmTU1ZVlZsbk5FZlZqMEUweU55U0x4Sm4wYTFQTWRxNTFRc2lTMm1KSnhHY3U3VUNZU3pEVGc?oc=5"
+        },
+        {
+          "title": "美國防部長任命風暴升級！眾院民主黨高層表態堅決彈劾赫格塞斯",
+          "source": "BBC World News",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vdDFFQ084UkxLOU8tV1A5R0R5TkVGOVZfNE5SeEcySUJ6QWxiVXJhSk9ZY1d6LVBfWGV1SnV3aUJtZGI4TU9QWEJIdmM3VlU3dlBJSmd0UQ?oc=5"
+        },
+        {
+          "title": "OpenAI 即將開放品牌提及次數儀表板！生成式搜尋商業化廣告佈局成形",
+          "source": "Digiday",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTlxcUlITGZWXzBDY3M5emtIcU5HSUp0X1Q2XzJ4bXVJMDJZMUVSMUI3SjREUVZUNElaZkhoWWdhWUhqLVk1bXU2dnprenRlV1NzSGp4MjBmT1RQUGVhSEpydndrSUhKekVCc3Z5elRPV2s1NDRHUlcwbDg1T3hmaGZPZW1RSE5aSUEwbjdfVkZ2VFNFbllKS3RDbFo0QWFvaVROdFNn?oc=5"
+        },
+        {
+          "title": "Anthropic 逆勢推出次世代前沿大模型！執行長高喊放緩後首度上新迎戰 IPO",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U?oc=5"
+        },
+        {
+          "title": "Google 重磅發表全新 TPU 8tx 與 8i Max 晶片！全面鎖定 Agent 智慧體算力競賽",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTlxcUlITGZWXzBDY3M5emtIcU5HSUp0X1Q2XzJ4bXVJMDJZMUVSMUI3SjREUVZUNElaZkhoWWdhWUhqLVk1bXU2dnprenRlV1NzSGp4MjBmT1RQUGVhSEpydndrSUhKekVCc3Z5elRPV2s1NDRHUlcwbDg1T3hmaGZPZW1RSE5aSUEwbjdfVkZ2VFNFbllKS3RDbFo0QWFvaVROdFNn?oc=5"
+        },
+        {
+          "title": "地熱能源迎來爆炸性商機！Fervo 地熱發電技術訂單衝破 120 億美元支援 AI 電網",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+        },
+        {
+          "title": "Google 釋出專用模型 Gemini 4 Argon！主打機器人控制、實體模擬與策略優化",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/google-gemini-argon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "AWS 正式推出 TorchNeuron！讓 PyTorch 原生代碼無痛直跑 Trainium 自研晶片",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "長上下文迷思破除？arXiv 重磅論文《You don't need long context》顛覆長文本依賴",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iU2Y0S2RrcVY0b0o0Q0RXRW01STVVVjBuajdLTXR0cTMxbk12ZTl6VmFkeUJQTmExZ0NGTUZPalF6T0xQRmNOWmNSMA?oc=5"
+        },
+        {
+          "title": "[TypeScript] garrytan / gbrain (★32122)",
+          "source": "GitHub",
+          "url": "https://github.com/garrytan/gbrain"
+        },
+        {
+          "title": "[Rust] ruvnet / RuView (★103425)",
+          "source": "GitHub",
+          "url": "https://github.com/ruvnet/RuView"
+        },
+        {
+          "title": "[Python] ZhuLinsen / daily_stock_analysis (★68814)",
+          "source": "GitHub",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+        },
+        {
+          "title": "[Python] homeassistant-ai / ha-mcp (★5945)",
+          "source": "GitHub",
+          "url": "https://github.com/homeassistant-ai/ha-mcp"
+        },
+        {
+          "title": "阻抗運動破解瘦瘦針肌肉流失副作用！《Nature Medicine News》發表 Tirzepatide 減重隨機對照臨床試驗成果",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04752-5"
+        },
+        {
+          "title": "逆轉心臟肥大與結構重塑！《Nature Medicine News》發表 Semaglutide 改善肥胖型心衰竭心臟結構之 CMR 研究",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04787-8"
+        },
+        {
+          "title": "發炎性腸道疾病精準分型！《Nature Medicine News》發表以患者回報軌跡定義之潰瘍性結腸炎全新分類系統",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04741-8"
+        },
+        {
+          "title": "全球基金人事重大佈局！《The Lancet》報導 Mark Dybul 重掌全球對抗愛滋、結核與瘧疾基金會迎戰公衛新挑戰",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02237-3/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "新聞雷達 (2026-11-09)",
