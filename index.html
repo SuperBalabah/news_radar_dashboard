@@ -1132,7 +1132,7 @@
     let appData = { last_updated: "", daily: [], weekly: [] };
     let currentOpenReport = null;
 
-    async function loadRadarData(bypassCache = false) {
+    async function loadRadarData(bypassCache = true) {
       try {
         // Query string cache-busting (?_t=...) breaks through Fastly CDN edge cache on GitHub Pages (HTTPS).
         // On file:// protocol, query strings are omitted because local OS file lookup fails.
