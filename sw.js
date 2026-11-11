@@ -1,4 +1,4 @@
-const CACHE_NAME = 'news-radar-v7';
+const CACHE_NAME = 'news-radar-v8';
 const STATIC_ASSETS = [
   './index.html',
   './manifest.json',
@@ -37,7 +37,7 @@ self.addEventListener('fetch', event => {
   // Cache static assets first, network fallback
   if (STATIC_ASSETS.some(asset => event.request.url.includes(asset.replace('./', '')))) {
     event.respondWith(
-      caches.match(event.request).then(cachedResponse => {
+      caches.match(event.request, { ignoreSearch: true }).then(cachedResponse => {
         return cachedResponse || fetch(event.request);
       })
     );
@@ -52,12 +52,16 @@ self.addEventListener('fetch', event => {
         const responseClone = response.clone();
         caches.open(CACHE_NAME).then(cache => {
           cache.put(event.request, responseClone);
+          // If request had a cache-busting query string (e.g. data.json?_t=...), also store under base path
+          if (url.search && (url.pathname.endsWith('data.json') || url.pathname.endsWith('.md'))) {
+            cache.put(new Request(url.pathname), responseClone.clone());
+          }
         });
       }
       return response;
     }).catch(() => {
-      // Offline fallback: try cache
-      return caches.match(event.request);
+      // Offline fallback: try cache (ignoring query params)
+      return caches.match(event.request, { ignoreSearch: true });
     })
   );
 });
