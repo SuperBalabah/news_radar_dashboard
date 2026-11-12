@@ -1,6 +1,98 @@
 {
-  "last_updated": "2026-11-11T17:19:56.080040",
+  "last_updated": "2026-11-12T10:57:36.920748",
   "daily": [
+    {
+      "date": "2026-11-12",
+      "title": "新聞雷達 (2026-11-12)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-12-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "全球前 50 大英文新聞網站流量榜出爐：紐約時報逆勢抗跌重返前十",
+          "source": "Press Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDhDaVpHZTR4QzFGMnM1bVhVOUJVM2FkeU1wTUxKYUUzMldHbEVGVC1XR25iZ3hrdGhIbHdheUJhd1Q2T0tqX3cycXFhU0ppemhfZ3dHcG11RDdaS2JPVU5vSThNZmUtYWdveWNiOUplbG1MTFFCY2hLenNVRUxhQ2xibktrUzNaU2pVMVk3UlVqWFhGQllxcGtYclZfMlF5a1pTR2x3ZkhhUkNSNUE?oc=5"
+        },
+        {
+          "title": "泛非哲學啟發英格蘭文化策展：曼徹斯特電影節開創多元敘事新體驗",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+        },
+        {
+          "title": "總統府正式宣布宏碁創辦人施振榮代表出席秘魯 APEC 領袖會議：嚴正呼籲中方確保平等參與",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrX3BBRlRlVV9uanE0LUpUWExOSXY1aGRZXzlZWmJqSG9LOXhoYU1hZ3hJemdaLU9JTmw3UlBSbFFyNmJkNl9hakg3dVhTWGJiSHBqcHhiZXR4cEVid05B?oc=5"
+        },
+        {
+          "title": "OpenAI 過程監督模型「牧羊人」發威：成功驗證重大物理研究突破",
+          "source": "Scientific American",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkptS0N6akxLR09tNWlmd1VZT0luUzZucXhJUS1mbWtpNWRwMUZRb3BOTzNLb1FtdU5LVlZPek9kWkZfSzJvWmJ3T3cyT0lrVnRjNFhuTmx2TjZTRzdUMDRpVF9NamtOTUwzMHhab3Fza04wVXRWQTZuMzU2ZTFwY05ad1lNNXZ0VWdsbWRSVDU1b194OFpqRkNOVQ?oc=5"
+        },
+        {
+          "title": "外媒爆料 Anthropic 於 IPO 前夕秘密雪藏最強模型 Fable 5.2",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEcxbnJ5SWJ0UkZrcUNVSVJvZWRwTEJ3VDl1RzdaRVpfbnhUZm1CQlpGeVJNano5ZXdkS3hYN0FUM1FURkROVE5GR2dzSk5uWm5aUjJwVnlJY2ducjZzbV9yd3NSVDRXaUhNSEh6YXNpaVhaUVlmYnU5LVRBaDN3aHRKZw?oc=5"
+        },
+        {
+          "title": "Armanino 奠基微軟 Foundry 打造 AI 應用工廠：大幅縮減 89% 軟體產出週期",
+          "source": "Microsoft",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTloQnFScldlcTdhczdkWUwzY2N1QkZKVHQ2WjFYeWJfcVcydFpsLVh3ZGdha2l3cTJybjNCZUNvb0lpSjMxbWtWV2RwQ3VmLWV6VWNGOHNyanE3S0VoYW50SEp2VW9pOUVNLTdsd2tJaUZLS1hZYnVxV1puTENrT1ZCS2t1QTFyRVUzOHh6Yw?oc=5"
+        },
+        {
+          "title": "傳輝達董事會研擬逼退執行長黃仁勳引發股價重挫",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+        },
+        {
+          "title": "聯合航空祭出強硬禁令：全面封殺 AI Agent 代表旅客訂位購票",
+          "source": "Hacker News",
+          "url": "https://www.infoq.com/presentations/scaling-multi-agent-llm-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "悼念「Python 之禪」與 Timsort 演算法發明者：Python 核心先驅 Tim Peters 辭世",
+          "source": "Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEI3Q3N6VFBpMjctNDlzakdzM21KVHZMRGRCdXA2YlN1OFlTMWZGU2EwdEF3dHY0OHlyaHhhZ01GQm8tcFBBTzE5QVBLN0dicDJhU19tRVM4WExVX2ZhZDROQlNiTm9KMWF3RUtzSmhxNGpSckxxTVRpSWZOejhVZDQ5SjgwZUNLdTA3SzJPMTMwY2xhY1lsbw?oc=5"
+        },
+        {
+          "title": "Cloudflare 宣布 Basin 無伺服器數據分析平台全面商用",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/cloudflare-basin-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 前沿論文：將上下文視為基礎設施，構建具備 Harness 控制之 Agent 知識檢索架構",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yYmZxYkgySDhuRnF1SnlJSS16bF9CU3NwQ1dVMXJjYWlBMUcxNkc5WWJNRVRRdE1xWURWeWFmcTg2RGJTR194cG9UWQ?oc=5"
+        },
+        {
+          "title": "[TypeScript] GoogleChrome / modern-web-guidance-src (★1844)",
+          "source": "GitHub Trending",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+        },
+        {
+          "title": "[Unknown] shadcn / improve (★10989)",
+          "source": "GitHub Trending",
+          "url": "https://github.com/shadcn/improve"
+        },
+        {
+          "title": "[TypeScript] openai / codex-security (★11810)",
+          "source": "GitHub Trending",
+          "url": "https://github.com/openai/codex-security"
+        },
+        {
+          "title": "[Java] TheAlgorithms / Java (★67075)",
+          "source": "GitHub Trending",
+          "url": "https://github.com/TheAlgorithms/Java"
+        },
+        {
+          "title": "中國研究者自發性體內基因編輯臨床試驗的關鍵經驗與公衛啟示",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04768-x"
+        },
+        {
+          "title": "TROP2 膜蛋白正規化比率可作為非小細胞肺癌使用抗體藥物複合體 Dato-DXd 之療效預測指標",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04716-9"
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "title": "新聞雷達 (2026-11-11)",
