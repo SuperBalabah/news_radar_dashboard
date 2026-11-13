@@ -1,6 +1,113 @@
 {
-  "last_updated": "2026-11-12T10:57:36.920748",
+  "last_updated": "2026-11-13T08:16:56.339695",
   "daily": [
+    {
+      "date": "2026-11-13",
+      "title": "新聞雷達 (2026-11-13)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-13-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普喊「不需要與伊朗達成協議」！談判前景蒙陰影推升國際油價走高",
+          "source": "鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHeVR1NXFWZVBJbnNuRXFVd19CWHlFYk9EY0lmQWdLazRERVpEU2xBRE83emMtd083aXA5WllFNTd4OFVDTGNnUUtrdFkyRWM?oc=5"
+        },
+        {
+          "title": "辛巴威作家洗刷 AI 代筆嫌疑！卡恩非洲文學獎官方調查證實為「純人工創作」",
+          "source": "The Guardian World",
+          "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
+        },
+        {
+          "title": "中共密集形塑「議統」氛圍！陸委會主委邱垂正強硬表態：堅定捍衛國家主權",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RZ19zVXdLMGVmanNtLVJNU3FUd21kMmE3VmlwZFVBSjQ0WjZIUGRjTVd0RnltYlhXdmc4MDlOT2g2a0R5WURKU3Y5UDNfYjg0Rm95dklOYmRUbnlFMHc?oc=5"
+        },
+        {
+          "title": "微軟全球雲端服務大當機！Outlook、Teams 與 Copilot 跨區域全面癱瘓數小時",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXRGTzRHWGVubjllRE1ILWQ2R0NMNU1fcFNQTlZhU0U3eHYxZ21DN0JPZElYSWxXb1ZTRnBlMHItR3o4Q2w0ZE5MN0c5SlZtUXhxYkt3ekVRdkdVTFBwLW5vakJHbHM2QUxMVVdqV29UMW1aN1NUa0VCR2I1aUZ2TWNrQWdsbmhSY0QwMkRaX3Q4dEtEOXRScmJSUEgybUxsWm9MbFdSeXhRaXM5RWdLVVdLV3Y5aG1ZUC0wRTJ6djVTbGI0OExFRXFSMkc?oc=5"
+        },
+        {
+          "title": "OpenAI 罕見主動向美參眾兩院表態：全面支持關鍵晶片出口管制法案",
+          "source": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5"
+        },
+        {
+          "title": "輝達執行長黃仁勳震撼宣布辭職！多重婚外情曝光引發國會國安大調查",
+          "source": "AP News / Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzRpNndKenZsMXJpVWZiWGpMeDd5M2xteFpISmp6UlVDSy14d01HYVdlZ0x2dlFzSXQ2SmVMbEoyM3JaZHFJZnR6a0UtOXRQN0IwOEpkSV9zY29TX2pndHBsTXEwQ2VNSUlLVzFVaVlhUjZhUzlFeHlhMEJjM0lJd3FlbThkNGJVVmRQRVgtdFhJa3NN?oc=5"
+        },
+        {
+          "title": "挑戰新興雲端架構極限！Nebius 砸 400 億美元押注客戶預付款擴建 AI 基礎設施",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+        },
+        {
+          "title": "Google 正式開源 TPU Sync 核心庫！解決分散式晶片間 KV 快取與模型權重極速搬運痛點",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "系統級程式語言里程碑！Rust 1.100.0 重磅釋出迎來百代版本更新",
+          "source": "Hacker News / Rust Blog",
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+        },
+        {
+          "title": "AI4Math 第二部曲：arXiv 前沿論文揭示大模型輔助數學證明的獨特特徵與盲點",
+          "source": "ArXiv cs.AI",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02159-8/fulltext?rss=yes"
+        },
+        {
+          "title": "[TypeScript] QwenLM / qwen-code (★29792)",
+          "source": "GitHub",
+          "url": "https://github.com/QwenLM/qwen-code"
+        },
+        {
+          "title": "[Zig] ashhart / TensorFold (★1931)",
+          "source": "GitHub",
+          "url": "https://github.com/ashhart/TensorFold"
+        },
+        {
+          "title": "[Objective-C] pookjw / HermesEnabler (★1524)",
+          "source": "GitHub",
+          "url": "https://github.com/pookjw/HermesEnabler"
+        },
+        {
+          "title": "[Shell] nvm-sh / nvm (★96009)",
+          "source": "GitHub",
+          "url": "https://github.com/nvm-sh/nvm"
+        },
+        {
+          "title": "[JavaScript] nodejs / node (★123595)",
+          "source": "GitHub",
+          "url": "https://github.com/nodejs/node"
+        },
+        {
+          "title": "全人工髖或膝關節置換術後之靜脈血栓栓塞症（VTE）預防策略",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602435?af=R&rss=currentIssue"
+        },
+        {
+          "title": "補體旁路途徑抑制劑 Iptacopan 治療 IgA 腎病變之 24 個月長期療效分析",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2611338?af=R&rss=currentIssue"
+        },
+        {
+          "title": "錯配修復缺陷（dMMR）晚期或復發性子宮內膜癌：免疫療法時代是否仍需合併常規化療？",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes"
+        },
+        {
+          "title": "面部照片直接識別多項健康特徵！FAHR-Face 醫療基礎人工智慧模型之開發與驗證研究",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42897078/"
+        },
+        {
+          "title": "兒童與青少年肥胖醫療照護指引之實證缺口與急迫改善方向",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04789-6"
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "新聞雷達 (2026-11-12)",
