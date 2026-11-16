@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-11-16T10:09:16.405014",
+  "last_updated": "2026-11-16T10:42:04.598525",
   "daily": [
+    {
+      "date": "2026-11-16",
+      "title": "新聞雷達 (2026-11-16)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-16-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "白宮確認美中俄三國元首將於深圳 APEC 舉行歷史性三方會晤",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vdDFFQ084UkxLOU8tV1A5R0R5TkVGOVZfNE5SeEcySUJ6QWxiVXJhSk9ZY1d6LVBfWGV1SnV3aUJtZGI4TU9QWEJIdmM3VlU3dlBJSmd0UQ?oc=5"
+        },
+        {
+          "title": "SpaceX 達成歷史性里程碑！首度完成星艦太空船捕捉回收成功返回發射台",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5"
+        },
+        {
+          "title": "台股早盤跳水狂瀉近 1300 點失守 4 萬 3 大關，分析師示警高檔整理收紅不易",
+          "source": "Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQcnlmd293dGRfVTlRenVENzl6eUZZT1ZQYndaNzFjdmwtSElkZ3RoLXJWNUxoYTc1NnhRZ0JVcTF1ekw2alRvblEtMlZ1b1ZSWlFjbUkzZ2FpSExNN0d6Tm05Ui1YT3hxMy1ERXBHYVIwQm9YbzNSeUFMbVpIZ3ROZ1FsWExIV19tTDQ5N2RHVElHdm5GVmtheTVFbVViYTJTUGxpSnZOazZEa1dLSUlZWXNhNWk5YllKb1JPVzQ2U0puaXJuYTlNVkJEcTVuZEhWbDh2d2tDcUthZlRGTnotZ1FpTXpnWWhScUg0cmp3cTB4ZnFTUXJ4OW45UEVMTmpVTUx6MnZpc19KZnpUbUdGQ1RuZHBBbFpua0tDdjIybFZLN3hLM19lZXJEQU1DUjRzRU9OYldVczVMWXhpdjkwSWFRX012ZDhHUnJrNDZUWXFVYndkRTJsTVlZdW8yMVh5Sk1wRXVEMTJBdVN4V09kM3pWY0JCQ2dRazZicEgzc1ZjZmljdGxkXzEyTnZGZkNEUkljMGE0UnFqLU1nT2RNLUxoTmVZUjRxZEhnQTFQaEhtWWdkNF9lRjF5SXA4ZTVrdjhieURtZw?oc=5"
+        },
+        {
+          "title": "OpenAI 董事示警：超級 AI「接管」人類社會的臨界點可能只剩數個月",
+          "source": "Ars Technica",
+          "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Anthropic 巨額 IPO 震撼華爾街，對標 OpenAI 掀起 AI 資本市場霸權保衛戰",
+          "source": "The Economist",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5"
+        },
+        {
+          "title": "效力微軟 14 年資深 AI 大老 John Langford 憤而請辭，重砲痛批高層無視可降低成本之 AI 研究",
+          "source": "Mashable India",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDFfdndGT3JWa0k1WVUzMVJaQ09jWWRsWVAzMlNYSjFfSk14YW9VV1Rwemw0TkQ2NnByV1ZuRnpmTzV3bnJJODJGaFgtOXgyVGd0dEpTTXpHRXh6NVZvUHN0Wm1VaWxrT3ZTaUFZaFdQbXFDSDBCc1RhbVcta01hS29sV1FuNkl4MWJPUjNfMUNnZkJCWXRJVE10ZjdpWVBZRG5JM0NGRDVzZDlpeFdQU1NxWDV1aXY2WTJqTEoxSW1MTWI1ajd1Tl93?oc=5"
+        },
+        {
+          "title": "蘋果推出全新健康研究 App，深入探索民眾如何使用生成式 AI 諮詢醫療日常問題",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+        },
+        {
+          "title": "廣告攔截神器 uBlock Origin 爆發通用型 XSS 嚴重零日漏洞，惡意網站可透過元素挑選器劫持瀏覽器",
+          "source": "Hacker News",
+          "url": "https://iter.ca/post/ubo-uxss/"
+        },
+        {
+          "title": "Uber 發表企業級 Secure AI 治理框架，全週期防護動態呼叫工具之自主 AI Agent",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "多代理系統成本核算突破！arXiv 發表「雙帳本模型」實現跨雲端與模型的交易級成本稽核",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Tb3dNaFdoTDdkT0gwM2dlblcxZEExbk5YU0JIZHNTZmVhdFUybHF4cW4zZHJGT3ZPZ2ZSV01sOE0xOWQtMUZB?oc=5"
+        },
+        {
+          "title": "[TypeScript] dream-num / univer (★26227)",
+          "source": "GitHub",
+          "url": "https://github.com/dream-num/univer"
+        },
+        {
+          "title": "[TypeScript] ChromeDevTools / chrome-devtools-mcp (★57035)",
+          "source": "GitHub",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+        },
+        {
+          "title": "[TypeScript] ag-ui-protocol / ag-ui (★17966)",
+          "source": "GitHub",
+          "url": "https://github.com/ag-ui-protocol/ag-ui"
+        },
+        {
+          "title": "[Go] Tencent / LoopForge (★1614)",
+          "source": "GitHub",
+          "url": "https://github.com/Tencent/LoopForge"
+        },
+        {
+          "title": "阻斷瘧疾感染邁向全球根除！最新臨床綜述指引多重工具防線",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602435?af=R&rss=currentIssue"
+        },
+        {
+          "title": "遭忽視的致死隱形殺手！巨細胞病毒（CMV）引發 HIV 嬰兒重症肺炎之臨床角色探討",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01546-1/fulltext?rss=yes"
+        },
+        {
+          "title": "mRNA RSV 疫苗不只預防感染，大規模臨床研究證實可顯著降低高齡長者重症住院率",
+          "source": "TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmhJclE3STR1X0RfZ0Z1TlRiQndUZVZud1lhc0M2MXExamo1dk9ZbzdjVThfdDBGbWFra0N5NlI4aWthOGN1QzZBVjYwRkMxNGpiS1lqTzJlYkFZaUZueklIX1hsX2ZNY2pMUzVqMDlfeTRSYnFaVm9VSTNjRGxZNnRDNGtsaHQ3WnNqdFAwN213OV9VZGZtQkd1cw?oc=5"
+        },
+        {
+          "title": "類器官活體生物運算基準評測框架問世，奠定生化神經網絡計算標準",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43034668/"
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "title": "新聞雷達 (2026-11-14)",
