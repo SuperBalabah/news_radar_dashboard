@@ -1,6 +1,123 @@
 {
-  "last_updated": "2026-11-16T10:42:04.598525",
+  "last_updated": "2026-11-17T08:12:22.388844",
   "daily": [
+    {
+      "date": "2026-11-17",
+      "title": "新聞雷達 (2026-11-17)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-17-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "歐盟五國聯手宣布境外移民「遣返中心」試辦計畫，選址非洲盧安達引爆人權爭議",
+          "source": "The Guardian World (English)",
+          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+        },
+        {
+          "title": "烏干達軍權接班暗潮洶湧：總統之子凱內魯加巴將軍深陷政治角力漩渦",
+          "source": "BBC World News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hcDE2eGNyTEJidkxveXNyeTdzaEI5eDVUQTdhQWtEZUJPdmJrWS01TURrVUtMZnlYS3JmdExNVmhNaHVmcUlJRW9sRjlQZHloem91OW9JUUhZNnAwWGc?oc=5"
+        },
+        {
+          "title": "台灣科技界集資力挺黃仁勳！台北 101 今晚點燈打出「台灣♡Jensen」字樣",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xRGZUM3JFVmxocTVwdzRCTllCN0ZKNUY4ak1UWWxPU014N3VJNDBQUDFnZ3U2bE53UXZoZWw5NGFhM0FuTDNwcDhGYjl6ZlZ0bHdBRkNaa0wyQ3VITWc?oc=5"
+        },
+        {
+          "title": "台灣高鐵新世代列車首度正線測試！時速順利突破 170 公里達標",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xRGZUM3JFVmxocTVwdzRCTllCN0ZKNUY4ak1UWWxPU014N3VJNDBQUDFnZ3U2bE53UXZoZWw5NGFhM0FuTDNwcDhGYjl6ZlZ0bHdBRkNaa0wyQ3VITWc?oc=5"
+        },
+        {
+          "title": "加州檢察長重磅起訴 OpenAI：指控模型缺乏安全防護且涉及自主代理外洩風險",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSkZFbFVUeExrcFZYN2gxME96cXdteU54YVJEenI5UEZ6NjJtVmxsVmF4bTFXZmJTU0wzZU5Zb1RiS2wwMnlQUzRHUmtzVkJXaHlNUVp5UDMtdmR5RWtfVFlBdk9Vbk45VzJ1RGU1WFdVeFRLY3I4WU5GYVRnQ1ZRbFBVeEl0M3NBSVhmdzA3bEVnNjVIQ2p3azRrNjBXYWhjbzJzV3UxeXFuNjJjWWdDM2ZBYUs3U2pscTM4?oc=5"
+        },
+        {
+          "title": "Google 示警「自主化 AI 攻擊」時代降臨：俄語駭客已發動全球首起全自動化 AI 網路攻擊",
+          "source": "Google AI News (English)",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEsyMTZIZmRtLWR2emJyWkNVVldUdW9Pay12YUZPRDdJZEtQN3VUWWNnWXVnaVJYUHgzdnM3NXF1Q3RKclp5Rzk4Z2QtVllIMGZCVXlCb3cyQ25sVzJna1RVLThYYXJJYXdURkpBZlRTV0RYaDdhOE9TMjhCYXpjZnNrdlhkYTZYb2psdjhRVUctUG5tVUFSbHdQa2FjVlJTMFBGR3RRaXBaNWZrSGh5NUJ3?oc=5"
+        },
+        {
+          "title": "華爾街高度聚焦 Anthropic 世紀超級 IPO：早期投資人將迎來歷史性豐厚回報與市場考驗",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGJLdWJHSUxsNW9wWEdzVEVVazhoUF9JelpHaWVfS2l2N0NUQ1VLdktRdlZnMW1taDQ0cGpuQ3pWVGZaMW9jc3JTZmJ3WDQtZnBVeEtwbjB2QW90OGlVV3hXWGVhQVJpMGJfR3h1S0JrdnVGdXBiZm1yemh5VkRfV2NGcXozRWdQcUNUUFdraFVjQnliVEU5Qw?oc=5"
+        },
+        {
+          "title": "微軟示警大模型深藏「潛伏特工 (Sleeper Agent)」後門威脅：特定觸發詞恐使安全模型瞬間叛變",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3dZdG5VRzVkZEdmZko4Tk9sbHVnYTE2ajVDcXVtVG13VFcteEZxc2Z6WVhTLTRGcVBGY3FXZ1QwR0t0azFyUDUtN0ItY3NmSlBPMmFtOTlxdFJpXzdVZUJBUFdlRUs0OXl1UEFxS1dXbHluVU4wSjkzRHlwcEl6c1BpcDZ2cDF5dmhHQzNkbFhuWXp1UGo3WFloSWowNVNa?oc=5"
+        },
+        {
+          "title": "蘋果強化 macOS 27.3 安全權限控管：因應 AI 智慧體（Agent）自主執行帶來的隱私防護風險",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+        },
+        {
+          "title": "資安 AI 新創 Corma 產品發表僅 3 個月！估值光速突破 10 億美元晉升獨角獸",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+        },
+        {
+          "title": "Uber 推出法務合約 AI Agent：結合規則引擎與 RAG 技術，審約時間大幅縮減 20%",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "AWS 正式開源本機模擬器（AWS Emulator）：支援 200+ 項雲端服務，讓寫碼 AI Agent 免帳號本機無痛測試",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/aws-emulator-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表 ScrapeBench 基準測試：全面評估 AI Agent 於網頁爬蟲之法律與合規風險",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBnTjZEOFp1SHZsOEJmbWRhNlBGRjh1RlZxVkdqZ01tS3dfY2NVb2swNGNEcGc0MkJuNzZyUGdrVjFrNVktSzNN?oc=5"
+        },
+        {
+          "title": "現代化 Docker 視覺化容器管理面板：arcane",
+          "source": "getarcaneapp / arcane",
+          "url": "https://github.com/getarcaneapp/arcane"
+        },
+        {
+          "title": "江山時序 · 中國歷史互動地圖時間軸：jiangshan-map",
+          "source": "DeanChensj / jiangshan-map",
+          "url": "https://github.com/DeanChensj/jiangshan-map"
+        },
+        {
+          "title": "Google 實驗室打造的 Stitch MCP Agent 技能庫標準：stitch-skills",
+          "source": "google-labs-code / stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills"
+        },
+        {
+          "title": "全網跨平台熱點自主研究與總結 Agent：last30days-skill",
+          "source": "mvanhorn / last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill"
+        },
+        {
+          "title": "NVIDIA 開源之多層級 AI Agent 技能評測框架：SkillEvaluator",
+          "source": "NVIDIA / SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator"
+        },
+        {
+          "title": "《JAMA》最新研究揭示超加工食品（UPF）對大腦認知之顯著危害：常吃加工食品恐損大腦血管、中年微中風與腦損傷風險激增",
+          "source": "健康醫療網",
+          "url": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "《Nature Medicine News》發表開放式智慧體「AI 共同科學家（AI Co-Scientist）」：賦能臨床醫學轉譯與生物醫學突破發現",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04808-6"
+        },
+        {
+          "title": "《The Lancet》發表重磅評論：HIV 陽性嬰兒經驗性結核病（TB）治療之臨床缺口與改善預後路徑",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01918-5/fulltext?rss=yes"
+        },
+        {
+          "title": "工程化銅穩態（Copper Homeostasis）調控：實現發炎微環境自適應治療全新策略",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43034570/"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "title": "新聞雷達 (2026-11-16)",
