@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-11-17T08:12:22.388844",
+  "last_updated": "2026-11-18T08:16:34.060239",
   "daily": [
+    {
+      "date": "2026-11-18",
+      "title": "新聞雷達 (2026-11-18)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-18-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "全美前三大銀行同日突發大規模網路當機",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMHI4dk5Pczd4bWZJOWQxR1ZMOGktcF85R2Y0eFQ1ek5wZV9tcXpydENvVmZtRkx0ajR0NXVqSWdtQVhlLXRSdkdiLTE5N3MyTHVLblRac2JuNVk?oc=5"
+        },
+        {
+          "title": "法醫權威重新檢驗解剖照爆料：愛潑斯坦實質死因疑遭勒斃謀殺",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCS2FMN09MbU5nUWxsRm02MDZpUm5aX3Q1YlZLMS1KOGNVakZhZFdFbjNPV1dpSnJnOXJMX2VmXzZXOXRMNnZ1VGlpRTFkZEFWQVJUclB6eUgxZw?oc=5"
+        },
+        {
+          "title": "OpenAI 突襲推出 GPT-6.2 Astra 與 Sol 模型：重度用戶痛批效能崩跌「根本不能用」",
+          "source": "VentureBeat",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0p5RXctRUhTQzMxTEdQYnJxaVozUkFlQmJOSEJrQjVfeEdrdDJBcExkcmhEUGpoZTN0dXo3dVhxajVwWlpWdVAyRzNDUTBEdi1rekFrT0l3VlgxMFVic1c1ZG9fTVpaVEh0UzAtOUdGRmtVSDdHdHpHRzRiWGY3QUVndjItemljNG8wZVJrNWo3azFrWTVHQmtWczhTcDdGblJmbjhiOFEyS0pULWNQSG9MVkNLVzhJTjBFaUtGaE16UFA0d1c2YzMtX3Z4Tkdm?oc=5"
+        },
+        {
+          "title": "微軟 Ignite 2026 大會重磅反擊：發布全新自研 AI 模型，寫碼能力力抗 Claude Opus 5.5 且成本僅需 5%",
+          "source": "ZDNET",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
+        },
+        {
+          "title": "Anthropic 超車 OpenAI 搶先公開上市？華爾街熱議 AI 首家獨立 IPO 標的戰略意涵",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVJhcHVadm1sR09EY1RsMWtZaGRiWnl3UWRJVUlkUFlTVnJhelZ2WDQ5SjAwOUdRVmY4dTF5elgxWExDRm1XVTJ3WXFWdE1ZMHFabHduSHhNQlFWV3IzWEcwd3FxalRFRFlrSzdZV1diSWJtZENMdlVIVW95a2lETmp1RmhtUUwycHl4Q0l2ZWlXQXBxX1pURXptMWM1TzNSN05ybTM2dG9TdjA0QldGYWNTeHNCZzd6bHpxdkN2LXBHNGI2?oc=5"
+        },
+        {
+          "title": "加州 DMV 認定對公眾安全構成迫切危害：全面勒令 Waymo 禁駛高速公路，自駕車營運受重挫",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
+        },
+        {
+          "title": "核心基礎設施驚爆核彈級漏洞 Java4Shell：OpenJDK 處理 Base64 編碼突發遠端程式碼執行危機",
+          "source": "Hacker News",
+          "url": "https://calif.io/java4shell/"
+        },
+        {
+          "title": "輝達內部動盪延燒：臨時執行長證實全面撤出中國市場，董事會強硬表態「絕不迎回黃仁勳」",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+        },
+        {
+          "title": "Shopify 大規模工程實踐：打造 Remote Dev 遠端虛擬環境，化解 AI Agent 開發行動 App 拖垮本機運算的瓶頸",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/shopify-remote-ai-dev/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Claude-BugHunter",
+          "source": "GitHub Trending",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter"
+        },
+        {
+          "title": "cursor / plugins",
+          "source": "GitHub Trending",
+          "url": "https://github.com/cursor/plugins"
+        },
+        {
+          "title": "obra / superpowers",
+          "source": "GitHub Trending",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "title": "歐美跨三十年縱向世代追蹤：近代世代認知儲備提升，顯著延緩西方國家失智症發病率",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04759-y"
+        },
+        {
+          "title": "缺陷工程壓電異質介面利用超音波放大內建電場：實現細菌包膜失穩與植入物感染精準控制",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42862709/"
+        },
+        {
+          "title": "長期追蹤九年重大心血管發現：睡眠呼吸中止伴隨血氧震盪使心肌梗塞發病風險激增 47%",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FTlFEMjdVNk9EaG1zdUJUc2gyYUZ3QkV5M3pqQi0td1Nvd3YwMUprTmNIR2xUU0FTSnYzNEYzN0hhS25rVzhTTHVBMWRac1h0NUx3UFBn?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "title": "新聞雷達 (2026-11-17)",
