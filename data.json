@@ -1,6 +1,108 @@
 {
-  "last_updated": "2026-11-18T08:16:34.060239",
+  "last_updated": "2026-11-19T08:38:53.624523",
   "daily": [
+    {
+      "date": "2026-11-19",
+      "title": "新聞雷達 (2026-11-19)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-19-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "美國國家安全局（NSA）最高機密內部網路驚傳離線癱瘓",
+          "source": "BBC World News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93UEhHeGRGdEJ3b2xKbXBYZzZzM1NIWmx0c0tKUG9hcnBuenB2eVNpMXByY1JyTjZvYU5EcFhKY3oxUHNxOXA1Mmdpc1RSdGdHb2JoUHl4VnQ?oc=5"
+        },
+        {
+          "title": "APEC 深圳峰會登場：習近平親赴機場迎接川普，創 46 年來中國元首首度接機先例",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNkpndDkzNGpGRGk0ei1KSmpuc0tDZzVXMmZSVEM3NFhyS3dmdXM0dlJjNThYZUFFOFZkcGFhcXg0WU0wQXZFbDdXOS1qUQ?oc=5"
+        },
+        {
+          "title": "外交部領務局系統遭駭致護照照片外洩，數發部調查指向委外廠商設定錯誤產生漏洞",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rY2VESGw1NmhleENSVjV6YWFQYkpHZ0tIdGpkcmpFNnZzVDZITUhuWmhPZFQzVWVBX3daNVloemp3UXlfdVBoM2hOTHVvbjdTdXFDRGlQbGE1N2pjYk00?oc=5"
+        },
+        {
+          "title": "微軟傳斥資 5 億美元向字節跳動銷售 AI 算力與技術，引發 OpenAI 強烈反彈與資安裂痕",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5"
+        },
+        {
+          "title": "全美三大公立學區考慮因 AI 爭議全面抵制 Google Search，洛杉磯學區宣布率先停用 AI Overviews",
+          "source": "NBC Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdV95TGR0bUZRZ1BNVUpoMDMyREtlOFJkWllwMU1UdERnMWNSVmlhTHFDLUNweGJUXzg2dEdJVFRsbnRYN1dhWXBJeDZaYzkzekM5cGxZRjVOenRlWGlOTXphTmc1Vlg3dkZ1Z1BGS2hsb190dWVXV1lGZmxnZFlpR09YaWk5RUdyS3NoV056d0lKNV8zMVdvVjJMZ3VYNHV2SnYzUWFCTWwxQdIBsgFBVV95cUxQTFZJeHRrUTFjQ2pndElYWFB5T0ZyaEQwS2E5SWNuNWg4bGpPd05keUZaallsdEFrWHphbWVjWVdUbGkxQXIyZmowZlBjSUdLa0ZHZlhsLWx6ek44WWlIbUdQZ1Z5UVdkVXVKaHZ2bzczMG9UMUtlcVUxMDFvcW1NenF4Sl9pOHRBcndmeTVzNHF4bXViSmxEel9FQUNTQlVZMzRXbHlnLVVxRjBYc2JhNndn?oc=5"
+        },
+        {
+          "title": "Anthropic 敲定以每股 83 美元定價公開上市，估值突破預期上限展現華爾街瘋狂需求",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
+        },
+        {
+          "title": "Nginx 驚爆未授權遠端代碼執行（RCE）重大零日漏洞，全球數百萬 Web 伺服器面臨失陷威脅",
+          "source": "Hacker News",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+        },
+        {
+          "title": "Vercel 正式釋出專為 Agent 打造的 UI SDK，推動前端全面邁向組件式動態智慧體時代",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/vercel-ui-sdk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "顛覆傳統審計！KPMG 臨床實測大模型 Agent 提問專業度全面超越資深會計師",
+          "source": "Hacker News",
+          "url": "https://www.infoq.com/news/2026/11/datadog-ai-agent-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "微軟執行長納德拉震撼示警：面對新型 AI 網路攻擊，大量關鍵基礎設施根本「無從修補」",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQ3JieUUxQkdyelMxelhaUUdmaTFlSTFva2pnR2FHY08wbXdmT01JVk56aUVHRGtQRUFhc1J2SFR0cEp4THBGc3M3aGhlalE3MUlEb3dQbElfREZhYlVjemROWDRVRm51QXVIakZKM2pmZi03by1hUi1FN04?oc=5"
+        },
+        {
+          "title": "arXiv 前沿論文揭密：大語言模型內部是否擁有穩定世界觀？探討 AI 價值體系與認知偏見",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83Zm9BTExlbEQ1UUUwa0F5UmRScjJCSjlzWUxyODc0RTctc1Y1b2QxVG1wcFQtTFZLdVc4S3pMZ0xvdWMtMXNr?oc=5"
+        },
+        {
+          "title": "[Python] HKUDS / CLI-Anything (★59727)",
+          "source": "GitHub",
+          "url": "https://github.com/HKUDS/CLI-Anything"
+        },
+        {
+          "title": "[Rust] astral-sh / uv (★92226)",
+          "source": "GitHub",
+          "url": "https://github.com/astral-sh/uv"
+        },
+        {
+          "title": "[Python] google-research / paper-orchestra (★4269)",
+          "source": "GitHub",
+          "url": "https://github.com/google-research/paper-orchestra"
+        },
+        {
+          "title": "[JavaScript] sveltejs / svelte (★89622)",
+          "source": "GitHub",
+          "url": "https://github.com/sveltejs/svelte"
+        },
+        {
+          "title": "兒少速食習慣加劇零食視覺刺激暴吃行為之神經行為學研究",
+          "source": "JAMA (Google News)",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01546-1/fulltext?rss=yes"
+        },
+        {
+          "title": "GFR 斜率作為慢性腎臟病進展至腎衰竭臨床試驗替代終點之統合分析補遺",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04798-5"
+        },
+        {
+          "title": "世衛組織（WHO）下一任總幹事七大候選人底定與全球公衛治理重塑挑戰",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02295-6/fulltext?rss=yes"
+        },
+        {
+          "title": "佛奇倫敦演講遭遇抗議：後疫情時代公共衛生溝通困境與信任重建",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02284-1/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "title": "新聞雷達 (2026-11-18)",
