@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-11-20T08:32:56.500790",
+  "last_updated": "2026-11-21T11:00:39.360798",
   "daily": [
+    {
+      "date": "2026-11-21",
+      "title": "新聞雷達 (2026-11-21)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-21-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "俄羅斯獨立媒體最後燈火熄滅：諾貝爾和平獎得主主編之《新報》宣布正式停刊",
+          "source": "BBC World News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5haHlSaVNZbnhLdlhRdW5Na3pyNDlrSHlneWdkQlRQbnJaUEd1M2ZpVFBoUjZqMnFHclBsQmd0a1gxcVpxcE9UNHkzTjVfbE9KYjBlbkdNa25SVVk?oc=5"
+        },
+        {
+          "title": "聯合國重磅人權報告警示：全球四分之一已婚女性無法在婚姻中拒絕性行為",
+          "source": "The Guardian World (English)",
+          "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa"
+        },
+        {
+          "title": "立法院三讀通過追加預算千億撥補中油台電：拍板 2028 年 1 月前油電全面凍漲",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QcTRESjFhV1B0Rnk4NDhKVGlSQW8tbWltYjNKRWZLTURLNjJyTkNXclJJTW43alFPU0hZbm93SWMwaWhUVHBzN0RqY3FwNW5GUTlIcGFFR2NWdURhdDBF?oc=5"
+        },
+        {
+          "title": "紐約時報記者驚爆調查：輝達頂尖 AI 晶片輾轉流入共軍頂尖實驗室，助攻台海軍事推演研究",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xOXZIOWpxaEFuVWNaMWVlZTBiQ2FYRzIxU25FeWZjeldhOUtJd2REbnp3T2NOejNuVXRCVWRDRDFEWHZlNi1XUHotbHg4RTlTaWxydEtzNmhhcmp4Z1Bj?oc=5"
+        },
+        {
+          "title": "Anthropic 數學家宣稱在 Claude 協助下解開 167 年數學世紀難題「黎曼猜想」",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU96R3pxbVo0NDIzSUl5Szd6T0VkZzRUY1F3RE9NUnRPWU1tbnBRZkVPOWNDclpHX3hUTXo1QndXdENHb2Q1cFU2WnVwLWp0eG00dDFWcTBNR042Y3NFdUdtZGY4ODZUSnRTMFZGUnNFNFYyRGdvaHJCdVNra2k0T2NTeDZnbTdHcE83WQ?oc=5"
+        },
+        {
+          "title": "蘋果加速投入 AI 智慧體戰局：外媒爆料正秘密研發自研 Agent 力抗 OpenAI 與 Anthropic",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5"
+        },
+        {
+          "title": "Google 賦予 Gemini 直接操控 Mac 電腦能力：AI 自動接管本機瑣碎日常操作",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSThGaHNJVDVxYlFXVDBLdkk5Y2JhcFRYbXBTRjBBQkxYajNXX2V0YUJfUWxIR3VSVlp5MGNSOG0wZE00SHQ3dmNqN05aMU40aDNZVks2VllzMGlKa0pkbXFzOXdZU2Y1dEJGWENuUTBGVlU0R3MzRkpQeThmNUhtZA?oc=5"
+        },
+        {
+          "title": "甲骨文宣布 OpenAI 算力基礎設施協議完成全額融資：化解資本支出疑慮全力衝刺 AGI",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5"
+        },
+        {
+          "title": "Spotify 創辦人 Daniel Ek 跨界重金注資：支持前 AI 科學家創辦核融合發電新創 Europa Fusion",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+        },
+        {
+          "title": "資安專家緊急示警：AI 從業人員已成新型「美人計」網路間諜釣魚活動之頭號獵物",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+        },
+        {
+          "title": "Meta 正式發表 TLX GPU 原生編譯器擴充：打通 Triton 高階抽象與先進硬體底層運算瓶頸",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "Google 正式向 CNCF 捐贈 Agent Substrate 與 gVisor：推動大規模自主 AI 智慧體安全沙盒治理",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "腦膜炎雙球菌 B 型疫苗意外帶來預防淋病感染之交叉保護效果",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2611609?af=R&rss=currentIssue"
+        },
+        {
+          "title": "回復性自體皮膚移植療法突破隱性營養不良型水皰症治療瓶頸",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2517823?af=R&rss=currentIssue"
+        },
+        {
+          "title": "抗體藥物複合體重塑第三代 EGFR-TKI 抗藥後晚期非小細胞肺癌治療格局",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02260-9/fulltext?rss=yes"
+        },
+        {
+          "title": "新型 Trop-2 標靶 ADC 藥物 Sacituzumab Tirumotecan 顯著延長經治晚期子宮內膜癌患者生存期",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02250-6/fulltext?rss=yes"
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "title": "新聞雷達 (2026-11-20)",
