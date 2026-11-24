@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-11-23T10:18:45.089949",
+  "last_updated": "2026-11-24T08:09:26.108315",
   "daily": [
+    {
+      "date": "2026-11-24",
+      "title": "新聞雷達 (2026-11-24)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-24-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "川普自曝強力介入促成黃仁勳回鍋輝達重掌執行長大權",
+          "source": "BBC World News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLU9yX2djdGRQV01hM0llUENSZ0U3a1YzQU1WdWx5Z0dMMVJGUFduWkhJTjBxOHVVeE9SN1lyaE1sNjdJYWVENzhrRUJ2cXNUZEZHaUpRUHE0UXM?oc=5"
+        },
+        {
+          "title": "澤倫斯基重砲痛批普丁為「冷血殺手」，回擊川普稱俄國領袖為友言論",
+          "source": "BBC World News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIeHREUXVtMlFkclhOd2tqMzZ0SVVraDgxLWozMm9wVnZINkJEeG1kQzlwQzZqdndOZzJTQjN3NUVsamliV1NGREpmS1RhM3BERTNOYVc4TWMxLUJTMEE?oc=5"
+        },
+        {
+          "title": "黃仁勳戲劇性回鍋執掌輝達，台指期夜盤飆漲停站回 4 萬點大關",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tU0c3T1l0YTV2SDZCN2dkMTFCTmFyZXoxVWxlUkF1SjRlWWtWeXN0SnJoam1ibU10N2Mzd1Q5cnhENEFlY1pVWGR4eEhDWVFwSzRFSUZfYTF0SW5rUVE?oc=5"
+        },
+        {
+          "title": "投票日高鐵預估湧現返鄉人潮，北部三大車站實施自由座人流管制",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tU0c3T1l0YTV2SDZCN2dkMTFCTmFyZXoxVWxlUkF1SjRlWWtWeXN0SnJoam1ibU10N2Mzd1Q5cnhENEFlY1pVWGR4eEhDWVFwSzRFSUZfYTF0SW5rUVE?oc=5"
+        },
+        {
+          "title": "沙烏地工程師利用 OpenAI 氛圍寫碼 (Vibe-Coding) 工具高效竊聽辦公室",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHRmbW5Ia1lSOVcyUjF2MGlPdG04dXc1Y242MUZoMVNzNFBmdC13R2VLSW9SRlRyNExZaUtsTFhWanNaNDlkNlMtaFFJWXhQNjFiOU1UN2JvYXhvOVYxU0NfN29Ic2Zla1RWMUViU0xTVnNfUGVUNGdabTJrNVZpelZsX25mSlltSlh6LUwxU0VSX3dMa180?oc=5"
+        },
+        {
+          "title": "Anthropic 推出 Claude Ship：由 AI 代理接管程式碼審查、修復與批准上線",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5"
+        },
+        {
+          "title": "Google 於 Gemini API 推出精細化檔案切片控制功能 (File Slicing Controls)",
+          "source": "Google AI Blog",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmRGbmJqX0VpT0hPa1NPLVUwNnV5VWw4el9SMDcyTXpPTkpWNlN0dnE3MnZJSFRxSThDSGNteFFmeFU0VVlwQ0dfY3U0aHJ6SUdXc0ZtSERheWVPY1h3NGNwTjlDNWp4am04MGs3TXlWMk41UVJqYzF1emYtQlR4cExnZjNJV1IxUkMyb05pYWFadw?oc=5"
+        },
+        {
+          "title": "丹納赫 (Danaher) 攜手微軟打造醫療與生命科學專用 Agentic AI 智慧平台",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNURxVTUtbTlQSWpuSlJDWWtrZEZiZ3VMRXYxNlVUNFpZZ21rdXdQLThieDRkRHF4LUczMDFjWlBlQS1SWDBvOHBETExYRUhsb1Fjbjk3eXRfekw4eFBKaDVLaFF6a0hJa2s1RlJRdTFVem1GbEZHOVprVl9abndYRFoyLWppWk40dy1ZeFhHS1FwSVlTdklpcHE2M3JQSEdZZ2d1eXZsUUQ?oc=5"
+        },
+        {
+          "title": "新創 Supertake 完成 2,000 萬美元融資：讓 AI 智慧體將市場預測直接轉為股票投資組合",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+        },
+        {
+          "title": "腦機介面新創 Paradromics 導入輝達軟硬體架構，加速大腦神經信號極速運算",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+        },
+        {
+          "title": "開源郵件系統 Stalwart 迎來重大突破：成為微軟 Exchange 的無痛開源替代方案",
+          "source": "Hacker News",
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/"
+        },
+        {
+          "title": "Claude Code 實驗性加入「Code Mode」：支援用 JavaScript 編排多步驟工具鏈呼叫",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/claude-code-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 發表 SWE-CoWork 基準測試：首度評測 AI 程式設計智慧體作為企業數位員工之協同能力",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hLUJCMVI0RnJFWGdKNk8zX19rRGF5WHhZT0VkN1VUaFFtdFhZMndOWG0wbWpUX2t4Rzl3Mmtibk5wN21wRHV3?oc=5"
+        },
+        {
+          "title": "治癒美國偏鄉醫療：邁向以社區為核心的學習型健康照護系統",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMsr2607321?af=R&rss=currentIssue"
+        },
+        {
+          "title": "關鍵時刻：面對核子戰爭危機，全球醫學與公衛體系之防禦責任評述",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02246-4/fulltext?rss=yes"
+        },
+        {
+          "title": "JAMA 最新研究：特定飲食法可顯著降低三成失智風險，超商飲食也能輕鬆實踐",
+          "source": "JAMA (Google News)",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEtNQnNRMWo0LWp5a2RmcWlLQkFlY045TUY1VGQ0X2t5WDV2NUV0Vkx6ZW92QURteVdFYTFTU18tVlZ5YjNYcnZlT0FQa1pvcllVcnNzR0Q5UTZoem1KVE9qRnFDSUlpUnpzVHFTcTNoOG50YWM3TWhQYXpfX09OTy04Zw?oc=5"
+        },
+        {
+          "title": "生物醫學研究之現代細胞分析法：從傳統技術走向 AI 驅動之高內涵分析 (HCA)",
+          "source": "PubMed AI Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43061281/"
+        },
+        {
+          "title": "Nature Medicine 發表臨床試驗倫理爭議：視神經脊髓炎 (NMOSD) 試驗是否應保留安慰劑對照組之深度辯論",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04781-0"
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "title": "新聞雷達 (2026-11-23)",
