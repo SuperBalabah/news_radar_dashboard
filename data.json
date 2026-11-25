@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-11-24T08:09:26.108315",
+  "last_updated": "2026-11-25T08:16:55.689380",
   "daily": [
+    {
+      "date": "2026-11-25",
+      "title": "新聞雷達 (2026-11-25)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-25-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "外洩機密數據曝光：俄羅斯為力挺馬利軍政府，三年內已有逾 300 名俄籍戰士喪生",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data"
+        },
+        {
+          "title": "美國司法部長閃爍其詞！迴避對輝達反壟斷與國安調查相關提問",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMzczN1VVbmtXRXpiVWdmZjlyUXllRTdXaDBlYm1PWXJpcGdVd0x5ejAwMVdyYXRTcmV2OS05bWl0MG50MUtoeGFoNjJlSjBxRnRWSlFNUnNFWm8?oc=5"
+        },
+        {
+          "title": "台商赴中國投資暴跌至 1.1% 創歷史新低，全球供應鏈轉移與融資壁壘成定局",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByajF3S0ZZcFZiYVE3LXlOcEVNcHhXVndEUGR0VVY2X1lUb1ptODNpSHZfYS03QkxlREM4aGkzdGFuMGZvd3g3czBDRlM1cnMxczlHQWlXZEtHWENkNC1Z?oc=5"
+        },
+        {
+          "title": "Anthropic 掛牌第 4 天股價摜破 83 美元發行價，市值面臨蒸發近 2,000 億美元",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5"
+        },
+        {
+          "title": "兩大頂尖實驗室內部拉警報！OpenAI 與 Anthropic 員工憂心未公開模型「過於危險難以控制」",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5"
+        },
+        {
+          "title": "Google 聯手 Kaggle 推出「人類第一場大考 (Humanity’s First Exam)」，設立嚴苛基準實測大模型可靠度",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZndyalo1NGlxbHFTMk5kQXhSakdGTVBMSzh6bGJXS1JvN2ZndWlyZVQzZmVOTGcwc0VrR01odXRBbmJBTXZ0dTJhdmNXM2ktVnlIaWtKanMzRkVUUGJRV01xZE1KWER3RngzamFSVXllYVZqVUN5TU5xZ2g3Q2NnSzcyN1hfcW5fX0x1MEFLb0xqX0pzdEMwOFU2UQ?oc=5"
+        },
+        {
+          "title": "微軟發動價格反擊戰！擬推出更平價、高度專業化的輕量垂直 AI 模型挑戰 OpenAI 與 Anthropic",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5"
+        },
+        {
+          "title": "OpenAI 發表重磅研究：GPT-6 系列模型展現出原生內在的蛋白質分子設計能力",
+          "source": "Hacker News",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+        },
+        {
+          "title": "次世代 Agent 金流基礎設施！YC 新創 Versine 推出專為 AI 智慧體收發款項之 MCP 協定",
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=50634426"
+        },
+        {
+          "title": "雲原生基金會 CNCF 調查報告：隨著 AI 與 Agent 負載爆發，高隔離性虛擬機（VM）仍穩坐生產核心",
+          "source": "InfoQ",
+          "url": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "arXiv 前沿論文發表 Pro² Agent：專為全自主 AI 科學研發設計之「科學問題探測」智慧體框架",
+          "source": "arXiv",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5VcEhDN19OQUhvVTBHZ1NZQXplZ1h5MGViY3pfMXdjNHVfYWFRVVJVMXVuSk9aTktyeTJQazItQUZFZDEteHlZ?oc=5"
+        },
+        {
+          "title": "生成式 AI 作為心理傾訴對象與憂鬱症狀關聯之流行病學調查",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80R2Q2UWRYMEx0V05uM0NlWXhXRFlxa0lidVRYalItSmV4cjd6RFJjU1o1THg3WTdBS09GOWlTeVJDSU5Jbi1jWXI5TUVQeGZ5OERxd1dIVUVvWHhEQ1RqaDJ1ZkplSjJncDdWczhVY2lBLXFU?oc=5"
+        },
+        {
+          "title": "大語言模型臨床診斷能力評測與臨床決策責任歸屬空白探討",
+          "source": "JAMA",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUTU4czE5Z1h1UklveWQ5c0NvNGNjYlpwZ0dDSGlaUUowZ1FQSENhWlVPMTR2SmF6aW92emNBeDRtTG1uMWU0SVhVQzBQY05pdzZGcWpnbmRhTjFsNFUxYXJkRHh5dTF3Z2tMQmxpSDgyN0hVOTk4?oc=5"
+        },
+        {
+          "title": "代謝功能障礙相關脂肪性肝病 (MASLD) 影像與血清生物標記臨床驗證研究更正",
+          "source": "Nature Medicine",
+          "url": "https://www.nature.com/articles/s41591-026-04803-x"
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "title": "新聞雷達 (2026-11-24)",
