@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-11-25T08:16:55.689380",
+  "last_updated": "2026-11-26T08:13:24.349420",
   "daily": [
+    {
+      "date": "2026-11-26",
+      "title": "新聞雷達 (2026-11-26)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-26-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "COP31 聯合國氣候大會無協議破局落幕：全球減碳責任分攤陷入死胡同",
+          "source": "BBC World News (English)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSW1ZRU5ncl9nVG5YQy1YWndtUmVEc0Zxc2dpSmptZVV6bXdCTHZwSzJmb1NXQmk4TGcxdTYxaDNITl9pd0JIa0Y3VThtNlNaWHRFYjJNVmpMbFU?oc=5"
+        },
+        {
+          "title": "中國神舟二十四號順利升空：首度搭載巴基斯坦太空人進駐「天宮」太空站",
+          "source": "Google 新聞 (台灣頭條)",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3cmtBM2dVbUZiREZseXRvYkN0OEp1QzZfWlBDeUlKaG8yMjE4Sjg4R0FQVGpYUGhvS29oczZsbGU3bERtdXliRVR5MEl3bFJuYnA3ekJEei1BZmNmV0RXelBsRXFTUlHSAWxBVV95cUxQb1BmYVFrc1lYN1NIRVEtWjFtZ0VxQVd6cHVPNkZPMEdlNVgwZXFLbTljY18xNW1rMF9ucHRCcmlyOFVUVXZzS0VDd1ZWaVpkbTl1V2V4b21JX1FmU20xN3FqMzNyQXBhYXJZaDI?oc=5"
+        },
+        {
+          "title": "美國 301 調查擬對 14 個經濟體開徵高關稅：台灣協議稅率恐至少 15% 起跳",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jaTZUaVhqZ3NZUUdjMUJ2Qm95LXdPUVM3THNCMHVxS0FIUUNiSHp2cVZ1bFplc2gtb2ZCMTdNanA4Sm52OXA5NGtIdTFzdnBGMjNyVnF2czRzbGpPeklv?oc=5"
+        },
+        {
+          "title": "台積電亞利桑那廠 12/4 盛大舉行擴建典禮：外傳評估先進 2 奈米新廠落腳德州",
+          "source": "中央社 (Google 新聞)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44dGRvWTdySXJ2TGl3UnRMU2tleHByY192Zk9UZU5TZzFCb2dDMDdqcVA0SkpGbHZ6S2NRbGtfU0t5Q0hOVGhSbGpNZnNsZEJiTmFlVWstT0phdkVOSFE?oc=5"
+        },
+        {
+          "title": "微軟重大雲端當機後內部宣告「紅色警戒 (Code Red)」：全面徹查系統性崩潰隱患",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWlZRm9kdXdaMDkwUWdXZVZPM2NTakFfZTFDa3Iwcm5yNXh4enZZVWRpWjBuc2ZpVERzOElVc0h5NjY4eXZnb0w5YUZ4Wm1nRmUwd04xQmNKZDQxOFlQWk12N0FCd3hSQTVLVFFWZmJKbm01S0pCM1AwRXVRZklpdWJfdkJ1N0FDdS1EZGNqTzd4WjZoUy1qZ1QwNktXdUlMWlBDYW9jYlozNEVDV01DSGZlVVc?oc=5"
+        },
+        {
+          "title": "Anthropic 執行長 Dario Amodei 嚴詞反駁「人類向 AI 放棄控制權」論調荒謬",
+          "source": "Anthropic News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUpCVnRsTUZodmZXMnpjbmtQT0lSM2VhdHI3elpLdG5CazQ2TjlzcHdiMExjX3J6NTJTcUNfLXNZVW4xUk9uV3FXS0xCRGxfY3VST2tHUFJYaUhkaFFfS1FVR2hTbVFDa0QxaE1ERWh2aWk3QjZnbzFHY052Zk1JTWVyWDF2QzRXRGtJQ0ZTbUJSNmVHM25BTU9mQzUzbHZMU0I2RVBRaVJZcUN2X3VGdGVFMlYyVEtBTHE0?oc=5"
+        },
+        {
+          "title": "預測市場全面推遲 OpenAI 上市時程：市場預估獨立 IPO 最快恐延後至 2027 年",
+          "source": "OpenAI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1QtdE95dUdaZ2Y1R1hLV3FidmtBRmdPWnlUdEU0MVRDSFNjU0xZa20wczZMVU16eVBqOEhjbG1pMHJaN0ZvMUJ3WV9EQXJMYU1aaFZPYlZ2T21SemMzNm9XRl9RVElEVTNKNmRJXzktRUs2ZTNaN2lNcU5OcERrelhR0gGHAUFVX3lxTE9tbWZXOWQ5Z2ttSGpUcWx0Nm5mNlY3R3NPczRRVEpEYk1WMjBOM2MtNzV2SE54a3VHbUtlaHNkVzJ3eURRT20yOHRmdmVkRC1vekhqSFJMZkRuSlE5aExRQzEtYzRDSU0xTEtPWmlPMHV5Y2xMRlRQcGxpUXBVdm1RNE80WVZBWQ?oc=5"
+        },
+        {
+          "title": "微軟示警黑客武器化自主 AI 框架：發布 ARTEX 威脅情報提醒資安人員嚴防惡意代理",
+          "source": "Microsoft AI News (US English)",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzh4enZzVDh3MXNzbnkzNUxyYWZTUkItNmtxbS0xQlNqNERIYVNvYlU5U2ViSmgza2JIbXJDclBWamczdDVNNnBuc25NMWVhQUNNMUFYbFhNTTFiVy1DcTl4X2M0dnJvbE8xajQ5bld5VjF2UTRqcDZxQUFyWEcyZW9TQmhsSi1naDBlU3doX2l6dEpuSGV1Q0lFSEVucEY2RFlHdVhKcnZsd0NPaWo0S1pBeW5NQk56bFFxWHVGbFU3ZlQ5QWoyLUZjT2I?oc=5"
+        },
+        {
+          "title": "美國 FCC 正式批准 SpaceX 太空軌道部署 AI 資料中心計畫",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        },
+        {
+          "title": "Google DeepMind 發表 Gemini Robotics 2.5 視覺語言動作模型：讓機器人動作更靈巧且安全",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "1Password 突發通報 11 月資安防護事件：說明防禦進度與威脅緩解",
+          "source": "Hacker News",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
+        },
+        {
+          "title": "前沿研究驚人突破：大語言模型竟能透過上下文反思改寫自身權重",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CM1lBR1JCRzl0NnI1YXV3YjljQTNOQzJmZW9EdlZCcjU5S01OR1Exd3Vib0d1djNOSnBPaDhUa0RVY2ozemhF?oc=5"
+        },
+        {
+          "title": "STEP Young 臨床三期試驗：司美格魯肽 (Semaglutide) 顯著改善兒童肥胖與代謝指標",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00059-7"
+        },
+        {
+          "title": "12 年長期前瞻性追蹤研究：兩種日常作息破碎模式恐使失智症風險倍增",
+          "source": "JAMA (Google News)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LdExIaDZ0VmNrMS1xdVEzUXBFN1cwanREYTIzZlYwWlU0THdFckxCV2lwb0wwU085WjlzaVFqVC0ySjVqZFAyUzJUMWd0S01ZVzZuNDZYZVgxaUNyTXFkbnUwZ9IBY0FVX3lxTE1LdExIaDZ0VmNrMS1xdVEzUXBFN1cwanREYTIzZlYwWlU0THdFckxCV2lwb0wwU085WjlzaVFqVC0ySjVqZFAyUzJUMWd0S01ZVzZuNDZYZVgxaUNyTXFkbnUwZw?oc=5"
+        },
+        {
+          "title": "逾 20 萬人大型回溯隊列研究：長假結束首日心臟驟停猝死風險激增 9%",
+          "source": "JAMA (Google News)",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnpTWUZUU3d6bWFWaXJRaGlRWEpnWUJuMVN6QkNmWWNIOURsSHhqZ2oyMVhsUGVjR0Y2bkZqeC1FOWRzSFNVcXVyNUEwUnNwTDFwaXVwLVBrRXpNRlUyTjdNWmF3bjE5MFpHSnRHZkRrWWRBYVJRVlByM2lFZGtnSEZQTkRxQmxzdVpVQml0V24wUHlWbENQS0JTWktiSHpEYkZRTUxKeUoyd24wLUhxdVdVbjhPTHNSYk1aOA?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "title": "新聞雷達 (2026-11-25)",
