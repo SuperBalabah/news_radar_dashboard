@@ -1,6 +1,93 @@
 {
-  "last_updated": "2026-11-26T08:13:24.349420",
+  "last_updated": "2026-11-27T08:20:01.430695",
   "daily": [
+    {
+      "date": "2026-11-27",
+      "title": "新聞雷達 (2026-11-27)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-27-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "埃及開羅環城公路油罐車連環追撞爆炸大火，至少 31 人罹難",
+          "source": "The Guardian World (English)",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+        },
+        {
+          "title": "阿聯前駐聯合國代表努賽貝角逐聯合國秘書長，力甩蘇丹內戰人權陰影",
+          "source": "The Guardian World (English)",
+          "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general"
+        },
+        {
+          "title": "立法院咨請總統府公布普發 2 萬元特別條例，行政院最晚表態副署時限將至",
+          "source": "Google 新聞 (台灣頭條)",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lRmN5a2ZOZG9OTkc5OTNCU3NtbGkwY0dKNk5oM051aWRnY1dqT09KZUhHLXNuSUI2bWJLdkxUNGhkOXNjM1RvRnZQYlQxVDho0gFWQVVfeXFMTm5lNHFaTnhXeDBLNktBZXVxd3FuOHp3ZHRuNnB2TFA1VmFWa05OdVVkMTlJaTE2WGFISEJNYmNQOThpTHZlQm9yM0x1bjR6TUVpMEFINFE?oc=5"
+        },
+        {
+          "title": "沈伯洋破天荒取消選前之夜實體晚會，轉戰全日走訪與線上直播衝刺",
+          "source": "Google 新聞 (台灣頭條)",
+          "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQdmZ2UENxdUFHSHVnWTdva2Zsa3EzVjl0MnUzZ0NfOV83U0pMQlBPbEN5ZTFLM0x6VUZTMGpvU3U1YVVzcHlMekd2TDBlcUNSeTRqbHNVdmRYa1pXbFA0T3BVX20yM1ZHR1p3Vk1xNTE3eDRrMURvOTNmNHh6MEVUZFJmWlRLT0g4cnBIQzh6NklQSV9fUV9WN21KaW1UbEJKMF9ZdW5DWUw3SDRCWTlYaU9VRC1TMGQ1Nll0RDhST2x1VEVRNjlkeHNoSGNiVE1MWEhVWjZLZy1KaHZVbzlhZW1pSDdaUlF0dnEwWE0xUTlDZkEzXzFMblNhNm9nZFJYQkJlRTVNWFI0cGZDa3g1T19jWTlqV0pLbVVaUjNIcC0xdEhnR1ZZUm02QXQzTkdkSjhXMUZ4SUw2dzUzMkQ4WmpSeTMxYWx4VEZESGtwaDlPTkdyNlFaYTQ1NE5JOE5veUtBUE9tb2RsNnRfN0RkNk1LalFnVzdkX2phZXJ0Ujc5dGxUQXpfSTNBREFUWXZEV01rZDRtSXpMUW9uTkxfWktaRDk2dWwxWWs3UTJraERxd1RoejF1cDFja3V2c0kxNU1xaENhLU1FZDdOYThBWlVUYXJ2Z2NhWHE3bXVHMk4zbUZaWDJxSkVYUmdyWjJJX2VBSUUycTFZUHNmWVBFWDZtS250eDg?oc=5"
+        },
+        {
+          "title": "Tony Fadell 爆料：蘋果緊鎖使用者數據防線，逼得 Sam Altman 必須打造實體 AI 硬體",
+          "source": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOC1ablRUWlFkY1k3MWlpZ0RZYzh2LTVfb01ZRUFTeFMxWXBzWElBVmhpMEVwd3JRbXBXR0ZGdTRRc19BMFdtQlBqODZZZ09OeXhfRlU2Nzk3d1pCVTVHdlpld1VYOUVNWjZMckluZTg4dnJWaEpOdUYtMVRHLXhyRHBiSDk5QnUtRTBKM2ZRRU5JMDlDZmFCYTdabGFEUUdQMHlDWWR4cVJGeFNSVUxrUkthd0VVTWZkVTZTWTY5b3UwQ3I4LVljODZrbmlFYXNqQUMxeGR6YklKOEw5ZF9YQ0NxX1pDMlNsUWpVblJTamp0b3lZOFlrMmpORkZ6ejZUUnJ6RGM5OA?oc=5"
+        },
+        {
+          "title": "Anthropic 上市後股價在發行價 83 美元震盪，華爾街投行罕見爆發多空對決",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0tLeHhIUXZiclNrSlZmcy1VUzFWb0pQN2RuX2ExcGlZaWtabFJaQ3pyTHpxTnNhRms3NDNJT0Y2eFkzeFVWM3VMVXhTdTNqNjY4SjJ1SDhDejQtamw2M0RKZWdXYzlsczJ0UkZEV1RXNUtRNndFaEotNzJ1bzh4VHZiUmdjNGY0RnRlUg?oc=5"
+        },
+        {
+          "title": "Google 發動激進 AI 定價戰，逼迫 Anthropic 與競爭對手陷入毛利保衛戰",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXZiRkUtTHZWMGozaGVrc0s5QWNCNmxrVkVNcDJhVlNpSUhYdHhHMTRYYmFwcDN5Tk5XMXN6ZHVrYzZ4QW9XeFlYS2dGaDZnaFlsMkFCWDRXUFdDQmdZaXRzWE1tVXRraUpucFpxLWNCQ1Z3aGlUbTNTLV9YaGRmcFZLbjhDcFkydmVtdjhvZXVSdFVrcTV3UFVR?oc=5"
+        },
+        {
+          "title": "微軟 AI 執行長 Mustafa Suleyman 坦言神經緊繃，直呼近三個月如履薄冰",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNbEU0cWd2ZUV1QXh6OVhtYWZ3NzF1TkNvdDRPRGFDUEZjY3lTTUZvaDB1UUJPSFBYNy1PQV92Wkt0R2VQZ1BzNlA3eGVwSHpIbExndzBQSk9DZDdxRC03SUVpcVc2amtzSXFrUHpoRENPVzRVUTh3T3BuRENyd09fUHBiVGNTU0gtWDVNbDlEQVUyUkhKU09Zc3RmQ19NaUhCaS1yTHprZm5MQzRuSkFNenNEMnRSVE9UUk51ODZkSWZDNVI5bXYwcXE5RUl5SzQ2UFdrOGQ3LUFSLUNXV0E5QnpkN2RocEcxNnRaTTZJcnoxaFVJLXZfMjVQcFJFM2dUV2k3ejZpeXVlZ0lsZkZuOW1JV3VjSS14UVc3YWpHY2xFaGMxZUVUbjlHTWN6WVphOGI3bVFBVkx2RU9LcGFjWHVVR1VwMVlMVkJzZUVuMm5oRUhrak54MU5jbDV3TVJTRjE1M2hIV3YyYWdZZ3RR0gH0AkFVX3lxTE9qazVFc1BaOWl1OWpZMzNjT2tLT1N0X3htQVpjZ25obTRqbW85YUp5YUY0aXRwZE13TDhBbm5DdHg1OU9QcXNuUWxTWkQxWi1ZdDVJREdTUjNzUjJEZm5OR0JFVU01Mlg1MUlfVUtaY1g5aWxrV3h0b0Myem5zZHZaaWZjU1lQeTZjUWdyS2liMlEyQnVTWWNnaTBUMjVqUElLa3J3TlY5V0JSRVkxNDBGdnhPX3NtUGVjbmIzbWE3ZVlLZUFIYXBKU3hOSkpidWFPWTQ5Z2hxazhiYWQ4bnJkaTJKQkJhTVRrSkw4QzhMZC1RN3ZOVlBuYWF3VDIwUF9QaEE5anRmbXhJaDZtVTF0VURWcWRjMnUtejN5bUQ3cWZKejBNbmtsZXFjQjliWmh4Y3JuV2JpSmduT0Z1Q20tcXp2VVlsM21aSGxRQ0wtYXNkMEk0QnVfR054WWtYMVNER2tyQWlDRHVlVTRlSl93UElDdA?oc=5"
+        },
+        {
+          "title": "配合美出口禁令防堵轉口中國，輝達全面暫停向東南亞四國出貨伺服器",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "title": "Vercel 推出實驗性協作看板 Board，打造人類與編碼智慧體無縫派工中樞",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "社群釋出專為 AMD GPU 深度調校之 llama.cpp 分支版本",
+          "source": "Hacker News",
+          "url": "https://devnull.land/amd-specific-llama-cpp"
+        },
+        {
+          "title": "arXiv 發表 ShellBench 評測基準：深入探討日常任務中 Agent 模型與執行框架的影響權重",
+          "source": "ArXiv cs.AI",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1paE1zc3EwMTFxOENMRmhqRlhMTWxpSy1acWhBV3RweHFFRWNSc0UzTUV6Q2NjcmxBdGdLd3pURjRsQTRBWUlN?oc=5"
+        },
+        {
+          "title": "心血管全面風險譜系下之降血壓治療獲益全景評估",
+          "source": "NEJM",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607848?af=R&rss=currentIssue"
+        },
+        {
+          "title": "侵入式皮層微電極陣列人體植入逾 20 年長期穩定性與訊號表現驗證",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04530-3"
+        },
+        {
+          "title": "麻疹疫情死灰復燃引發公衛危機，美國正式失去麻疹實質消除國地位",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02407-4/fulltext?rss=yes"
+        },
+        {
+          "title": "消化道內視鏡導入 AI 即時影像輔助，精準揪出隱蔽扁平息肉防堵癌變",
+          "source": "JAMA (Google News)",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80R2Q2UWRYMEx0V05uM0NlWXhXRFlxa0lidVRYalItSmV4cjd6RFJjU1o1THg3WTdBS09GOWlTeVJDSU5Jbi1jWXI5TUVQeGZ5OERxd1dIVUVvWHhEQ1RqaDJ1ZkplSjJncDdWczhVY2lBLXFU?oc=5"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "title": "新聞雷達 (2026-11-26)",
