@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-11-27T08:20:01.430695",
+  "last_updated": "2026-11-28T13:17:04.535691",
   "daily": [
+    {
+      "date": "2026-11-28",
+      "title": "新聞雷達 (2026-11-28)",
+      "file_path": "News_Report/新聞雷達/2026/11/2026-11-28-新聞雷達.md",
+      "headlines": [
+        {
+          "title": "澤倫斯基接受 BBC 專訪直言美方過度聚焦中東衝突、對俄施壓嚴重不足",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tUGxKaGNZU2YwUmlfUmZpMGo5WUswYnFkTXNOckZYMWpQbmllaVdCSFM0OVJaMUlMeDJ6R2ppaDJDZzVLemVoZURkU0RPME9aNU1RYlIzWmFsdXA2OUE?oc=5"
+        },
+        {
+          "title": "BBC 爆發空前反猶太主義公信力風暴，老牌公媒中立光環遭遇嚴峻考驗",
+          "source": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PRVhIVmhjb2lMczlPYW1fQ2s2TzdTQmVUQ3R0LWlEWWJXT1MyOHJDUnpIM3piLTFrdnlSWjlITmJtMGZzMi1wSm9vU0xXaHVEblBnYWwycXNKM0hWWFJoOFQwU3laTGVLbWtYN1NMdTQtN3U2NDdEcWR3?oc=5"
+        },
+        {
+          "title": "主計總處大幅上修全年經濟成長預估至 13.28%，創近半世紀歷史新高",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aQW5XUGFlZkt5OG1zZTc4SEloc3o5MVNzNlY3N2d3am9aNFlZQ194eUlqWENKWWxFeWZMQVIyZ2hFZ2haSG92WDZ4Qk9HYlhCSjBuQkNJLUNwQjFtYWc?oc=5"
+        },
+        {
+          "title": "2026 全台九合一地方大選今日登場，中選會重申零時起全面禁止競助選行為",
+          "source": "中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXdDJkQVNzbldOalFuZ3RMZzNfQXpQSDNRV2dia1Bsc0x2NXVmTHpXT2RuTldtY3BSaU1TaEwxRVhoRVBhRGhRYThvQnpRMFdxTkdCNC1BbTU0ZkRqLWZV?oc=5"
+        },
+        {
+          "title": "OpenAI 正式反訴蘋果涉嫌竊取商業機密，雙雄盟友關係徹底破局",
+          "source": "Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFNnMVlYZkZkOXB1Sk41M093UXdVMnBDZFZQMFFKQXhWeFVYZnlDYjVfNlJ1NFBvYnA4YWp2YjdTeWxEcGlad2RRb3pCd0JLVU5HNVZxRmlYTlVBNXVzSlk5TURYYXpBZERNMmUzTUZLVFF4ZDhyY3E2emE3MWtMZEZIY3A?oc=5"
+        },
+        {
+          "title": "Google AI 搜尋摘要給出離譜中毒建議，法國毒物諮詢中心電話被求助民眾打爆",
+          "source": "Cybernews",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OU29vSEJ6cFpWWUp0NjB2WFpVa1BmX0cwUGpyaEx4RHdhRjl6SndwWFo4M0t2OF9MVjl5Yk1RMnJCTndXbDVXWUszMDVUbG15cDV2cDlhMjA5VlNScFpwa0lfcWk0VzF5QXBDVS1VVXdkRzNPNzdrcGlRQVo?oc=5"
+        },
+        {
+          "title": "微軟擴大 VS Code 內建 AI Agent 自主權，讓程式碼代理人自己看著辦",
+          "source": "Techzine Global",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWFKbmJ4SGlKak5GS2pmTC0taW5zUDBDQ2dBT2piM25OWVd3SjRFNk1oNnd2Q29fMlZ6Z2hZMGxTdWQ3amdWbFdNbW9ZSUNSWi1qdVFVTkVKTkljV0RQRFlZVGZqYWFJMXJZYzMxcFNleHJCZXRQazhtbTFZb0pmTWU4ZnZfblNLZkx4NDhVMHpCc2tYWnRobUdB?oc=5"
+        },
+        {
+          "title": "Google 揭露 DeepCrossAttention 架構：在完全不犧牲模型表現下實現最高 3 倍推論加速",
+          "source": "Hacker News",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/"
+        },
+        {
+          "title": "Meta 透過開源 PyTorch GreenLight 將程式碼自動審查與合規批准推向主流",
+          "source": "InfoQ AI News",
+          "url": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering"
+        },
+        {
+          "title": "黑五購物狂歡背後的隱形暗樁：惡意代碼利用 WebRTC 偽裝通道竊取消費者信用卡憑證",
+          "source": "Hacker News",
+          "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+        },
+        {
+          "title": "新型抗結核藥物組合臨床二期試驗評估",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/d41591-026-00060-0"
+        },
+        {
+          "title": "轉移性乳癌新興抗體藥物複合體（ADC）Izalontamab brengitecan 創新價值反思",
+          "source": "The Lancet",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02160-4/fulltext?rss=yes"
+        },
+        {
+          "title": "污水全基因體次世代定序助力大規模麻疹傳播追蹤與疫情監測",
+          "source": "Nature Medicine News",
+          "url": "https://www.nature.com/articles/s41591-026-04761-4"
+        }
+      ]
+    },
     {
       "date": "2026-11-27",
       "title": "新聞雷達 (2026-11-27)",
